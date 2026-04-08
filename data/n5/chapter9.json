@@ -1,0 +1,307 @@
+{
+  "level": "N5",
+  "chapter": 9,
+  "title": "動詞",
+  "source_headwords": {
+    "from": 81,
+    "to": 90
+  },
+  "cards": [
+    {
+      "headword_no": 81,
+      "id": "n5-ch9-081-01",
+      "kanji": "行く",
+      "reading": "いく",
+      "meaning_en": "to go",
+      "meaning_mm": "သွားသည်"
+    },
+    {
+      "headword_no": 81,
+      "id": "n5-ch9-081-02",
+      "kanji": "行きかた",
+      "reading": "いきかた",
+      "meaning_en": "how to get there",
+      "meaning_mm": "ဘယ်လိုသွားရမလဲ"
+    },
+    {
+      "headword_no": 81,
+      "id": "n5-ch9-081-03",
+      "kanji": "銀行",
+      "reading": "ぎんこう",
+      "meaning_en": "bank",
+      "meaning_mm": "ဘဏ်"
+    },
+    {
+      "headword_no": 81,
+      "id": "n5-ch9-081-04",
+      "kanji": "三行目",
+      "reading": "さんぎょうめ",
+      "meaning_en": "third line",
+      "meaning_mm": "တတိယစာကြောင်း"
+    },
+    {
+      "headword_no": 82,
+      "id": "n5-ch9-082-01",
+      "kanji": "来る",
+      "reading": "くる",
+      "meaning_en": "to come",
+      "meaning_mm": "လာသည်"
+    },
+    {
+      "headword_no": 82,
+      "id": "n5-ch9-082-02",
+      "kanji": "来年",
+      "reading": "らいねん",
+      "meaning_en": "next year",
+      "meaning_mm": "လာမည့်နှစ်"
+    },
+    {
+      "headword_no": 82,
+      "id": "n5-ch9-082-03",
+      "kanji": "来週",
+      "reading": "らいしゅう",
+      "meaning_en": "next week",
+      "meaning_mm": "လာမည့်အပတ်"
+    },
+    {
+      "headword_no": 82,
+      "id": "n5-ch9-082-04",
+      "kanji": "将来",
+      "reading": "しょうらい",
+      "meaning_en": "future",
+      "meaning_mm": "အနာဂတ်"
+    },
+    {
+      "headword_no": 83,
+      "id": "n5-ch9-083-01",
+      "kanji": "食べる",
+      "reading": "たべる",
+      "meaning_en": "to eat",
+      "meaning_mm": "စားသည်"
+    },
+    {
+      "headword_no": 83,
+      "id": "n5-ch9-083-02",
+      "kanji": "外食する",
+      "reading": "がいしょくする",
+      "meaning_en": "to eat out",
+      "meaning_mm": "အပြင်စာစားသည်"
+    },
+    {
+      "headword_no": 83,
+      "id": "n5-ch9-083-03",
+      "kanji": "食料品",
+      "reading": "しょくりょうひん",
+      "meaning_en": "groceries",
+      "meaning_mm": "စားသောက်ကုန်"
+    },
+    {
+      "headword_no": 83,
+      "id": "n5-ch9-083-04",
+      "kanji": "食堂",
+      "reading": "しょくどう",
+      "meaning_en": "cafeteria",
+      "meaning_mm": "စားသောက်ခန်း"
+    },
+    {
+      "headword_no": 84,
+      "id": "n5-ch9-084-01",
+      "kanji": "見る",
+      "reading": "みる",
+      "meaning_en": "to see; to look",
+      "meaning_mm": "ကြည့်သည်"
+    },
+    {
+      "headword_no": 84,
+      "id": "n5-ch9-084-02",
+      "kanji": "見せる",
+      "reading": "みせる",
+      "meaning_en": "to show",
+      "meaning_mm": "ပြသည်"
+    },
+    {
+      "headword_no": 84,
+      "id": "n5-ch9-084-03",
+      "kanji": "見学する",
+      "reading": "けんがくする",
+      "meaning_en": "to tour (observe)",
+      "meaning_mm": "လေ့လာရေးသွားသည်"
+    },
+    {
+      "headword_no": 84,
+      "id": "n5-ch9-084-04",
+      "kanji": "意見",
+      "reading": "いけん",
+      "meaning_en": "opinion",
+      "meaning_mm": "ထင်မြင်ချက်"
+    },
+    {
+      "headword_no": 85,
+      "id": "n5-ch9-085-01",
+      "kanji": "入る",
+      "reading": "はいる",
+      "meaning_en": "to enter",
+      "meaning_mm": "ဝင်သည်"
+    },
+    {
+      "headword_no": 85,
+      "id": "n5-ch9-085-02",
+      "kanji": "入れる",
+      "reading": "いれる",
+      "meaning_en": "to put in",
+      "meaning_mm": "ထည့်သည်"
+    },
+    {
+      "headword_no": 85,
+      "id": "n5-ch9-085-03",
+      "kanji": "入口",
+      "reading": "いりぐち",
+      "meaning_en": "entrance",
+      "meaning_mm": "ဝင်ပေါက်"
+    },
+    {
+      "headword_no": 85,
+      "id": "n5-ch9-085-04",
+      "kanji": "入学する",
+      "reading": "にゅうがくする",
+      "meaning_en": "to enroll",
+      "meaning_mm": "ကျောင်းဝင်သည်"
+    },
+    {
+      "headword_no": 86,
+      "id": "n5-ch9-086-01",
+      "kanji": "出る",
+      "reading": "でる",
+      "meaning_en": "to exit; to appear",
+      "meaning_mm": "ထွက်သည်; ပေါ်လာသည်"
+    },
+    {
+      "headword_no": 86,
+      "id": "n5-ch9-086-02",
+      "kanji": "出す",
+      "reading": "だす",
+      "meaning_en": "to take out",
+      "meaning_mm": "ထုတ်သည်"
+    },
+    {
+      "headword_no": 86,
+      "id": "n5-ch9-086-03",
+      "kanji": "出口",
+      "reading": "でぐち",
+      "meaning_en": "exit",
+      "meaning_mm": "ထွက်ပေါက်"
+    },
+    {
+      "headword_no": 86,
+      "id": "n5-ch9-086-04",
+      "kanji": "出席する",
+      "reading": "しゅっせきする",
+      "meaning_en": "to attend",
+      "meaning_mm": "တက်ရောက်သည်"
+    },
+    {
+      "headword_no": 87,
+      "id": "n5-ch9-087-01",
+      "kanji": "立つ",
+      "reading": "たつ",
+      "meaning_en": "to stand",
+      "meaning_mm": "ရပ်သည်"
+    },
+    {
+      "headword_no": 87,
+      "id": "n5-ch9-087-02",
+      "kanji": "立食パーティー",
+      "reading": "りっしょくパーティー",
+      "meaning_en": "standing buffet party",
+      "meaning_mm": "မတ်တပ်ရပ်စားသောက်ပွဲ"
+    },
+    {
+      "headword_no": 87,
+      "id": "n5-ch9-087-03",
+      "kanji": "国立大学",
+      "reading": "こくりつだいがく",
+      "meaning_en": "national university",
+      "meaning_mm": "အမျိုးသားတက္ကသိုလ်"
+    },
+    {
+      "headword_no": 88,
+      "id": "n5-ch9-088-01",
+      "kanji": "書く",
+      "reading": "かく",
+      "meaning_en": "to write",
+      "meaning_mm": "ရေးသည်"
+    },
+    {
+      "headword_no": 88,
+      "id": "n5-ch9-088-02",
+      "kanji": "読書",
+      "reading": "どくしょ",
+      "meaning_en": "reading",
+      "meaning_mm": "စာဖတ်ခြင်း"
+    },
+    {
+      "headword_no": 88,
+      "id": "n5-ch9-088-03",
+      "kanji": "下書き",
+      "reading": "したがき",
+      "meaning_en": "draft",
+      "meaning_mm": "မူကြမ်း"
+    },
+    {
+      "headword_no": 88,
+      "id": "n5-ch9-088-04",
+      "kanji": "辞書",
+      "reading": "じしょ",
+      "meaning_en": "dictionary",
+      "meaning_mm": "အဘိဓာန်"
+    },
+    {
+      "headword_no": 89,
+      "id": "n5-ch9-089-01",
+      "kanji": "言う",
+      "reading": "いう",
+      "meaning_en": "to say",
+      "meaning_mm": "ပြောသည်"
+    },
+    {
+      "headword_no": 89,
+      "id": "n5-ch9-089-02",
+      "kanji": "言語",
+      "reading": "げんご",
+      "meaning_en": "language",
+      "meaning_mm": "ဘာသာစကား"
+    },
+    {
+      "headword_no": 89,
+      "id": "n5-ch9-089-03",
+      "kanji": "伝言",
+      "reading": "でんごん",
+      "meaning_en": "message",
+      "meaning_mm": "မက်ဆေ့"
+    },
+    {
+      "headword_no": 90,
+      "id": "n5-ch9-090-01",
+      "kanji": "飲む",
+      "reading": "のむ",
+      "meaning_en": "to drink",
+      "meaning_mm": "သောက်သည်"
+    },
+    {
+      "headword_no": 90,
+      "id": "n5-ch9-090-02",
+      "kanji": "飲み物",
+      "reading": "のみもの",
+      "meaning_en": "drink",
+      "meaning_mm": "သောက်စရာ"
+    },
+    {
+      "headword_no": 90,
+      "id": "n5-ch9-090-03",
+      "kanji": "飲食店",
+      "reading": "いんしょくてん",
+      "meaning_en": "restaurant",
+      "meaning_mm": "စားသောက်ဆိုင်"
+    }
+  ]
+}

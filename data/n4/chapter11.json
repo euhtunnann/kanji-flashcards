@@ -28,7 +28,7 @@
       "kanji": "一時停止",
       "reading": "いちじていし",
       "meaning_en": "stop sign",
-      "meaning_mm": "ယာယီရပ်ဆိုင်း"
+      "meaning_mm": "ယာယီရပ်ဆိုင်းခြင်း / ခဏရပ်ရန်"
     },
     {
       "headword_no": 212,
@@ -60,7 +60,7 @@
       "kanji": "横断歩道",
       "reading": "おうだんほどう",
       "meaning_en": "crosswalk",
-      "meaning_mm": "လမ်းကူးမျဉ်း"
+      "meaning_mm": "လူကူးမျဉ်းကြား"
     },
     {
       "headword_no": 213,
@@ -84,7 +84,7 @@
       "kanji": "起きる",
       "reading": "おきる",
       "meaning_en": "to get up",
-      "meaning_mm": "ထသည်"
+      "meaning_mm": "အိပ်ရာထသည်"
     },
     {
       "headword_no": 214,
@@ -124,7 +124,7 @@
       "kanji": "持ち物",
       "reading": "もちもの",
       "meaning_en": "belongings",
-      "meaning_mm": "ကိုယ်ပိုင်ပစ္စည်းများ"
+      "meaning_mm": "သယ်ဆောင်လာသော ပစ္စည်းများ"
     },
     {
       "headword_no": 215,
@@ -220,7 +220,7 @@
       "kanji": "開始する",
       "reading": "かいしする",
       "meaning_en": "to start",
-      "meaning_mm": "စတင်ဖွင့်လှစ်သည်"
+      "meaning_mm": "စတင်သည်"
     },
     {
       "headword_no": 219,

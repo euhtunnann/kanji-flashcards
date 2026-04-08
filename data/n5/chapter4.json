@@ -1,0 +1,299 @@
+{
+  "level": "N5",
+  "chapter": 4,
+  "title": "絵からできた漢字 2",
+  "source_headwords": {
+    "from": 31,
+    "to": 40
+  },
+  "cards": [
+    {
+      "headword_no": 31,
+      "id": "n5-ch4-031-01",
+      "kanji": "人",
+      "reading": "ひと",
+      "meaning_en": "person",
+      "meaning_mm": "လူ"
+    },
+    {
+      "headword_no": 31,
+      "id": "n5-ch4-031-02",
+      "kanji": "一人",
+      "reading": "ひとり",
+      "meaning_en": "one person",
+      "meaning_mm": "တစ်ယောက်"
+    },
+    {
+      "headword_no": 31,
+      "id": "n5-ch4-031-03",
+      "kanji": "三人",
+      "reading": "さんにん",
+      "meaning_en": "three people",
+      "meaning_mm": "သုံးယောက်"
+    },
+    {
+      "headword_no": 31,
+      "id": "n5-ch4-031-04",
+      "kanji": "日本人",
+      "reading": "にほんじん",
+      "meaning_en": "Japanese person",
+      "meaning_mm": "ဂျပန်လူမျိုး"
+    },
+    {
+      "headword_no": 32,
+      "id": "n5-ch4-032-01",
+      "kanji": "子ども",
+      "reading": "こども",
+      "meaning_en": "child",
+      "meaning_mm": "ကလေး"
+    },
+    {
+      "headword_no": 32,
+      "id": "n5-ch4-032-02",
+      "kanji": "女子",
+      "reading": "じょし",
+      "meaning_en": "girl; female",
+      "meaning_mm": "မိန်းကလေး; အမျိုးသမီး"
+    },
+    {
+      "headword_no": 32,
+      "id": "n5-ch4-032-03",
+      "kanji": "親子",
+      "reading": "おやこ",
+      "meaning_en": "parent and child",
+      "meaning_mm": "မိဘနှင့်ကလေး"
+    },
+    {
+      "headword_no": 32,
+      "id": "n5-ch4-032-04",
+      "kanji": "調子",
+      "reading": "ちょうし",
+      "meaning_en": "condition",
+      "meaning_mm": "အခြေအနေ"
+    },
+    {
+      "headword_no": 33,
+      "id": "n5-ch4-033-01",
+      "kanji": "女の人",
+      "reading": "おんなのひと",
+      "meaning_en": "woman",
+      "meaning_mm": "မိန်းမ"
+    },
+    {
+      "headword_no": 33,
+      "id": "n5-ch4-033-02",
+      "kanji": "女の子",
+      "reading": "おんなのこ",
+      "meaning_en": "girl",
+      "meaning_mm": "မိန်းကလေး"
+    },
+    {
+      "headword_no": 33,
+      "id": "n5-ch4-033-03",
+      "kanji": "女性",
+      "reading": "じょせい",
+      "meaning_en": "woman",
+      "meaning_mm": "မိန်းမ"
+    },
+    {
+      "headword_no": 34,
+      "id": "n5-ch4-034-01",
+      "kanji": "男の子",
+      "reading": "おとこのこ",
+      "meaning_en": "boy",
+      "meaning_mm": "ယောက်ျားကလေး"
+    },
+    {
+      "headword_no": 34,
+      "id": "n5-ch4-034-02",
+      "kanji": "男女",
+      "reading": "だんじょ",
+      "meaning_en": "men and women",
+      "meaning_mm": "ယောက်ျားနှင့် မိန်းမ"
+    },
+    {
+      "headword_no": 34,
+      "id": "n5-ch4-034-03",
+      "kanji": "長男",
+      "reading": "ちょうなん",
+      "meaning_en": "eldest son",
+      "meaning_mm": "သားကြီး"
+    },
+    {
+      "headword_no": 34,
+      "id": "n5-ch4-034-04",
+      "kanji": "男性",
+      "reading": "だんせい",
+      "meaning_en": "man",
+      "meaning_mm": "အမျိုးသား"
+    },
+    {
+      "headword_no": 35,
+      "id": "n5-ch4-035-01",
+      "kanji": "目",
+      "reading": "め",
+      "meaning_en": "eye",
+      "meaning_mm": "မျက်လုံး"
+    },
+    {
+      "headword_no": 35,
+      "id": "n5-ch4-035-02",
+      "kanji": "一日目",
+      "reading": "いちにちめ",
+      "meaning_en": "the first day",
+      "meaning_mm": "ပထမနေ့"
+    },
+    {
+      "headword_no": 35,
+      "id": "n5-ch4-035-03",
+      "kanji": "目薬",
+      "reading": "めぐすり",
+      "meaning_en": "eye drops",
+      "meaning_mm": "မျက်စဉ်း"
+    },
+    {
+      "headword_no": 35,
+      "id": "n5-ch4-035-04",
+      "kanji": "目的",
+      "reading": "もくてき",
+      "meaning_en": "purpose",
+      "meaning_mm": "ရည်ရွယ်ချက်"
+    },
+    {
+      "headword_no": 36,
+      "id": "n5-ch4-036-01",
+      "kanji": "口",
+      "reading": "くち",
+      "meaning_en": "mouth",
+      "meaning_mm": "ပါးစပ်"
+    },
+    {
+      "headword_no": 36,
+      "id": "n5-ch4-036-02",
+      "kanji": "入口",
+      "reading": "いりぐち",
+      "meaning_en": "entrance",
+      "meaning_mm": "ဝင်ပေါက်"
+    },
+    {
+      "headword_no": 36,
+      "id": "n5-ch4-036-03",
+      "kanji": "人口",
+      "reading": "じんこう",
+      "meaning_en": "population",
+      "meaning_mm": "လူဦးရေ"
+    },
+    {
+      "headword_no": 36,
+      "id": "n5-ch4-036-04",
+      "kanji": "非常口",
+      "reading": "ひじょうぐち",
+      "meaning_en": "emergency exit",
+      "meaning_mm": "အရေးပေါ်ထွက်ပေါက်"
+    },
+    {
+      "headword_no": 37,
+      "id": "n5-ch4-037-01",
+      "kanji": "耳",
+      "reading": "みみ",
+      "meaning_en": "ear",
+      "meaning_mm": "နား"
+    },
+    {
+      "headword_no": 37,
+      "id": "n5-ch4-037-02",
+      "kanji": "耳鼻科",
+      "reading": "じびか",
+      "meaning_en": "ENT clinic",
+      "meaning_mm": "နား၊ နှာခေါင်း၊ လည်ချောင်း ဆေးခန်း"
+    },
+    {
+      "headword_no": 38,
+      "id": "n5-ch4-038-01",
+      "kanji": "手",
+      "reading": "て",
+      "meaning_en": "hand",
+      "meaning_mm": "လက်"
+    },
+    {
+      "headword_no": 38,
+      "id": "n5-ch4-038-02",
+      "kanji": "上手な",
+      "reading": "じょうずな",
+      "meaning_en": "skillful",
+      "meaning_mm": "ကျွမ်းကျင်သော"
+    },
+    {
+      "headword_no": 38,
+      "id": "n5-ch4-038-03",
+      "kanji": "下手な",
+      "reading": "へたな",
+      "meaning_en": "unskillful",
+      "meaning_mm": "မကျွမ်းကျင်သော"
+    },
+    {
+      "headword_no": 38,
+      "id": "n5-ch4-038-04",
+      "kanji": "手紙",
+      "reading": "てがみ",
+      "meaning_en": "letter",
+      "meaning_mm": "စာ / ပေးစာ"
+    },
+    {
+      "headword_no": 39,
+      "id": "n5-ch4-039-01",
+      "kanji": "足",
+      "reading": "あし",
+      "meaning_en": "leg; foot",
+      "meaning_mm": "ခြေထောက်"
+    },
+    {
+      "headword_no": 39,
+      "id": "n5-ch4-039-02",
+      "kanji": "一足",
+      "reading": "いっそく",
+      "meaning_en": "a pair (shoes)",
+      "meaning_mm": "ဖိနပ် တစ်စုံ"
+    },
+    {
+      "headword_no": 39,
+      "id": "n5-ch4-039-03",
+      "kanji": "足りる",
+      "reading": "たりる",
+      "meaning_en": "to be enough",
+      "meaning_mm": "လုံလောက်"
+    },
+    {
+      "headword_no": 39,
+      "id": "n5-ch4-039-04",
+      "kanji": "遠足",
+      "reading": "えんそく",
+      "meaning_en": "excursion",
+      "meaning_mm": "လည်ပတ်ခရီး"
+    },
+    {
+      "headword_no": 40,
+      "id": "n5-ch4-040-01",
+      "kanji": "力",
+      "reading": "ちから",
+      "meaning_en": "power",
+      "meaning_mm": "အင်အား"
+    },
+    {
+      "headword_no": 40,
+      "id": "n5-ch4-040-02",
+      "kanji": "水力",
+      "reading": "すいりょく",
+      "meaning_en": "hydroelectric power",
+      "meaning_mm": "ရေအားလျှပ်စစ်"
+    },
+    {
+      "headword_no": 40,
+      "id": "n5-ch4-040-03",
+      "kanji": "体力",
+      "reading": "たいりょく",
+      "meaning_en": "physical strength",
+      "meaning_mm": "ကိုယ်ခန္ဓာအင်အား"
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "level": "N5",
+  "chapter": 8,
+  "title": "形容詞",
+  "source_headwords": {
+    "from": 71,
+    "to": 80
+  },
+  "cards": [
+    {
+      "headword_no": 71,
+      "id": "n5-ch8-071-01",
+      "kanji": "大きい",
+      "reading": "おおきい",
+      "meaning_en": "big",
+      "meaning_mm": "ကြီး"
+    },
+    {
+      "headword_no": 71,
+      "id": "n5-ch8-071-02",
+      "kanji": "大学",
+      "reading": "だいがく",
+      "meaning_en": "university",
+      "meaning_mm": "တက္ကသိုလ်"
+    },
+    {
+      "headword_no": 71,
+      "id": "n5-ch8-071-03",
+      "kanji": "大人",
+      "reading": "おとな",
+      "meaning_en": "adult",
+      "meaning_mm": "လူကြီး"
+    },
+    {
+      "headword_no": 72,
+      "id": "n5-ch8-072-01",
+      "kanji": "小さい",
+      "reading": "ちいさい",
+      "meaning_en": "small",
+      "meaning_mm": "သေး"
+    },
+    {
+      "headword_no": 72,
+      "id": "n5-ch8-072-02",
+      "kanji": "小川",
+      "reading": "おがわ",
+      "meaning_en": "stream",
+      "meaning_mm": "ချောင်း"
+    },
+    {
+      "headword_no": 72,
+      "id": "n5-ch8-072-03",
+      "kanji": "小学校",
+      "reading": "しょうがっこう",
+      "meaning_en": "elementary school",
+      "meaning_mm": "မူလတန်း ကျောင်း"
+    },
+    {
+      "headword_no": 72,
+      "id": "n5-ch8-072-04",
+      "kanji": "小犬",
+      "reading": "こいぬ",
+      "meaning_en": "puppy",
+      "meaning_mm": "ခွေးကလေး"
+    },
+    {
+      "headword_no": 73,
+      "id": "n5-ch8-073-01",
+      "kanji": "高い",
+      "reading": "たかい",
+      "meaning_en": "high; expensive",
+      "meaning_mm": "မြင့်; ဈေးကြီး"
+    },
+    {
+      "headword_no": 73,
+      "id": "n5-ch8-073-02",
+      "kanji": "高校生",
+      "reading": "こうこうせい",
+      "meaning_en": "high school student",
+      "meaning_mm": "အထက်တန်းကျောင်းသား"
+    },
+    {
+      "headword_no": 73,
+      "id": "n5-ch8-073-03",
+      "kanji": "円高",
+      "reading": "えんだか",
+      "meaning_en": "strong yen",
+      "meaning_mm": "ယန်းတန်ဖိုးတက်ခြင်း"
+    },
+    {
+      "headword_no": 74,
+      "id": "n5-ch8-074-01",
+      "kanji": "安い",
+      "reading": "やすい",
+      "meaning_en": "cheap",
+      "meaning_mm": "ဈေးချို"
+    },
+    {
+      "headword_no": 74,
+      "id": "n5-ch8-074-02",
+      "kanji": "安心する",
+      "reading": "あんしんする",
+      "meaning_en": "to feel relieved",
+      "meaning_mm": "စိတ်အေးသွားသည်"
+    },
+    {
+      "headword_no": 74,
+      "id": "n5-ch8-074-03",
+      "kanji": "安全",
+      "reading": "あんぜん",
+      "meaning_en": "safety",
+      "meaning_mm": "ဘေးကင်းရေး"
+    },
+    {
+      "headword_no": 75,
+      "id": "n5-ch8-075-01",
+      "kanji": "新しい",
+      "reading": "あたらしい",
+      "meaning_en": "new",
+      "meaning_mm": "အသစ်"
+    },
+    {
+      "headword_no": 75,
+      "id": "n5-ch8-075-02",
+      "kanji": "新聞",
+      "reading": "しんぶん",
+      "meaning_en": "newspaper",
+      "meaning_mm": "သတင်းစာ"
+    },
+    {
+      "headword_no": 75,
+      "id": "n5-ch8-075-03",
+      "kanji": "新人",
+      "reading": "しんじん",
+      "meaning_en": "newcomer",
+      "meaning_mm": "လူသစ်"
+    },
+    {
+      "headword_no": 75,
+      "id": "n5-ch8-075-04",
+      "kanji": "新年",
+      "reading": "しんねん",
+      "meaning_en": "New Year",
+      "meaning_mm": "နှစ်သစ်"
+    },
+    {
+      "headword_no": 76,
+      "id": "n5-ch8-076-01",
+      "kanji": "古い",
+      "reading": "ふるい",
+      "meaning_en": "old",
+      "meaning_mm": "အဟောင်း"
+    },
+    {
+      "headword_no": 76,
+      "id": "n5-ch8-076-02",
+      "kanji": "中古車",
+      "reading": "ちゅうこしゃ",
+      "meaning_en": "used car",
+      "meaning_mm": "ကားအဟောင်း"
+    },
+    {
+      "headword_no": 77,
+      "id": "n5-ch8-077-01",
+      "kanji": "長い",
+      "reading": "ながい",
+      "meaning_en": "long",
+      "meaning_mm": "ရှည်"
+    },
+    {
+      "headword_no": 77,
+      "id": "n5-ch8-077-02",
+      "kanji": "社長",
+      "reading": "しゃちょう",
+      "meaning_en": "company president",
+      "meaning_mm": "ကုမ္ပဏီဥက္ကဋ္ဌ"
+    },
+    {
+      "headword_no": 77,
+      "id": "n5-ch8-077-03",
+      "kanji": "学長",
+      "reading": "がくちょう",
+      "meaning_en": "university president",
+      "meaning_mm": "ပါမောက္ခချုပ်"
+    },
+    {
+      "headword_no": 77,
+      "id": "n5-ch8-077-04",
+      "kanji": "校長",
+      "reading": "こうちょう",
+      "meaning_en": "school principal",
+      "meaning_mm": "ကျောင်းအုပ်ကြီး"
+    },
+    {
+      "headword_no": 78,
+      "id": "n5-ch8-078-01",
+      "kanji": "多い",
+      "reading": "おおい",
+      "meaning_en": "many",
+      "meaning_mm": "များ"
+    },
+    {
+      "headword_no": 78,
+      "id": "n5-ch8-078-02",
+      "kanji": "多少",
+      "reading": "たしょう",
+      "meaning_en": "more or less",
+      "meaning_mm": "အနည်းနှင့်အများ"
+    },
+    {
+      "headword_no": 78,
+      "id": "n5-ch8-078-03",
+      "kanji": "多数決",
+      "reading": "たすうけつ",
+      "meaning_en": "majority vote",
+      "meaning_mm": "မဲအများစု"
+    },
+    {
+      "headword_no": 79,
+      "id": "n5-ch8-079-01",
+      "kanji": "少ない",
+      "reading": "すくない",
+      "meaning_en": "few",
+      "meaning_mm": "နည်း"
+    },
+    {
+      "headword_no": 79,
+      "id": "n5-ch8-079-02",
+      "kanji": "少し",
+      "reading": "すこし",
+      "meaning_en": "a little",
+      "meaning_mm": "အနည်းငယ်"
+    },
+    {
+      "headword_no": 79,
+      "id": "n5-ch8-079-03",
+      "kanji": "少年",
+      "reading": "しょうねん",
+      "meaning_en": "boy",
+      "meaning_mm": "ယောက်ျားကလေး"
+    },
+    {
+      "headword_no": 79,
+      "id": "n5-ch8-079-04",
+      "kanji": "少女",
+      "reading": "しょうじょ",
+      "meaning_en": "girl",
+      "meaning_mm": "မိန်းကလေး"
+    },
+    {
+      "headword_no": 80,
+      "id": "n5-ch8-080-01",
+      "kanji": "早い",
+      "reading": "はやい",
+      "meaning_en": "early; fast",
+      "meaning_mm": "စော; မြန်"
+    },
+    {
+      "headword_no": 80,
+      "id": "n5-ch8-080-02",
+      "kanji": "早朝",
+      "reading": "そうちょう",
+      "meaning_en": "early morning",
+      "meaning_mm": "မနက်စောစော"
+    },
+    {
+      "headword_no": 80,
+      "id": "n5-ch8-080-03",
+      "kanji": "早送り",
+      "reading": "はやおくり",
+      "meaning_en": "fast forward",
+      "meaning_mm": "ရှေ့သို့အမြန်ရစ်ခြင်း"
+    }
+  ]
+}

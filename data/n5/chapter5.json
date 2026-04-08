@@ -1,0 +1,307 @@
+{
+  "level": "N5",
+  "chapter": 5,
+  "title": "絵からできた漢字 3",
+  "source_headwords": {
+    "from": 41,
+    "to": 50
+  },
+  "cards": [
+    {
+      "headword_no": 41,
+      "id": "n5-ch5-041-01",
+      "kanji": "父",
+      "reading": "ちち",
+      "meaning_en": "father (plain)",
+      "meaning_mm": "အဖေ (သာမန်)"
+    },
+    {
+      "headword_no": 41,
+      "id": "n5-ch5-041-02",
+      "kanji": "お父さん",
+      "reading": "おとうさん",
+      "meaning_en": "father",
+      "meaning_mm": "အဖေ"
+    },
+    {
+      "headword_no": 41,
+      "id": "n5-ch5-041-03",
+      "kanji": "父親",
+      "reading": "ちちおや",
+      "meaning_en": "father",
+      "meaning_mm": "အဖေ"
+    },
+    {
+      "headword_no": 42,
+      "id": "n5-ch5-042-01",
+      "kanji": "母",
+      "reading": "はは",
+      "meaning_en": "mother (plain)",
+      "meaning_mm": "အမေ (သာမန်)"
+    },
+    {
+      "headword_no": 42,
+      "id": "n5-ch5-042-02",
+      "kanji": "お母さん",
+      "reading": "おかあさん",
+      "meaning_en": "mother",
+      "meaning_mm": "အမေ"
+    },
+    {
+      "headword_no": 42,
+      "id": "n5-ch5-042-03",
+      "kanji": "父母",
+      "reading": "ふぼ",
+      "meaning_en": "parents",
+      "meaning_mm": "မိဘများ"
+    },
+    {
+      "headword_no": 42,
+      "id": "n5-ch5-042-04",
+      "kanji": "母国",
+      "reading": "ぼこく",
+      "meaning_en": "mother country",
+      "meaning_mm": "မိခင်နိုင်ငံ"
+    },
+    {
+      "headword_no": 43,
+      "id": "n5-ch5-043-01",
+      "kanji": "先",
+      "reading": "さき",
+      "meaning_en": "ahead; future",
+      "meaning_mm": "ရှေ့; အနာဂတ်"
+    },
+    {
+      "headword_no": 43,
+      "id": "n5-ch5-043-02",
+      "kanji": "先月",
+      "reading": "せんげつ",
+      "meaning_en": "last month",
+      "meaning_mm": "ပြီးခဲ့သောလ"
+    },
+    {
+      "headword_no": 43,
+      "id": "n5-ch5-043-03",
+      "kanji": "先輩",
+      "reading": "せんぱい",
+      "meaning_en": "senior",
+      "meaning_mm": "စီနီယာ"
+    },
+    {
+      "headword_no": 44,
+      "id": "n5-ch5-044-01",
+      "kanji": "生まれる",
+      "reading": "うまれる",
+      "meaning_en": "to be born",
+      "meaning_mm": "မွေးဖွားသည်"
+    },
+    {
+      "headword_no": 44,
+      "id": "n5-ch5-044-02",
+      "kanji": "先生",
+      "reading": "せんせい",
+      "meaning_en": "teacher",
+      "meaning_mm": "ဆရာ/ဆရာမ"
+    },
+    {
+      "headword_no": 44,
+      "id": "n5-ch5-044-03",
+      "kanji": "生きる",
+      "reading": "いきる",
+      "meaning_en": "to live",
+      "meaning_mm": "နေထိုင်သည်"
+    },
+    {
+      "headword_no": 44,
+      "id": "n5-ch5-044-04",
+      "kanji": "生活",
+      "reading": "せいかつ",
+      "meaning_en": "life",
+      "meaning_mm": "ဘဝ"
+    },
+    {
+      "headword_no": 45,
+      "id": "n5-ch5-045-01",
+      "kanji": "学生",
+      "reading": "がくせい",
+      "meaning_en": "student",
+      "meaning_mm": "ကျောင်းသား"
+    },
+    {
+      "headword_no": 45,
+      "id": "n5-ch5-045-02",
+      "kanji": "大学",
+      "reading": "だいがく",
+      "meaning_en": "university",
+      "meaning_mm": "တက္ကသိုလ်"
+    },
+    {
+      "headword_no": 45,
+      "id": "n5-ch5-045-03",
+      "kanji": "科学",
+      "reading": "かがく",
+      "meaning_en": "science",
+      "meaning_mm": "သိပ္ပံ"
+    },
+    {
+      "headword_no": 45,
+      "id": "n5-ch5-045-04",
+      "kanji": "留学する",
+      "reading": "りゅうがくする",
+      "meaning_en": "to study abroad",
+      "meaning_mm": "နိုင်ငံခြားမှာ ပညာသင်သည်"
+    },
+    {
+      "headword_no": 46,
+      "id": "n5-ch5-046-01",
+      "kanji": "学校",
+      "reading": "がっこう",
+      "meaning_en": "school",
+      "meaning_mm": "ကျောင်း"
+    },
+    {
+      "headword_no": 46,
+      "id": "n5-ch5-046-02",
+      "kanji": "校長",
+      "reading": "こうちょう",
+      "meaning_en": "principal",
+      "meaning_mm": "ကျောင်းအုပ်ကြီး"
+    },
+    {
+      "headword_no": 46,
+      "id": "n5-ch5-046-03",
+      "kanji": "小学校",
+      "reading": "しょうがっこう",
+      "meaning_en": "elementary school",
+      "meaning_mm": "မူလတန်း ကျောင်း"
+    },
+    {
+      "headword_no": 46,
+      "id": "n5-ch5-046-04",
+      "kanji": "母校",
+      "reading": "ぼこう",
+      "meaning_en": "alma mater",
+      "meaning_mm": "မိခင်ကျောင်း"
+    },
+    {
+      "headword_no": 47,
+      "id": "n5-ch5-047-01",
+      "kanji": "友だち",
+      "reading": "ともだち",
+      "meaning_en": "friend",
+      "meaning_mm": "သူငယ်ချင်း"
+    },
+    {
+      "headword_no": 47,
+      "id": "n5-ch5-047-02",
+      "kanji": "友人",
+      "reading": "ゆうじん",
+      "meaning_en": "friend",
+      "meaning_mm": "သူငယ်ချင်း"
+    },
+    {
+      "headword_no": 47,
+      "id": "n5-ch5-047-03",
+      "kanji": "親友",
+      "reading": "しんゆう",
+      "meaning_en": "close friend",
+      "meaning_mm": "ရင်းနှီးသော သူငယ်ချင်း"
+    },
+    {
+      "headword_no": 48,
+      "id": "n5-ch5-048-01",
+      "kanji": "本",
+      "reading": "ほん",
+      "meaning_en": "book",
+      "meaning_mm": "စာအုပ်"
+    },
+    {
+      "headword_no": 48,
+      "id": "n5-ch5-048-02",
+      "kanji": "日本",
+      "reading": "にほん",
+      "meaning_en": "Japan",
+      "meaning_mm": "ဂျပန်"
+    },
+    {
+      "headword_no": 48,
+      "id": "n5-ch5-048-03",
+      "kanji": "本屋",
+      "reading": "ほんや",
+      "meaning_en": "bookstore",
+      "meaning_mm": "စာအုပ်ဆိုင်"
+    },
+    {
+      "headword_no": 48,
+      "id": "n5-ch5-048-04",
+      "kanji": "山本さん",
+      "reading": "やまもとさん",
+      "meaning_en": "Mr./Ms. Yamamoto",
+      "meaning_mm": "ကို/မ ယာမာမိုတို"
+    },
+    {
+      "headword_no": 49,
+      "id": "n5-ch5-049-01",
+      "kanji": "毎日",
+      "reading": "まいにち",
+      "meaning_en": "every day",
+      "meaning_mm": "နေ့တိုင်း"
+    },
+    {
+      "headword_no": 49,
+      "id": "n5-ch5-049-02",
+      "kanji": "毎月",
+      "reading": "まいつき",
+      "meaning_en": "every month",
+      "meaning_mm": "လတိုင်း"
+    },
+    {
+      "headword_no": 49,
+      "id": "n5-ch5-049-03",
+      "kanji": "毎年",
+      "reading": "まいとし",
+      "meaning_en": "every year",
+      "meaning_mm": "နှစ်တိုင်း"
+    },
+    {
+      "headword_no": 49,
+      "id": "n5-ch5-049-04",
+      "kanji": "毎朝",
+      "reading": "まいあさ",
+      "meaning_en": "every morning",
+      "meaning_mm": "မနက်တိုင်း"
+    },
+    {
+      "headword_no": 50,
+      "id": "n5-ch5-050-01",
+      "kanji": "何",
+      "reading": "なに",
+      "meaning_en": "what",
+      "meaning_mm": "ဘာ"
+    },
+    {
+      "headword_no": 50,
+      "id": "n5-ch5-050-02",
+      "kanji": "何月",
+      "reading": "なんがつ",
+      "meaning_en": "which month",
+      "meaning_mm": "ဘယ်လ"
+    },
+    {
+      "headword_no": 50,
+      "id": "n5-ch5-050-03",
+      "kanji": "何人",
+      "reading": "なんにん",
+      "meaning_en": "how many people",
+      "meaning_mm": "လူဘယ်နှယောက်"
+    },
+    {
+      "headword_no": 50,
+      "id": "n5-ch5-050-04",
+      "kanji": "何時",
+      "reading": "なんじ",
+      "meaning_en": "what time",
+      "meaning_mm": "ဘယ်အချိန်"
+    }
+  ]
+}

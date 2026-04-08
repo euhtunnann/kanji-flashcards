@@ -1,0 +1,235 @@
+{
+  "level": "N5",
+  "chapter": 7,
+  "title": "絵からできた漢字 4",
+  "source_headwords": {
+    "from": 61,
+    "to": 70
+  },
+  "cards": [
+    {
+      "headword_no": 61,
+      "id": "n5-ch7-061-01",
+      "kanji": "牛",
+      "reading": "うし",
+      "meaning_en": "cow",
+      "meaning_mm": "နွား"
+    },
+    {
+      "headword_no": 61,
+      "id": "n5-ch7-061-02",
+      "kanji": "水牛",
+      "reading": "すいぎゅう",
+      "meaning_en": "water buffalo",
+      "meaning_mm": "ကျွဲ"
+    },
+    {
+      "headword_no": 61,
+      "id": "n5-ch7-061-03",
+      "kanji": "牛肉",
+      "reading": "ぎゅうにく",
+      "meaning_en": "beef",
+      "meaning_mm": "အမဲသား"
+    },
+    {
+      "headword_no": 61,
+      "id": "n5-ch7-061-04",
+      "kanji": "牛乳",
+      "reading": "ぎゅうにゅう",
+      "meaning_en": "milk",
+      "meaning_mm": "နို့"
+    },
+    {
+      "headword_no": 62,
+      "id": "n5-ch7-062-01",
+      "kanji": "馬",
+      "reading": "うま",
+      "meaning_en": "horse",
+      "meaning_mm": "မြင်း"
+    },
+    {
+      "headword_no": 62,
+      "id": "n5-ch7-062-02",
+      "kanji": "馬車",
+      "reading": "ばしゃ",
+      "meaning_en": "carriage",
+      "meaning_mm": "မြင်းလှည်း"
+    },
+    {
+      "headword_no": 62,
+      "id": "n5-ch7-062-03",
+      "kanji": "乗馬",
+      "reading": "じょうば",
+      "meaning_en": "horse riding",
+      "meaning_mm": "မြင်းစီးခြင်း"
+    },
+    {
+      "headword_no": 63,
+      "id": "n5-ch7-063-01",
+      "kanji": "魚",
+      "reading": "さかな",
+      "meaning_en": "fish",
+      "meaning_mm": "ငါး"
+    },
+    {
+      "headword_no": 63,
+      "id": "n5-ch7-063-02",
+      "kanji": "金魚",
+      "reading": "きんぎょ",
+      "meaning_en": "goldfish",
+      "meaning_mm": "ရွှေငါး"
+    },
+    {
+      "headword_no": 63,
+      "id": "n5-ch7-063-03",
+      "kanji": "人魚",
+      "reading": "にんぎょ",
+      "meaning_en": "mermaid",
+      "meaning_mm": "ရေသူမ"
+    },
+    {
+      "headword_no": 64,
+      "id": "n5-ch7-064-01",
+      "kanji": "貝",
+      "reading": "かい",
+      "meaning_en": "shellfish",
+      "meaning_mm": "ခရုကောင်များ"
+    },
+    {
+      "headword_no": 64,
+      "id": "n5-ch7-064-02",
+      "kanji": "貝がら",
+      "reading": "かいがら",
+      "meaning_en": "shell",
+      "meaning_mm": "ခရုခွံ"
+    },
+    {
+      "headword_no": 65,
+      "id": "n5-ch7-065-01",
+      "kanji": "雨",
+      "reading": "あめ",
+      "meaning_en": "rain",
+      "meaning_mm": "မိုး"
+    },
+    {
+      "headword_no": 65,
+      "id": "n5-ch7-065-02",
+      "kanji": "大雨",
+      "reading": "おおあめ",
+      "meaning_en": "heavy rain",
+      "meaning_mm": "မိုးသည်း"
+    },
+    {
+      "headword_no": 66,
+      "id": "n5-ch7-066-01",
+      "kanji": "天",
+      "reading": "てん",
+      "meaning_en": "heaven; sky",
+      "meaning_mm": "ကောင်းကင်"
+    },
+    {
+      "headword_no": 66,
+      "id": "n5-ch7-066-02",
+      "kanji": "天気",
+      "reading": "てんき",
+      "meaning_en": "weather",
+      "meaning_mm": "ရာသီဥတု"
+    },
+    {
+      "headword_no": 66,
+      "id": "n5-ch7-066-03",
+      "kanji": "天国",
+      "reading": "てんごく",
+      "meaning_en": "heaven",
+      "meaning_mm": "ကောင်းကင်ဘုံ"
+    },
+    {
+      "headword_no": 67,
+      "id": "n5-ch7-067-01",
+      "kanji": "人気",
+      "reading": "にんき",
+      "meaning_en": "popularity",
+      "meaning_mm": "လူကြိုက်များခြင်း"
+    },
+    {
+      "headword_no": 67,
+      "id": "n5-ch7-067-02",
+      "kanji": "気をつける",
+      "reading": "きをつける",
+      "meaning_en": "to be careful",
+      "meaning_mm": "ဂရုစိုက်သည်"
+    },
+    {
+      "headword_no": 67,
+      "id": "n5-ch7-067-03",
+      "kanji": "気持ち",
+      "reading": "きもち",
+      "meaning_en": "feeling",
+      "meaning_mm": "ခံစားချက်"
+    },
+    {
+      "headword_no": 68,
+      "id": "n5-ch7-068-01",
+      "kanji": "車",
+      "reading": "くるま",
+      "meaning_en": "car",
+      "meaning_mm": "ကား"
+    },
+    {
+      "headword_no": 68,
+      "id": "n5-ch7-068-02",
+      "kanji": "電車",
+      "reading": "でんしゃ",
+      "meaning_en": "train",
+      "meaning_mm": "ရထား"
+    },
+    {
+      "headword_no": 68,
+      "id": "n5-ch7-068-03",
+      "kanji": "自動車",
+      "reading": "じどうしゃ",
+      "meaning_en": "automobile",
+      "meaning_mm": "မော်တော်ကား"
+    },
+    {
+      "headword_no": 69,
+      "id": "n5-ch7-069-01",
+      "kanji": "門",
+      "reading": "もん",
+      "meaning_en": "gate",
+      "meaning_mm": "ဂိတ်တံခါး"
+    },
+    {
+      "headword_no": 69,
+      "id": "n5-ch7-069-02",
+      "kanji": "正門",
+      "reading": "せいもん",
+      "meaning_en": "main gate",
+      "meaning_mm": "ပင်မတံခါး"
+    },
+    {
+      "headword_no": 69,
+      "id": "n5-ch7-069-03",
+      "kanji": "専門",
+      "reading": "せんもん",
+      "meaning_en": "specialty; major",
+      "meaning_mm": "အထူးပြု ဘာသာရပ်"
+    },
+    {
+      "headword_no": 70,
+      "id": "n5-ch7-070-01",
+      "kanji": "午前",
+      "reading": "ごぜん",
+      "meaning_en": "a.m.",
+      "meaning_mm": "မနက်ပိုင်း"
+    },
+    {
+      "headword_no": 70,
+      "id": "n5-ch7-070-02",
+      "kanji": "午後",
+      "reading": "ごご",
+      "meaning_en": "p.m.",
+      "meaning_mm": "နေ့လည်ပိုင်း"
+    }
+  ]
+}

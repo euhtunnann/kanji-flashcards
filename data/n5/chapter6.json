@@ -1,0 +1,299 @@
+{
+  "level": "N5",
+  "chapter": 6,
+  "title": "方向",
+  "source_headwords": {
+    "from": 51,
+    "to": 60
+  },
+  "cards": [
+    {
+      "headword_no": 51,
+      "id": "n5-ch6-051-01",
+      "kanji": "前",
+      "reading": "まえ",
+      "meaning_en": "front",
+      "meaning_mm": "ရှေ့"
+    },
+    {
+      "headword_no": 51,
+      "id": "n5-ch6-051-02",
+      "kanji": "三日前",
+      "reading": "みっかまえ",
+      "meaning_en": "three days ago",
+      "meaning_mm": "သုံးရက်က"
+    },
+    {
+      "headword_no": 51,
+      "id": "n5-ch6-051-03",
+      "kanji": "前半",
+      "reading": "ぜんはん",
+      "meaning_en": "first half",
+      "meaning_mm": "ပထမပိုင်း"
+    },
+    {
+      "headword_no": 52,
+      "id": "n5-ch6-052-01",
+      "kanji": "後",
+      "reading": "あと",
+      "meaning_en": "after; later",
+      "meaning_mm": "နောက်; နောက်မှ"
+    },
+    {
+      "headword_no": 52,
+      "id": "n5-ch6-052-02",
+      "kanji": "後ろ",
+      "reading": "うしろ",
+      "meaning_en": "behind",
+      "meaning_mm": "နောက်က"
+    },
+    {
+      "headword_no": 52,
+      "id": "n5-ch6-052-03",
+      "kanji": "前後",
+      "reading": "ぜんご",
+      "meaning_en": "before and after",
+      "meaning_mm": "ရှေ့နောက်"
+    },
+    {
+      "headword_no": 52,
+      "id": "n5-ch6-052-04",
+      "kanji": "最後",
+      "reading": "さいご",
+      "meaning_en": "last",
+      "meaning_mm": "နောက်ဆုံး"
+    },
+    {
+      "headword_no": 53,
+      "id": "n5-ch6-053-01",
+      "kanji": "外",
+      "reading": "そと",
+      "meaning_en": "outside",
+      "meaning_mm": "အပြင်"
+    },
+    {
+      "headword_no": 53,
+      "id": "n5-ch6-053-02",
+      "kanji": "外国",
+      "reading": "がいこく",
+      "meaning_en": "foreign country",
+      "meaning_mm": "နိုင်ငံခြား"
+    },
+    {
+      "headword_no": 54,
+      "id": "n5-ch6-054-01",
+      "kanji": "左",
+      "reading": "ひだり",
+      "meaning_en": "left",
+      "meaning_mm": "ဘယ်"
+    },
+    {
+      "headword_no": 54,
+      "id": "n5-ch6-054-02",
+      "kanji": "左手",
+      "reading": "ひだりて",
+      "meaning_en": "left hand",
+      "meaning_mm": "ဘယ်လက်"
+    },
+    {
+      "headword_no": 54,
+      "id": "n5-ch6-054-03",
+      "kanji": "左側",
+      "reading": "ひだりがわ",
+      "meaning_en": "left side",
+      "meaning_mm": "ဘယ်ဘက်"
+    },
+    {
+      "headword_no": 55,
+      "id": "n5-ch6-055-01",
+      "kanji": "右",
+      "reading": "みぎ",
+      "meaning_en": "right",
+      "meaning_mm": "ညာ"
+    },
+    {
+      "headword_no": 55,
+      "id": "n5-ch6-055-02",
+      "kanji": "右手",
+      "reading": "みぎて",
+      "meaning_en": "right hand",
+      "meaning_mm": "ညာလက်"
+    },
+    {
+      "headword_no": 55,
+      "id": "n5-ch6-055-03",
+      "kanji": "左右",
+      "reading": "さゆう",
+      "meaning_en": "left and right",
+      "meaning_mm": "ဘယ်ညာ"
+    },
+    {
+      "headword_no": 55,
+      "id": "n5-ch6-055-04",
+      "kanji": "右側",
+      "reading": "みぎがわ",
+      "meaning_en": "right side",
+      "meaning_mm": "ညာဘက်"
+    },
+    {
+      "headword_no": 56,
+      "id": "n5-ch6-056-01",
+      "kanji": "東",
+      "reading": "ひがし",
+      "meaning_en": "east",
+      "meaning_mm": "အရှေ့"
+    },
+    {
+      "headword_no": 56,
+      "id": "n5-ch6-056-02",
+      "kanji": "東口",
+      "reading": "ひがしぐち",
+      "meaning_en": "east exit",
+      "meaning_mm": "အရှေ့ထွက်ပေါက်"
+    },
+    {
+      "headword_no": 56,
+      "id": "n5-ch6-056-03",
+      "kanji": "東京",
+      "reading": "とうきょう",
+      "meaning_en": "Tokyo",
+      "meaning_mm": "တိုကျို"
+    },
+    {
+      "headword_no": 56,
+      "id": "n5-ch6-056-04",
+      "kanji": "東洋",
+      "reading": "とうよう",
+      "meaning_en": "the Orient",
+      "meaning_mm": "အရှေ့တိုင်း"
+    },
+    {
+      "headword_no": 57,
+      "id": "n5-ch6-057-01",
+      "kanji": "西",
+      "reading": "にし",
+      "meaning_en": "west",
+      "meaning_mm": "အနောက်"
+    },
+    {
+      "headword_no": 57,
+      "id": "n5-ch6-057-02",
+      "kanji": "西口",
+      "reading": "にしぐち",
+      "meaning_en": "west exit",
+      "meaning_mm": "အနောက်ထွက်ပေါက်"
+    },
+    {
+      "headword_no": 57,
+      "id": "n5-ch6-057-03",
+      "kanji": "東西",
+      "reading": "とうざい",
+      "meaning_en": "east and west",
+      "meaning_mm": "အရှေ့နှင့်အနောက်"
+    },
+    {
+      "headword_no": 57,
+      "id": "n5-ch6-057-04",
+      "kanji": "西洋",
+      "reading": "せいよう",
+      "meaning_en": "the West",
+      "meaning_mm": "အနောက်တိုင်း"
+    },
+    {
+      "headword_no": 58,
+      "id": "n5-ch6-058-01",
+      "kanji": "南",
+      "reading": "みなみ",
+      "meaning_en": "south",
+      "meaning_mm": "တောင်"
+    },
+    {
+      "headword_no": 58,
+      "id": "n5-ch6-058-02",
+      "kanji": "南口",
+      "reading": "みなみぐち",
+      "meaning_en": "south exit",
+      "meaning_mm": "တောင်ဘက်ထွက်ပေါက်"
+    },
+    {
+      "headword_no": 58,
+      "id": "n5-ch6-058-03",
+      "kanji": "東南アジア",
+      "reading": "とうなんアジア",
+      "meaning_en": "Southeast Asia",
+      "meaning_mm": "အရှေ့တောင် အာရှ"
+    },
+    {
+      "headword_no": 58,
+      "id": "n5-ch6-058-04",
+      "kanji": "南極",
+      "reading": "なんきょく",
+      "meaning_en": "South Pole",
+      "meaning_mm": "တောင်ဝင်ရိုးစွန်း"
+    },
+    {
+      "headword_no": 59,
+      "id": "n5-ch6-059-01",
+      "kanji": "北",
+      "reading": "きた",
+      "meaning_en": "north",
+      "meaning_mm": "မြောက်"
+    },
+    {
+      "headword_no": 59,
+      "id": "n5-ch6-059-02",
+      "kanji": "北口",
+      "reading": "きたぐち",
+      "meaning_en": "north exit",
+      "meaning_mm": "မြောက်ဘက်ထွက်ပေါက်"
+    },
+    {
+      "headword_no": 59,
+      "id": "n5-ch6-059-03",
+      "kanji": "南北",
+      "reading": "なんぼく",
+      "meaning_en": "north and south",
+      "meaning_mm": "မြောက်တောင်"
+    },
+    {
+      "headword_no": 59,
+      "id": "n5-ch6-059-04",
+      "kanji": "北海道",
+      "reading": "ほっかいどう",
+      "meaning_en": "Hokkaido",
+      "meaning_mm": "ဟော့ကိုင်ဒိုး"
+    },
+    {
+      "headword_no": 60,
+      "id": "n5-ch6-060-01",
+      "kanji": "名前",
+      "reading": "なまえ",
+      "meaning_en": "name",
+      "meaning_mm": "နာမည်"
+    },
+    {
+      "headword_no": 60,
+      "id": "n5-ch6-060-02",
+      "kanji": "十名",
+      "reading": "じゅうめい",
+      "meaning_en": "10 people",
+      "meaning_mm": "လူ ၁၀ ယောက်"
+    },
+    {
+      "headword_no": 60,
+      "id": "n5-ch6-060-03",
+      "kanji": "有名な",
+      "reading": "ゆうめいな",
+      "meaning_en": "famous",
+      "meaning_mm": "နာမည်ကြီး"
+    },
+    {
+      "headword_no": 60,
+      "id": "n5-ch6-060-04",
+      "kanji": "人名",
+      "reading": "じんめい",
+      "meaning_en": "person's name",
+      "meaning_mm": "လူ့နာမည်"
+    }
+  ]
+}

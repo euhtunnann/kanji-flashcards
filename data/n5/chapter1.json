@@ -1,0 +1,283 @@
+{
+  "level": "N5",
+  "chapter": 1,
+  "title": "絵からできた漢字 1",
+  "source_headwords": {
+    "from": 1,
+    "to": 10
+  },
+  "cards": [
+    {
+      "headword_no": 1,
+      "id": "n5-ch1-001-01",
+      "kanji": "山",
+      "reading": "やま",
+      "meaning_en": "mountain",
+      "meaning_mm": "တောင်"
+    },
+    {
+      "headword_no": 1,
+      "id": "n5-ch1-001-02",
+      "kanji": "ふじ山",
+      "reading": "ふじさん",
+      "meaning_en": "Mt. Fuji",
+      "meaning_mm": "ဖူဂျီတောင်"
+    },
+    {
+      "headword_no": 1,
+      "id": "n5-ch1-001-03",
+      "kanji": "登山",
+      "reading": "とざん",
+      "meaning_en": "mountain climbing",
+      "meaning_mm": "တောင်တက်ခြင်း"
+    },
+    {
+      "headword_no": 2,
+      "id": "n5-ch1-002-01",
+      "kanji": "川",
+      "reading": "かわ",
+      "meaning_en": "river",
+      "meaning_mm": "မြစ်"
+    },
+    {
+      "headword_no": 2,
+      "id": "n5-ch1-002-02",
+      "kanji": "山川さん",
+      "reading": "やまかわさん",
+      "meaning_en": "Mr./Ms. Yamakawa",
+      "meaning_mm": "ယာမကာဝ (အမည်)"
+    },
+    {
+      "headword_no": 2,
+      "id": "n5-ch1-002-03",
+      "kanji": "インダス川",
+      "reading": "インダスがわ",
+      "meaning_en": "the Indus River",
+      "meaning_mm": "အင်ဒပ်မြစ်"
+    },
+    {
+      "headword_no": 3,
+      "id": "n5-ch1-003-01",
+      "kanji": "田",
+      "reading": "た",
+      "meaning_en": "rice field",
+      "meaning_mm": "လယ်ကွင်း"
+    },
+    {
+      "headword_no": 3,
+      "id": "n5-ch1-003-02",
+      "kanji": "山田さん",
+      "reading": "やまださん",
+      "meaning_en": "Mr./Ms. Yamada",
+      "meaning_mm": "ယာမဒ (အမည်)"
+    },
+    {
+      "headword_no": 3,
+      "id": "n5-ch1-003-03",
+      "kanji": "水田",
+      "reading": "すいでん",
+      "meaning_en": "paddy field",
+      "meaning_mm": "လယ်ကွင်း"
+    },
+    {
+      "headword_no": 3,
+      "id": "n5-ch1-003-04",
+      "kanji": "油田",
+      "reading": "ゆでん",
+      "meaning_en": "oil field",
+      "meaning_mm": "ရေနံမြေ"
+    },
+    {
+      "headword_no": 4,
+      "id": "n5-ch1-004-01",
+      "kanji": "日",
+      "reading": "ひ",
+      "meaning_en": "sun; day",
+      "meaning_mm": "နေ; နေ့"
+    },
+    {
+      "headword_no": 4,
+      "id": "n5-ch1-004-02",
+      "kanji": "日曜日",
+      "reading": "にちようび",
+      "meaning_en": "Sunday",
+      "meaning_mm": "တနင်္ဂနွေ"
+    },
+    {
+      "headword_no": 4,
+      "id": "n5-ch1-004-03",
+      "kanji": "日本",
+      "reading": "にほん",
+      "meaning_en": "Japan",
+      "meaning_mm": "ဂျပန်"
+    },
+    {
+      "headword_no": 4,
+      "id": "n5-ch1-004-04",
+      "kanji": "休日",
+      "reading": "きゅうじつ",
+      "meaning_en": "holiday",
+      "meaning_mm": "ရုံးပိတ်ရက်"
+    },
+    {
+      "headword_no": 5,
+      "id": "n5-ch1-005-01",
+      "kanji": "月",
+      "reading": "つき",
+      "meaning_en": "moon; month",
+      "meaning_mm": "လ; လ (ကာလ)"
+    },
+    {
+      "headword_no": 5,
+      "id": "n5-ch1-005-02",
+      "kanji": "月曜日",
+      "reading": "げつようび",
+      "meaning_en": "Monday",
+      "meaning_mm": "တနင်္လာ"
+    },
+    {
+      "headword_no": 5,
+      "id": "n5-ch1-005-03",
+      "kanji": "1月",
+      "reading": "いちがつ",
+      "meaning_en": "January",
+      "meaning_mm": "ဇန်နဝါရီ"
+    },
+    {
+      "headword_no": 5,
+      "id": "n5-ch1-005-04",
+      "kanji": "今月",
+      "reading": "こんげつ",
+      "meaning_en": "this month",
+      "meaning_mm": "ဒီလ"
+    },
+    {
+      "headword_no": 6,
+      "id": "n5-ch1-006-01",
+      "kanji": "火",
+      "reading": "ひ",
+      "meaning_en": "fire",
+      "meaning_mm": "မီး"
+    },
+    {
+      "headword_no": 6,
+      "id": "n5-ch1-006-02",
+      "kanji": "火曜日",
+      "reading": "かようび",
+      "meaning_en": "Tuesday",
+      "meaning_mm": "အင်္ဂါ"
+    },
+    {
+      "headword_no": 6,
+      "id": "n5-ch1-006-03",
+      "kanji": "火山",
+      "reading": "かざん",
+      "meaning_en": "volcano",
+      "meaning_mm": "မီးတောင်"
+    },
+    {
+      "headword_no": 6,
+      "id": "n5-ch1-006-04",
+      "kanji": "火事",
+      "reading": "かじ",
+      "meaning_en": "fire (disaster)",
+      "meaning_mm": "မီးလောင်မှု"
+    },
+    {
+      "headword_no": 7,
+      "id": "n5-ch1-007-01",
+      "kanji": "水",
+      "reading": "みず",
+      "meaning_en": "water",
+      "meaning_mm": "ရေ"
+    },
+    {
+      "headword_no": 7,
+      "id": "n5-ch1-007-02",
+      "kanji": "水曜日",
+      "reading": "すいようび",
+      "meaning_en": "Wednesday",
+      "meaning_mm": "ဗုဒ္ဓဟူး"
+    },
+    {
+      "headword_no": 7,
+      "id": "n5-ch1-007-03",
+      "kanji": "水田",
+      "reading": "すいでん",
+      "meaning_en": "paddy field",
+      "meaning_mm": "လယ်ကွင်း"
+    },
+    {
+      "headword_no": 7,
+      "id": "n5-ch1-007-04",
+      "kanji": "水道",
+      "reading": "すいどう",
+      "meaning_en": "water supply",
+      "meaning_mm": "ရေပေးဝေရေး"
+    },
+    {
+      "headword_no": 8,
+      "id": "n5-ch1-008-01",
+      "kanji": "木",
+      "reading": "き",
+      "meaning_en": "tree",
+      "meaning_mm": "သစ်ပင်"
+    },
+    {
+      "headword_no": 8,
+      "id": "n5-ch1-008-02",
+      "kanji": "木曜日",
+      "reading": "もくようび",
+      "meaning_en": "Thursday",
+      "meaning_mm": "ကြာသပတေး"
+    },
+    {
+      "headword_no": 9,
+      "id": "n5-ch1-009-01",
+      "kanji": "お金",
+      "reading": "おかね",
+      "meaning_en": "money",
+      "meaning_mm": "ပိုက်ဆံ"
+    },
+    {
+      "headword_no": 9,
+      "id": "n5-ch1-009-02",
+      "kanji": "金",
+      "reading": "きん",
+      "meaning_en": "gold",
+      "meaning_mm": "ရွှေ"
+    },
+    {
+      "headword_no": 9,
+      "id": "n5-ch1-009-03",
+      "kanji": "金曜日",
+      "reading": "きんようび",
+      "meaning_en": "Friday",
+      "meaning_mm": "သောကြာ"
+    },
+    {
+      "headword_no": 10,
+      "id": "n5-ch1-010-01",
+      "kanji": "土",
+      "reading": "つち",
+      "meaning_en": "soil; earth",
+      "meaning_mm": "မြေဆီလွှာ"
+    },
+    {
+      "headword_no": 10,
+      "id": "n5-ch1-010-02",
+      "kanji": "土曜日",
+      "reading": "どようび",
+      "meaning_en": "Saturday",
+      "meaning_mm": "စနေ"
+    },
+    {
+      "headword_no": 10,
+      "id": "n5-ch1-010-03",
+      "kanji": "土地",
+      "reading": "とち",
+      "meaning_en": "land",
+      "meaning_mm": "မြေ / မြေကွက်"
+    }
+  ]
+}

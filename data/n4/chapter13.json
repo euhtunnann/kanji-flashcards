@@ -60,7 +60,7 @@
       "kanji": "回転ずし",
       "reading": "かいてんずし",
       "meaning_en": "conveyor-belt sushi",
-      "meaning_mm": "လှည့်စားစတိုင် ဆူရှီ"
+      "meaning_mm": "လည်ပတ်နေသော ဆူရှီ (ခိုင်တန်းဆူရှီ)"
     },
     {
       "headword_no": 233,
@@ -140,7 +140,7 @@
       "kanji": "人形",
       "reading": "にんぎょう",
       "meaning_en": "doll",
-      "meaning_mm": "ဖက်ကလေး"
+      "meaning_mm": "အရုပ်"
     },
     {
       "headword_no": 235,
@@ -300,7 +300,7 @@
       "kanji": "同級生",
       "reading": "どうきゅうせい",
       "meaning_en": "classmate",
-      "meaning_mm": "တန်းတူကျောင်းသား"
+      "meaning_mm": "အတန်းဖော်"
     }
   ]
 }

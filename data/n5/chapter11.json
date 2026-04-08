@@ -1,0 +1,307 @@
+{
+  "level": "N5",
+  "chapter": 11,
+  "title": "組み合わせ漢字 2",
+  "source_headwords": {
+    "from": 101,
+    "to": 110
+  },
+  "cards": [
+    {
+      "headword_no": 101,
+      "id": "n5-ch11-101-01",
+      "kanji": "今",
+      "reading": "いま",
+      "meaning_en": "now",
+      "meaning_mm": "ယခု"
+    },
+    {
+      "headword_no": 101,
+      "id": "n5-ch11-101-02",
+      "kanji": "今月",
+      "reading": "こんげつ",
+      "meaning_en": "this month",
+      "meaning_mm": "ဒီလ"
+    },
+    {
+      "headword_no": 101,
+      "id": "n5-ch11-101-03",
+      "kanji": "今年",
+      "reading": "ことし",
+      "meaning_en": "this year",
+      "meaning_mm": "ဒီနှစ်"
+    },
+    {
+      "headword_no": 101,
+      "id": "n5-ch11-101-04",
+      "kanji": "今日",
+      "reading": "きょう",
+      "meaning_en": "today",
+      "meaning_mm": "ယနေ့"
+    },
+    {
+      "headword_no": 102,
+      "id": "n5-ch11-102-01",
+      "kanji": "会う",
+      "reading": "あう",
+      "meaning_en": "to meet",
+      "meaning_mm": "တွေ့သည်"
+    },
+    {
+      "headword_no": 102,
+      "id": "n5-ch11-102-02",
+      "kanji": "会話",
+      "reading": "かいわ",
+      "meaning_en": "conversation",
+      "meaning_mm": "စကားပြောဆိုမှု"
+    },
+    {
+      "headword_no": 102,
+      "id": "n5-ch11-102-03",
+      "kanji": "新年会",
+      "reading": "しんねんかい",
+      "meaning_en": "New Year's party",
+      "meaning_mm": "နှစ်သစ်ကူးပွဲ"
+    },
+    {
+      "headword_no": 102,
+      "id": "n5-ch11-102-04",
+      "kanji": "会議",
+      "reading": "かいぎ",
+      "meaning_en": "meeting",
+      "meaning_mm": "အစည်းအဝေး"
+    },
+    {
+      "headword_no": 103,
+      "id": "n5-ch11-103-01",
+      "kanji": "社会",
+      "reading": "しゃかい",
+      "meaning_en": "society",
+      "meaning_mm": "လူ့အဖွဲ့အစည်း"
+    },
+    {
+      "headword_no": 103,
+      "id": "n5-ch11-103-02",
+      "kanji": "会社",
+      "reading": "かいしゃ",
+      "meaning_en": "company",
+      "meaning_mm": "ကုမ္ပဏီ"
+    },
+    {
+      "headword_no": 103,
+      "id": "n5-ch11-103-03",
+      "kanji": "社長",
+      "reading": "しゃちょう",
+      "meaning_en": "company president",
+      "meaning_mm": "ကုမ္ပဏီဥက္ကဋ္ဌ"
+    },
+    {
+      "headword_no": 103,
+      "id": "n5-ch11-103-04",
+      "kanji": "神社",
+      "reading": "じんじゃ",
+      "meaning_en": "shrine",
+      "meaning_mm": "နတ်ကွန်း"
+    },
+    {
+      "headword_no": 104,
+      "id": "n5-ch11-104-01",
+      "kanji": "店",
+      "reading": "みせ",
+      "meaning_en": "shop",
+      "meaning_mm": "ဆိုင်"
+    },
+    {
+      "headword_no": 104,
+      "id": "n5-ch11-104-02",
+      "kanji": "店員",
+      "reading": "てんいん",
+      "meaning_en": "clerk",
+      "meaning_mm": "အရောင်းဝန်ထမ်း"
+    },
+    {
+      "headword_no": 104,
+      "id": "n5-ch11-104-03",
+      "kanji": "売店",
+      "reading": "ばいてん",
+      "meaning_en": "kiosk",
+      "meaning_mm": "ဆိုင်ခန်း"
+    },
+    {
+      "headword_no": 105,
+      "id": "n5-ch11-105-01",
+      "kanji": "駅",
+      "reading": "えき",
+      "meaning_en": "station",
+      "meaning_mm": "ဘူတာ"
+    },
+    {
+      "headword_no": 105,
+      "id": "n5-ch11-105-02",
+      "kanji": "駅長",
+      "reading": "えきちょう",
+      "meaning_en": "station master",
+      "meaning_mm": "ဘူတာမှူး"
+    },
+    {
+      "headword_no": 105,
+      "id": "n5-ch11-105-03",
+      "kanji": "駅前",
+      "reading": "えきまえ",
+      "meaning_en": "in front of the station",
+      "meaning_mm": "ဘူတာရှေ့"
+    },
+    {
+      "headword_no": 106,
+      "id": "n5-ch11-106-01",
+      "kanji": "花",
+      "reading": "はな",
+      "meaning_en": "flower",
+      "meaning_mm": "ပန်း"
+    },
+    {
+      "headword_no": 106,
+      "id": "n5-ch11-106-02",
+      "kanji": "花見",
+      "reading": "はなみ",
+      "meaning_en": "cherry-blossom viewing",
+      "meaning_mm": "ချယ်ရီပန်းကြည့်ပွဲ"
+    },
+    {
+      "headword_no": 106,
+      "id": "n5-ch11-106-03",
+      "kanji": "花火",
+      "reading": "はなび",
+      "meaning_en": "fireworks",
+      "meaning_mm": "မီးရှူးမီးပန်း"
+    },
+    {
+      "headword_no": 106,
+      "id": "n5-ch11-106-04",
+      "kanji": "花屋",
+      "reading": "はなや",
+      "meaning_en": "florist",
+      "meaning_mm": "ပန်းဆိုင်"
+    },
+    {
+      "headword_no": 107,
+      "id": "n5-ch11-107-01",
+      "kanji": "国",
+      "reading": "くに",
+      "meaning_en": "country",
+      "meaning_mm": "နိုင်ငံ"
+    },
+    {
+      "headword_no": 107,
+      "id": "n5-ch11-107-02",
+      "kanji": "外国",
+      "reading": "がいこく",
+      "meaning_en": "foreign country",
+      "meaning_mm": "နိုင်ငံခြား"
+    },
+    {
+      "headword_no": 107,
+      "id": "n5-ch11-107-03",
+      "kanji": "中国",
+      "reading": "ちゅうごく",
+      "meaning_en": "China",
+      "meaning_mm": "တရုတ်"
+    },
+    {
+      "headword_no": 107,
+      "id": "n5-ch11-107-04",
+      "kanji": "国際会議",
+      "reading": "こくさいかいぎ",
+      "meaning_en": "international conference",
+      "meaning_mm": "နိုင်ငံတကာညီလာခံ"
+    },
+    {
+      "headword_no": 108,
+      "id": "n5-ch11-108-01",
+      "kanji": "白い",
+      "reading": "しろい",
+      "meaning_en": "white",
+      "meaning_mm": "အဖြူ"
+    },
+    {
+      "headword_no": 108,
+      "id": "n5-ch11-108-02",
+      "kanji": "白書",
+      "reading": "はくしょ",
+      "meaning_en": "white paper",
+      "meaning_mm": "စက္ကူဖြူ"
+    },
+    {
+      "headword_no": 108,
+      "id": "n5-ch11-108-03",
+      "kanji": "真っ白",
+      "reading": "まっしろ",
+      "meaning_en": "pure white",
+      "meaning_mm": "အဖြူဆွတ်ဆွတ်"
+    },
+    {
+      "headword_no": 109,
+      "id": "n5-ch11-109-01",
+      "kanji": "空",
+      "reading": "そら",
+      "meaning_en": "sky",
+      "meaning_mm": "ကောင်းကင်"
+    },
+    {
+      "headword_no": 109,
+      "id": "n5-ch11-109-02",
+      "kanji": "空気",
+      "reading": "くうき",
+      "meaning_en": "air",
+      "meaning_mm": "လေ"
+    },
+    {
+      "headword_no": 109,
+      "id": "n5-ch11-109-03",
+      "kanji": "大空",
+      "reading": "おおぞら",
+      "meaning_en": "open sky",
+      "meaning_mm": "ကောင်းကင်ပြင်"
+    },
+    {
+      "headword_no": 109,
+      "id": "n5-ch11-109-04",
+      "kanji": "空港",
+      "reading": "くうこう",
+      "meaning_en": "airport",
+      "meaning_mm": "လေဆိပ်"
+    },
+    {
+      "headword_no": 110,
+      "id": "n5-ch11-110-01",
+      "kanji": "電車",
+      "reading": "でんしゃ",
+      "meaning_en": "train",
+      "meaning_mm": "ရထား"
+    },
+    {
+      "headword_no": 110,
+      "id": "n5-ch11-110-02",
+      "kanji": "電話",
+      "reading": "でんわ",
+      "meaning_en": "telephone",
+      "meaning_mm": "တယ်လီဖုန်း"
+    },
+    {
+      "headword_no": 110,
+      "id": "n5-ch11-110-03",
+      "kanji": "電気",
+      "reading": "でんき",
+      "meaning_en": "electricity; light",
+      "meaning_mm": "လျှပ်စစ်; မီး"
+    },
+    {
+      "headword_no": 110,
+      "id": "n5-ch11-110-04",
+      "kanji": "電池",
+      "reading": "でんち",
+      "meaning_en": "battery",
+      "meaning_mm": "ဓာတ်ခဲ"
+    }
+  ]
+}

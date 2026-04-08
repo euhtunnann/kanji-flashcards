@@ -20,7 +20,7 @@
       "kanji": "漢方薬",
       "reading": "かんぽうやく",
       "meaning_en": "Chinese herbal medicine",
-      "meaning_mm": "တရုတ်ဆေးဖက်ဝင် ဆေး"
+      "meaning_mm": "တရုတ်တိုင်းရင်းဆေး"
     },
     {
       "headword_no": 282,
@@ -36,7 +36,7 @@
       "kanji": "活字",
       "reading": "かつじ",
       "meaning_en": "printing type",
-      "meaning_mm": "စာပိုက် / ပုံနှိပ်အက္ခရာ"
+      "meaning_mm": "ပုံနှိပ်စာလုံး / ခဲစာလုံး"
     },
     {
       "headword_no": 282,
@@ -52,7 +52,7 @@
       "kanji": "文",
       "reading": "ぶん",
       "meaning_en": "sentence; text",
-      "meaning_mm": "စာပိုဒ် / စာသား"
+      "meaning_mm": "ဝါကျ / စာသား"
     },
     {
       "headword_no": 283,
@@ -100,7 +100,7 @@
       "kanji": "教科書",
       "reading": "きょうかしょ",
       "meaning_en": "textbook",
-      "meaning_mm": "သင်ရိုးစာအုပ်"
+      "meaning_mm": "ဖတ်စာအုပ် / ပြဋ္ဌာန်းစာအုပ်"
     },
     {
       "headword_no": 284,
@@ -196,7 +196,7 @@
       "kanji": "参考書",
       "reading": "さんこうしょ",
       "meaning_en": "reference book",
-      "meaning_mm": "ကိုးကားစာအုပ်"
+      "meaning_mm": "ရည်ညွှန်းစာအုပ် / အထောက်အကူပြုစာအုပ်"
     },
     {
       "headword_no": 289,
@@ -212,7 +212,7 @@
       "kanji": "研究者",
       "reading": "けんきゅうしゃ",
       "meaning_en": "researcher",
-      "meaning_mm": "သုတေသနသမား"
+      "meaning_mm": "သုတေသီ"
     },
     {
       "headword_no": 290,

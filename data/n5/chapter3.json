@@ -1,0 +1,323 @@
+{
+  "level": "N5",
+  "chapter": 3,
+  "title": "数と記号",
+  "source_headwords": {
+    "from": 21,
+    "to": 30
+  },
+  "cards": [
+    {
+      "headword_no": 21,
+      "id": "n5-ch3-021-01",
+      "kanji": "百",
+      "reading": "ひゃく",
+      "meaning_en": "100",
+      "meaning_mm": "တစ်ရာ"
+    },
+    {
+      "headword_no": 21,
+      "id": "n5-ch3-021-02",
+      "kanji": "三百",
+      "reading": "さんびゃく",
+      "meaning_en": "300",
+      "meaning_mm": "သုံးရာ"
+    },
+    {
+      "headword_no": 21,
+      "id": "n5-ch3-021-03",
+      "kanji": "六百",
+      "reading": "ろっぴゃく",
+      "meaning_en": "600",
+      "meaning_mm": "ခြောက်ရာ"
+    },
+    {
+      "headword_no": 21,
+      "id": "n5-ch3-021-04",
+      "kanji": "百科事典",
+      "reading": "ひゃっかじてん",
+      "meaning_en": "encyclopedia",
+      "meaning_mm": "စွယ်စုံကျမ်း"
+    },
+    {
+      "headword_no": 22,
+      "id": "n5-ch3-022-01",
+      "kanji": "千",
+      "reading": "せん",
+      "meaning_en": "1,000",
+      "meaning_mm": "တစ်ထောင်"
+    },
+    {
+      "headword_no": 22,
+      "id": "n5-ch3-022-02",
+      "kanji": "二千",
+      "reading": "にせん",
+      "meaning_en": "2,000",
+      "meaning_mm": "နှစ်ထောင်"
+    },
+    {
+      "headword_no": 22,
+      "id": "n5-ch3-022-03",
+      "kanji": "三千",
+      "reading": "さんぜん",
+      "meaning_en": "3,000",
+      "meaning_mm": "သုံးထောင်"
+    },
+    {
+      "headword_no": 22,
+      "id": "n5-ch3-022-04",
+      "kanji": "千葉県",
+      "reading": "ちばけん",
+      "meaning_en": "Chiba Prefecture",
+      "meaning_mm": "ချီဘာစီရင်စု"
+    },
+    {
+      "headword_no": 23,
+      "id": "n5-ch3-023-01",
+      "kanji": "万",
+      "reading": "まん",
+      "meaning_en": "10,000",
+      "meaning_mm": "တစ်သောင်း"
+    },
+    {
+      "headword_no": 23,
+      "id": "n5-ch3-023-02",
+      "kanji": "一万",
+      "reading": "いちまん",
+      "meaning_en": "10,000",
+      "meaning_mm": "တစ်သောင်း"
+    },
+    {
+      "headword_no": 23,
+      "id": "n5-ch3-023-03",
+      "kanji": "万国",
+      "reading": "ばんこく",
+      "meaning_en": "all nations",
+      "meaning_mm": "နိုင်ငံပေါင်းစုံ"
+    },
+    {
+      "headword_no": 23,
+      "id": "n5-ch3-023-04",
+      "kanji": "万年筆",
+      "reading": "まんねんひつ",
+      "meaning_en": "fountain pen",
+      "meaning_mm": "မင်တံ"
+    },
+    {
+      "headword_no": 24,
+      "id": "n5-ch3-024-01",
+      "kanji": "円",
+      "reading": "えん",
+      "meaning_en": "yen; circle",
+      "meaning_mm": "ယန်း; စက်ဝိုင်း"
+    },
+    {
+      "headword_no": 24,
+      "id": "n5-ch3-024-02",
+      "kanji": "四万円",
+      "reading": "よんまんえん",
+      "meaning_en": "40,000 yen",
+      "meaning_mm": "ယန်း ၄ သောင်း"
+    },
+    {
+      "headword_no": 24,
+      "id": "n5-ch3-024-03",
+      "kanji": "円高",
+      "reading": "えんだか",
+      "meaning_en": "strong yen",
+      "meaning_mm": "ယန်းတန်ဖိုးတက်ခြင်း"
+    },
+    {
+      "headword_no": 25,
+      "id": "n5-ch3-025-01",
+      "kanji": "年",
+      "reading": "とし",
+      "meaning_en": "year; age",
+      "meaning_mm": "နှစ်; အသက်"
+    },
+    {
+      "headword_no": 25,
+      "id": "n5-ch3-025-02",
+      "kanji": "二千年",
+      "reading": "にせんねん",
+      "meaning_en": "the year 2000",
+      "meaning_mm": "၂၀၀၀ ခုနှစ်"
+    },
+    {
+      "headword_no": 25,
+      "id": "n5-ch3-025-03",
+      "kanji": "来年",
+      "reading": "らいねん",
+      "meaning_en": "next year",
+      "meaning_mm": "လာမည့်နှစ်"
+    },
+    {
+      "headword_no": 25,
+      "id": "n5-ch3-025-04",
+      "kanji": "年金",
+      "reading": "ねんきん",
+      "meaning_en": "pension",
+      "meaning_mm": "ပင်စင်"
+    },
+    {
+      "headword_no": 26,
+      "id": "n5-ch3-026-01",
+      "kanji": "上",
+      "reading": "うえ",
+      "meaning_en": "above; on",
+      "meaning_mm": "အပေါ်; ပေါ်မှာ"
+    },
+    {
+      "headword_no": 26,
+      "id": "n5-ch3-026-02",
+      "kanji": "上がる",
+      "reading": "あがる",
+      "meaning_en": "to go up",
+      "meaning_mm": "တက်သည်"
+    },
+    {
+      "headword_no": 26,
+      "id": "n5-ch3-026-03",
+      "kanji": "水上スキー",
+      "reading": "すいじょうスキー",
+      "meaning_en": "water skiing",
+      "meaning_mm": "ရေပေါ်စကီးစီးခြင်း"
+    },
+    {
+      "headword_no": 26,
+      "id": "n5-ch3-026-04",
+      "kanji": "上着",
+      "reading": "うわぎ",
+      "meaning_en": "jacket",
+      "meaning_mm": "အပေါ်ဝတ်အင်္ကျီ"
+    },
+    {
+      "headword_no": 27,
+      "id": "n5-ch3-027-01",
+      "kanji": "下",
+      "reading": "した",
+      "meaning_en": "below; under",
+      "meaning_mm": "အောက်; အောက်မှာ"
+    },
+    {
+      "headword_no": 27,
+      "id": "n5-ch3-027-02",
+      "kanji": "下がる",
+      "reading": "さがる",
+      "meaning_en": "to go down",
+      "meaning_mm": "ဆင်းသည်"
+    },
+    {
+      "headword_no": 27,
+      "id": "n5-ch3-027-03",
+      "kanji": "上下",
+      "reading": "じょうげ",
+      "meaning_en": "up and down",
+      "meaning_mm": "အပေါ်အောက်"
+    },
+    {
+      "headword_no": 27,
+      "id": "n5-ch3-027-04",
+      "kanji": "地下鉄",
+      "reading": "ちかてつ",
+      "meaning_en": "subway",
+      "meaning_mm": "မြေအောက်ရထား"
+    },
+    {
+      "headword_no": 28,
+      "id": "n5-ch3-028-01",
+      "kanji": "中",
+      "reading": "なか",
+      "meaning_en": "inside; middle",
+      "meaning_mm": "အတွင်း; အလယ်"
+    },
+    {
+      "headword_no": 28,
+      "id": "n5-ch3-028-02",
+      "kanji": "一日中",
+      "reading": "いちにちじゅう",
+      "meaning_en": "all day long",
+      "meaning_mm": "တစ်နေ့လုံး"
+    },
+    {
+      "headword_no": 28,
+      "id": "n5-ch3-028-03",
+      "kanji": "中学",
+      "reading": "ちゅうがく",
+      "meaning_en": "junior high school",
+      "meaning_mm": "အလယ်တန်း"
+    },
+    {
+      "headword_no": 28,
+      "id": "n5-ch3-028-04",
+      "kanji": "中心",
+      "reading": "ちゅうしん",
+      "meaning_en": "center",
+      "meaning_mm": "ဗဟို"
+    },
+    {
+      "headword_no": 29,
+      "id": "n5-ch3-029-01",
+      "kanji": "半年",
+      "reading": "はんとし",
+      "meaning_en": "half a year",
+      "meaning_mm": "နှစ်ဝက်"
+    },
+    {
+      "headword_no": 29,
+      "id": "n5-ch3-029-02",
+      "kanji": "半分",
+      "reading": "はんぶん",
+      "meaning_en": "half",
+      "meaning_mm": "တဝက်"
+    },
+    {
+      "headword_no": 29,
+      "id": "n5-ch3-029-03",
+      "kanji": "四時半",
+      "reading": "よじはん",
+      "meaning_en": "4:30",
+      "meaning_mm": "လေး နာရီ ခွဲ"
+    },
+    {
+      "headword_no": 29,
+      "id": "n5-ch3-029-04",
+      "kanji": "半日",
+      "reading": "はんにち",
+      "meaning_en": "half a day",
+      "meaning_mm": "နေ့ဝက်"
+    },
+    {
+      "headword_no": 30,
+      "id": "n5-ch3-030-01",
+      "kanji": "分ける",
+      "reading": "わける",
+      "meaning_en": "to divide",
+      "meaning_mm": "ခွဲသည်"
+    },
+    {
+      "headword_no": 30,
+      "id": "n5-ch3-030-02",
+      "kanji": "分かる",
+      "reading": "わかる",
+      "meaning_en": "to understand",
+      "meaning_mm": "နားလည်သည်"
+    },
+    {
+      "headword_no": 30,
+      "id": "n5-ch3-030-03",
+      "kanji": "10分",
+      "reading": "じゅっぷん",
+      "meaning_en": "10 minutes",
+      "meaning_mm": "၁၀ မိနစ်"
+    },
+    {
+      "headword_no": 30,
+      "id": "n5-ch3-030-04",
+      "kanji": "十分",
+      "reading": "じゅうぶん",
+      "meaning_en": "enough",
+      "meaning_mm": "လုံလောက်"
+    }
+  ]
+}

@@ -12,7 +12,7 @@
       "kanji": "米",
       "reading": "こめ",
       "meaning_en": "rice (uncooked)",
-      "meaning_mm": "စပါး"
+      "meaning_mm": "ဆန်"
     },
     {
       "headword_no": 241,
@@ -28,7 +28,7 @@
       "kanji": "白米",
       "reading": "はくまい",
       "meaning_en": "polished rice",
-      "meaning_mm": "ဖြူစင်ထားသော စပါး"
+      "meaning_mm": "ဆန်ဖြူ"
     },
     {
       "headword_no": 242,
@@ -36,7 +36,7 @@
       "kanji": "料金",
       "reading": "りょうきん",
       "meaning_en": "fee; charge",
-      "meaning_mm": "ကြေးငွေ"
+      "meaning_mm": "အခကြေးငွေ / ကုန်ကျစရိတ်"
     },
     {
       "headword_no": 242,
@@ -108,7 +108,7 @@
       "kanji": "牛肉",
       "reading": "ぎゅうにく",
       "meaning_en": "beef",
-      "meaning_mm": "နွားသား"
+      "meaning_mm": "အမဲသား"
     },
     {
       "headword_no": 244,
@@ -188,7 +188,7 @@
       "kanji": "菜食",
       "reading": "さいしょく",
       "meaning_en": "vegetarian diet",
-      "meaning_mm": "သက်သက်လွတ်စား"
+      "meaning_mm": "သက်သတ်လွတ်စားခြင်း"
     },
     {
       "headword_no": 247,
@@ -196,7 +196,7 @@
       "kanji": "青菜",
       "reading": "あおな",
       "meaning_en": "leafy green vegetable",
-      "meaning_mm": "အစိမ်းရောင်ဟင်းရွက်"
+      "meaning_mm": "ဟင်းရွက်စိမ်း"
     },
     {
       "headword_no": 248,
@@ -228,7 +228,7 @@
       "kanji": "紅茶",
       "reading": "こうちゃ",
       "meaning_en": "black tea",
-      "meaning_mm": "အနက်ရောင်လက်ဖက်ရည်"
+      "meaning_mm": "လက်ဖက်ရည် / လက်ဖက်ခြောက်ရည်"
     },
     {
       "headword_no": 249,
@@ -236,7 +236,7 @@
       "kanji": "ご飯",
       "reading": "ごはん",
       "meaning_en": "cooked rice; meal",
-      "meaning_mm": "ထမင်း / ဝါယမ်း"
+      "meaning_mm": "ထမင်း / အစားအစာ"
     },
     {
       "headword_no": 249,

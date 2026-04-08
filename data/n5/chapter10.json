@@ -1,0 +1,291 @@
+{
+  "level": "N5",
+  "chapter": 10,
+  "title": "組み合わせ漢字 1",
+  "source_headwords": {
+    "from": 91,
+    "to": 100
+  },
+  "cards": [
+    {
+      "headword_no": 91,
+      "id": "n5-ch10-091-01",
+      "kanji": "話す",
+      "reading": "はなす",
+      "meaning_en": "to speak",
+      "meaning_mm": "စကားပြောသည်"
+    },
+    {
+      "headword_no": 91,
+      "id": "n5-ch10-091-02",
+      "kanji": "話",
+      "reading": "はなし",
+      "meaning_en": "talk; story",
+      "meaning_mm": "စကား; ပုံပြင်"
+    },
+    {
+      "headword_no": 91,
+      "id": "n5-ch10-091-03",
+      "kanji": "電話",
+      "reading": "でんわ",
+      "meaning_en": "telephone",
+      "meaning_mm": "တယ်လီဖုန်း"
+    },
+    {
+      "headword_no": 91,
+      "id": "n5-ch10-091-04",
+      "kanji": "会話",
+      "reading": "かいわ",
+      "meaning_en": "conversation",
+      "meaning_mm": "စကားပြောဆိုမှု"
+    },
+    {
+      "headword_no": 92,
+      "id": "n5-ch10-092-01",
+      "kanji": "読む",
+      "reading": "よむ",
+      "meaning_en": "to read",
+      "meaning_mm": "ဖတ်သည်"
+    },
+    {
+      "headword_no": 92,
+      "id": "n5-ch10-092-02",
+      "kanji": "読書",
+      "reading": "どくしょ",
+      "meaning_en": "reading books",
+      "meaning_mm": "စာဖတ်ခြင်း"
+    },
+    {
+      "headword_no": 93,
+      "id": "n5-ch10-093-01",
+      "kanji": "日本語",
+      "reading": "にほんご",
+      "meaning_en": "Japanese language",
+      "meaning_mm": "ဂျပန်စာ"
+    },
+    {
+      "headword_no": 93,
+      "id": "n5-ch10-093-02",
+      "kanji": "中国語",
+      "reading": "ちゅうごくご",
+      "meaning_en": "Chinese language",
+      "meaning_mm": "တရုတ်စာ"
+    },
+    {
+      "headword_no": 93,
+      "id": "n5-ch10-093-03",
+      "kanji": "外国語",
+      "reading": "がいこくご",
+      "meaning_en": "foreign language",
+      "meaning_mm": "နိုင်ငံခြားဘာသာစကား"
+    },
+    {
+      "headword_no": 94,
+      "id": "n5-ch10-094-01",
+      "kanji": "間",
+      "reading": "あいだ",
+      "meaning_en": "space between",
+      "meaning_mm": "အကြား"
+    },
+    {
+      "headword_no": 94,
+      "id": "n5-ch10-094-02",
+      "kanji": "時間",
+      "reading": "じかん",
+      "meaning_en": "time",
+      "meaning_mm": "အချိန်"
+    },
+    {
+      "headword_no": 94,
+      "id": "n5-ch10-094-03",
+      "kanji": "一年間",
+      "reading": "いちねんかん",
+      "meaning_en": "for one year",
+      "meaning_mm": "တစ်နှစ်တာ"
+    },
+    {
+      "headword_no": 94,
+      "id": "n5-ch10-094-04",
+      "kanji": "間に合う",
+      "reading": "まにあう",
+      "meaning_en": "to be in time",
+      "meaning_mm": "အချိန်မီသည်"
+    },
+    {
+      "headword_no": 95,
+      "id": "n5-ch10-095-01",
+      "kanji": "聞く",
+      "reading": "きく",
+      "meaning_en": "to listen; to ask",
+      "meaning_mm": "နားထောင်; မေးသည်"
+    },
+    {
+      "headword_no": 95,
+      "id": "n5-ch10-095-02",
+      "kanji": "聞こえる",
+      "reading": "きこえる",
+      "meaning_en": "to be heard",
+      "meaning_mm": "ကြားရသည်"
+    },
+    {
+      "headword_no": 95,
+      "id": "n5-ch10-095-03",
+      "kanji": "新聞",
+      "reading": "しんぶん",
+      "meaning_en": "newspaper",
+      "meaning_mm": "သတင်းစာ"
+    },
+    {
+      "headword_no": 96,
+      "id": "n5-ch10-096-01",
+      "kanji": "買う",
+      "reading": "かう",
+      "meaning_en": "to buy",
+      "meaning_mm": "ဝယ်သည်"
+    },
+    {
+      "headword_no": 96,
+      "id": "n5-ch10-096-02",
+      "kanji": "買い物する",
+      "reading": "かいものする",
+      "meaning_en": "to shop",
+      "meaning_mm": "စျေးဝယ်သည်"
+    },
+    {
+      "headword_no": 96,
+      "id": "n5-ch10-096-03",
+      "kanji": "売買する",
+      "reading": "ばいばいする",
+      "meaning_en": "to buy and sell",
+      "meaning_mm": "ရောင်းဝယ်သည်"
+    },
+    {
+      "headword_no": 97,
+      "id": "n5-ch10-097-01",
+      "kanji": "休む",
+      "reading": "やすむ",
+      "meaning_en": "to rest",
+      "meaning_mm": "အနားယူသည်"
+    },
+    {
+      "headword_no": 97,
+      "id": "n5-ch10-097-02",
+      "kanji": "休み",
+      "reading": "やすみ",
+      "meaning_en": "rest; holiday",
+      "meaning_mm": "အနား; ရုံးပိတ်"
+    },
+    {
+      "headword_no": 97,
+      "id": "n5-ch10-097-03",
+      "kanji": "休日",
+      "reading": "きゅうじつ",
+      "meaning_en": "holiday",
+      "meaning_mm": "ရုံးပိတ်ရက်"
+    },
+    {
+      "headword_no": 97,
+      "id": "n5-ch10-097-04",
+      "kanji": "夏休み",
+      "reading": "なつやすみ",
+      "meaning_en": "summer vacation",
+      "meaning_mm": "နွေရာသီ အားလပ်ရက်"
+    },
+    {
+      "headword_no": 98,
+      "id": "n5-ch10-098-01",
+      "kanji": "時",
+      "reading": "とき",
+      "meaning_en": "time",
+      "meaning_mm": "အချိန်"
+    },
+    {
+      "headword_no": 98,
+      "id": "n5-ch10-098-02",
+      "kanji": "4時",
+      "reading": "よじ",
+      "meaning_en": "4 o'clock",
+      "meaning_mm": "လေးနာရီ"
+    },
+    {
+      "headword_no": 98,
+      "id": "n5-ch10-098-03",
+      "kanji": "1時間",
+      "reading": "いちじかん",
+      "meaning_en": "one hour",
+      "meaning_mm": "တစ်နာရီ"
+    },
+    {
+      "headword_no": 98,
+      "id": "n5-ch10-098-04",
+      "kanji": "時計",
+      "reading": "とけい",
+      "meaning_en": "clock",
+      "meaning_mm": "နာရီ"
+    },
+    {
+      "headword_no": 99,
+      "id": "n5-ch10-099-01",
+      "kanji": "1週間",
+      "reading": "いっしゅうかん",
+      "meaning_en": "one week",
+      "meaning_mm": "တစ်ပတ်"
+    },
+    {
+      "headword_no": 99,
+      "id": "n5-ch10-099-02",
+      "kanji": "来週",
+      "reading": "らいしゅう",
+      "meaning_en": "next week",
+      "meaning_mm": "လာမည့်အပတ်"
+    },
+    {
+      "headword_no": 99,
+      "id": "n5-ch10-099-03",
+      "kanji": "先週",
+      "reading": "せんしゅう",
+      "meaning_en": "last week",
+      "meaning_mm": "ပြီးခဲ့သောပတ်"
+    },
+    {
+      "headword_no": 99,
+      "id": "n5-ch10-099-04",
+      "kanji": "今週",
+      "reading": "こんしゅう",
+      "meaning_en": "this week",
+      "meaning_mm": "ဒီပတ်"
+    },
+    {
+      "headword_no": 100,
+      "id": "n5-ch10-100-01",
+      "kanji": "道",
+      "reading": "みち",
+      "meaning_en": "road; way",
+      "meaning_mm": "လမ်း"
+    },
+    {
+      "headword_no": 100,
+      "id": "n5-ch10-100-02",
+      "kanji": "車道",
+      "reading": "しゃどう",
+      "meaning_en": "roadway",
+      "meaning_mm": "ကားလမ်း"
+    },
+    {
+      "headword_no": 100,
+      "id": "n5-ch10-100-03",
+      "kanji": "水道",
+      "reading": "すいどう",
+      "meaning_en": "water supply",
+      "meaning_mm": "ရေပေးဝေရေး"
+    },
+    {
+      "headword_no": 100,
+      "id": "n5-ch10-100-04",
+      "kanji": "書道",
+      "reading": "しょどう",
+      "meaning_en": "calligraphy",
+      "meaning_mm": "စာရေးအနုပညာ"
+    }
+  ]
+}

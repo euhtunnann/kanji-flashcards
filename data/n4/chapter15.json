@@ -36,7 +36,7 @@
       "kanji": "ガス代",
       "reading": "ガスだい",
       "meaning_en": "gas bill",
-      "meaning_mm": "ဓာတ်ငွေ့ကြေး"
+      "meaning_mm": "ဂက်စ်ဖိုး / ဓာတ်ငွေ့ခ"
     },
     {
       "headword_no": 252,
@@ -76,7 +76,7 @@
       "kanji": "作文",
       "reading": "さくぶん",
       "meaning_en": "essay",
-      "meaning_mm": "စာပိုဒ် / မှတ်စု"
+      "meaning_mm": "စာစီစာကုံး"
     },
     {
       "headword_no": 253,
@@ -148,7 +148,7 @@
       "kanji": "自信",
       "reading": "じしん",
       "meaning_en": "confidence",
-      "meaning_mm": "ယုံကြည်ချက်"
+      "meaning_mm": "မိမိကိုယ်ကို ယုံကြည်မှု"
     },
     {
       "headword_no": 255,
@@ -196,7 +196,7 @@
       "kanji": "送金",
       "reading": "そうきん",
       "meaning_en": "remittance",
-      "meaning_mm": "ငွေပို့ခြင်း"
+      "meaning_mm": "ငွေလွှဲခြင်း"
     },
     {
       "headword_no": 257,
@@ -300,7 +300,7 @@
       "kanji": "注射",
       "reading": "ちゅうしゃ",
       "meaning_en": "injection",
-      "meaning_mm": "ထိုးဆေး"
+      "meaning_mm": "ဆေးထိုးခြင်း"
     }
   ]
 }

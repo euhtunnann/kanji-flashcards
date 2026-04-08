@@ -31,6 +31,9 @@ const fallbackChapterData = {
 };
 
 let chapterData = {};
+/** @type {{ N4: Array<{ key: string, text: string, chapterNo: number }>, N5: Array<{ key: string, text: string, chapterNo: number }> }} */
+let lessonListsByLevel = { N4: [], N5: [] };
+let currentLevel = "N4";
 let currentChapter = "";
 let currentCardIndex = 0;
 let isRandomOrder = false;
@@ -47,7 +50,8 @@ const shuffleBtn = document.getElementById("shuffle-btn");
 const cardCounter = document.getElementById("card-counter");
 const progressBar = document.getElementById("progress-bar");
 const pronounceBtn = document.getElementById("pronounce-btn");
-const chapterSelect = document.getElementById("chapter-select");
+const levelSelect = document.getElementById("level-select");
+const lessonSelect = document.getElementById("lesson-select");
 const settingsBtn = document.getElementById("settings-btn");
 const settingsModal = document.getElementById("settings-modal");
 const closeModalBtn = document.getElementById("close-modal-btn");
@@ -63,32 +67,80 @@ function normalizeCards(rawCards) {
     }));
 }
 
-function chapterMenuLabel(json) {
+const N4_CHAPTER_COUNT = 20;
+const N5_CHAPTER_COUNT = 11;
+
+function chapterStorageKey(json, levelDefault) {
+    const level = json.level || levelDefault || "N4";
+    const sh = json.source_headwords;
+    const range = sh && sh.from != null && sh.to != null ? ` (${sh.from}-${sh.to})` : "";
+    return `${level} · Lesson ${json.chapter}: ${json.title}${range}`;
+}
+
+function lessonMenuText(json) {
     const sh = json.source_headwords;
     const range = sh && sh.from != null && sh.to != null ? ` (${sh.from}-${sh.to})` : "";
     return `Lesson ${json.chapter}: ${json.title}${range}`;
 }
 
+async function tryLoadChapterFile(url, levelDefault) {
+    try {
+        const res = await fetch(url, { cache: "no-store" });
+        if (!res.ok) return null;
+        const json = await res.json();
+        const level = json.level || levelDefault || "N4";
+        const chapterNo = Number(json.chapter);
+        return {
+            key: chapterStorageKey(json, levelDefault),
+            text: lessonMenuText(json),
+            level,
+            chapterNo: Number.isFinite(chapterNo) ? chapterNo : 0,
+            cards: normalizeCards(json.cards || [])
+        };
+    } catch {
+        return null;
+    }
+}
+
+function sortLessonEntries(entries) {
+    return [...entries].sort((a, b) => a.chapterNo - b.chapterNo || a.text.localeCompare(b.text));
+}
+
 async function loadChapterData() {
-    const maxChapter = 20;
-    const results = await Promise.all(
-        Array.from({ length: maxChapter }, (_, i) => i + 1).map(async (n) => {
-            try {
-                const res = await fetch(`data/chapter${n}.json`, { cache: "no-store" });
-                if (!res.ok) return null;
-                const json = await res.json();
-                return { label: chapterMenuLabel(json), cards: normalizeCards(json.cards || []) };
-            } catch {
-                return null;
-            }
-        })
+    const n4Tasks = Array.from({ length: N4_CHAPTER_COUNT }, (_, i) =>
+        tryLoadChapterFile(`data/n4/chapter${i + 1}.json`, "N4")
     );
+    const n5Tasks = Array.from({ length: N5_CHAPTER_COUNT }, (_, i) =>
+        tryLoadChapterFile(`data/n5/chapter${i + 1}.json`, "N5")
+    );
+    const n4Results = await Promise.all(n4Tasks);
+    const n5Results = await Promise.all(n5Tasks);
+
     chapterData = {};
-    results.forEach((entry) => {
-        if (entry) chapterData[entry.label] = entry.cards;
+    lessonListsByLevel = { N4: [], N5: [] };
+
+    n4Results.forEach((entry) => {
+        if (!entry) return;
+        chapterData[entry.key] = entry.cards;
+        lessonListsByLevel.N4.push({ key: entry.key, text: entry.text, chapterNo: entry.chapterNo });
     });
+    n5Results.forEach((entry) => {
+        if (!entry) return;
+        chapterData[entry.key] = entry.cards;
+        lessonListsByLevel.N5.push({ key: entry.key, text: entry.text, chapterNo: entry.chapterNo });
+    });
+
+    lessonListsByLevel.N4 = sortLessonEntries(lessonListsByLevel.N4);
+    lessonListsByLevel.N5 = sortLessonEntries(lessonListsByLevel.N5);
+
     if (Object.keys(chapterData).length === 0) {
-        chapterData = fallbackChapterData;
+        chapterData = { ...fallbackChapterData };
+        lessonListsByLevel.N4 = Object.keys(fallbackChapterData).map((k) => ({
+            key: k,
+            text: k,
+            chapterNo: 0
+        }));
+        lessonListsByLevel.N5 = [];
     }
 }
 
@@ -99,14 +151,68 @@ function getMeaningLine(card) {
     return en || mm || "";
 }
 
-function populateChapters() {
-    chapterSelect.innerHTML = "";
-    Object.keys(chapterData).forEach((chapterName) => {
-        const option = document.createElement("option");
-        option.value = chapterName;
-        option.textContent = chapterName;
-        chapterSelect.appendChild(option);
+function populateLevelSelect() {
+    levelSelect.innerHTML = "";
+    if (lessonListsByLevel.N5.length > 0) {
+        const o = document.createElement("option");
+        o.value = "N5";
+        o.textContent = "N5";
+        levelSelect.appendChild(o);
+    }
+    if (lessonListsByLevel.N4.length > 0) {
+        const o = document.createElement("option");
+        o.value = "N4";
+        o.textContent = "N4";
+        levelSelect.appendChild(o);
+    }
+    if (levelSelect.options.length === 0) {
+        const o = document.createElement("option");
+        o.value = "N4";
+        o.textContent = "N4";
+        levelSelect.appendChild(o);
+    }
+}
+
+function populateLessonSelect(level) {
+    lessonSelect.innerHTML = "";
+    const list = lessonListsByLevel[level] || [];
+    list.forEach((item) => {
+        const o = document.createElement("option");
+        o.value = item.key;
+        o.textContent = item.text;
+        lessonSelect.appendChild(o);
     });
+    lessonSelect.disabled = list.length === 0;
+}
+
+function applyCurrentLesson() {
+    currentChapter = lessonSelect.value || "";
+    cards = [...(chapterData[currentChapter] || [])];
+    currentCardIndex = 0;
+    if (isRandomOrder) shuffleDeckBehavior(false);
+    updateCard();
+}
+
+function pickInitialLevel() {
+    if (lessonListsByLevel.N5.length > 0) return "N5";
+    if (lessonListsByLevel.N4.length > 0) return "N4";
+    return "N4";
+}
+
+function syncSelectorsToData() {
+    populateLevelSelect();
+    currentLevel = pickInitialLevel();
+    if ([...levelSelect.options].some((o) => o.value === currentLevel)) {
+        levelSelect.value = currentLevel;
+    } else {
+        levelSelect.selectedIndex = 0;
+        currentLevel = levelSelect.value;
+    }
+    populateLessonSelect(currentLevel);
+    if (lessonSelect.options.length > 0) {
+        lessonSelect.selectedIndex = 0;
+    }
+    applyCurrentLesson();
 }
 
 function setTexts(card) {
@@ -216,12 +322,16 @@ function setupEventListeners() {
         e.stopPropagation();
         pronounceWord();
     });
-    chapterSelect.addEventListener("change", (e) => {
-        currentChapter = e.target.value;
-        cards = [...(chapterData[currentChapter] || [])];
-        currentCardIndex = 0;
-        if (isRandomOrder) shuffleDeckBehavior(false);
-        updateCard();
+    levelSelect.addEventListener("change", (e) => {
+        currentLevel = e.target.value;
+        populateLessonSelect(currentLevel);
+        if (lessonSelect.options.length > 0) {
+            lessonSelect.selectedIndex = 0;
+        }
+        applyCurrentLesson();
+    });
+    lessonSelect.addEventListener("change", () => {
+        applyCurrentLesson();
     });
     randomOrderToggle.addEventListener("change", (e) => {
         isRandomOrder = e.target.checked;
@@ -250,9 +360,7 @@ function setupEventListeners() {
 
 async function init() {
     await loadChapterData();
-    populateChapters();
-    currentChapter = Object.keys(chapterData)[0] || "";
-    cards = currentChapter ? [...chapterData[currentChapter]] : [];
+    syncSelectorsToData();
     updateCard();
     setupEventListeners();
 }

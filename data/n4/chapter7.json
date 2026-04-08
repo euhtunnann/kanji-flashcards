@@ -36,7 +36,7 @@
       "kanji": "森",
       "reading": "もり",
       "meaning_en": "forest",
-      "meaning_mm": "တောကြီး"
+      "meaning_mm": "သစ်တောကြီး / တောအုပ်"
     },
     {
       "headword_no": 172,
@@ -84,7 +84,7 @@
       "kanji": "地震",
       "reading": "じしん",
       "meaning_en": "earthquake",
-      "meaning_mm": "မြေငလျင်"
+      "meaning_mm": "ငလျင်"
     },
     {
       "headword_no": 174,
@@ -100,7 +100,7 @@
       "kanji": "電池",
       "reading": "でんち",
       "meaning_en": "battery",
-      "meaning_mm": "ဘက်ထရီ"
+      "meaning_mm": "ဓာတ်ခဲ"
     },
     {
       "headword_no": 175,
@@ -148,7 +148,7 @@
       "kanji": "洋服",
       "reading": "ようふく",
       "meaning_en": "clothes",
-      "meaning_mm": "အနောက်တိုင်းအဝတ်အစား"
+      "meaning_mm": "အဝတ်အစား / အနောက်တိုင်းဝတ်စုံ"
     },
     {
       "headword_no": 176,
@@ -156,7 +156,7 @@
       "kanji": "大西洋",
       "reading": "たいせいよう",
       "meaning_en": "the Atlantic Ocean",
-      "meaning_mm": "အတ္တလန်တိတ်ပင်လယ်"
+      "meaning_mm": "အတ္တလန်တိတ်သမုဒ္ဒရာ"
     },
     {
       "headword_no": 177,
@@ -172,7 +172,7 @@
       "kanji": "大雪",
       "reading": "おおゆき",
       "meaning_en": "heavy snow",
-      "meaning_mm": "နှင်းအများကြီး"
+      "meaning_mm": "နှင်းထူထပ်စွာကျခြင်း"
     },
     {
       "headword_no": 177,
@@ -204,7 +204,7 @@
       "kanji": "日光",
       "reading": "にっこう",
       "meaning_en": "sunlight",
-      "meaning_mm": "နေအလင်း"
+      "meaning_mm": "နေရောင်ခြည်"
     },
     {
       "headword_no": 178,
@@ -220,7 +220,7 @@
       "kanji": "台",
       "reading": "だい",
       "meaning_en": "counter for machines; stand",
-      "meaning_mm": "စက်ပစ္စည်းရေတွက်ပုဒ် / စင်"
+      "meaning_mm": "စက်ပစ္စည်းများရေတွက်ရာတွင်သုံးသောစကားလုံး / ခုံ"
     },
     {
       "headword_no": 179,
@@ -260,7 +260,7 @@
       "kanji": "台風",
       "reading": "たいふう",
       "meaning_en": "typhoon",
-      "meaning_mm": "မုန်တိုင်း"
+      "meaning_mm": "တိုင်ဖွန်းမုန်တိုင်း"
     },
     {
       "headword_no": 180,

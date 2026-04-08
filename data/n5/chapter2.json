@@ -1,0 +1,331 @@
+{
+  "level": "N5",
+  "chapter": 2,
+  "title": "数字",
+  "source_headwords": {
+    "from": 11,
+    "to": 20
+  },
+  "cards": [
+    {
+      "headword_no": 11,
+      "id": "n5-ch2-011-01",
+      "kanji": "一つ",
+      "reading": "ひとつ",
+      "meaning_en": "one (thing)",
+      "meaning_mm": "တစ်ခု"
+    },
+    {
+      "headword_no": 11,
+      "id": "n5-ch2-011-02",
+      "kanji": "一月",
+      "reading": "いちがつ",
+      "meaning_en": "January",
+      "meaning_mm": "ဇန်နဝါရီ"
+    },
+    {
+      "headword_no": 11,
+      "id": "n5-ch2-011-03",
+      "kanji": "一日",
+      "reading": "ついたち",
+      "meaning_en": "the 1st of the month",
+      "meaning_mm": "တစ်ရက်နေ့"
+    },
+    {
+      "headword_no": 11,
+      "id": "n5-ch2-011-04",
+      "kanji": "一日",
+      "reading": "いちにち",
+      "meaning_en": "one day",
+      "meaning_mm": "တစ်ရက်"
+    },
+    {
+      "headword_no": 12,
+      "id": "n5-ch2-012-01",
+      "kanji": "二つ",
+      "reading": "ふたつ",
+      "meaning_en": "two (things)",
+      "meaning_mm": "နှစ်ခု"
+    },
+    {
+      "headword_no": 12,
+      "id": "n5-ch2-012-02",
+      "kanji": "二月",
+      "reading": "にがつ",
+      "meaning_en": "February",
+      "meaning_mm": "ဖေဖော်ဝါရီ"
+    },
+    {
+      "headword_no": 12,
+      "id": "n5-ch2-012-03",
+      "kanji": "二日",
+      "reading": "ふつか",
+      "meaning_en": "the 2nd of the month",
+      "meaning_mm": "နှစ်ရက်နေ့"
+    },
+    {
+      "headword_no": 12,
+      "id": "n5-ch2-012-04",
+      "kanji": "二人",
+      "reading": "ふたり",
+      "meaning_en": "two people",
+      "meaning_mm": "လူနှစ်ယောက်"
+    },
+    {
+      "headword_no": 13,
+      "id": "n5-ch2-013-01",
+      "kanji": "三つ",
+      "reading": "みっつ",
+      "meaning_en": "three (things)",
+      "meaning_mm": "သုံးခု"
+    },
+    {
+      "headword_no": 13,
+      "id": "n5-ch2-013-02",
+      "kanji": "三月",
+      "reading": "さんがつ",
+      "meaning_en": "March",
+      "meaning_mm": "မတ်"
+    },
+    {
+      "headword_no": 13,
+      "id": "n5-ch2-013-03",
+      "kanji": "三日",
+      "reading": "みっか",
+      "meaning_en": "the 3rd of the month",
+      "meaning_mm": "သုံးရက်နေ့"
+    },
+    {
+      "headword_no": 13,
+      "id": "n5-ch2-013-04",
+      "kanji": "三角",
+      "reading": "さんかく",
+      "meaning_en": "triangle",
+      "meaning_mm": "တြိဂံ"
+    },
+    {
+      "headword_no": 14,
+      "id": "n5-ch2-014-01",
+      "kanji": "四",
+      "reading": "よん",
+      "meaning_en": "four",
+      "meaning_mm": "လေး"
+    },
+    {
+      "headword_no": 14,
+      "id": "n5-ch2-014-02",
+      "kanji": "四つ",
+      "reading": "よっつ",
+      "meaning_en": "four (things)",
+      "meaning_mm": "လေးခု"
+    },
+    {
+      "headword_no": 14,
+      "id": "n5-ch2-014-03",
+      "kanji": "四月",
+      "reading": "しがつ",
+      "meaning_en": "April",
+      "meaning_mm": "ဧပြီ"
+    },
+    {
+      "headword_no": 14,
+      "id": "n5-ch2-014-04",
+      "kanji": "四日",
+      "reading": "よっか",
+      "meaning_en": "the 4th of the month",
+      "meaning_mm": "လေးရက်နေ့"
+    },
+    {
+      "headword_no": 15,
+      "id": "n5-ch2-015-01",
+      "kanji": "五つ",
+      "reading": "いつつ",
+      "meaning_en": "five (things)",
+      "meaning_mm": "ငါးခု"
+    },
+    {
+      "headword_no": 15,
+      "id": "n5-ch2-015-02",
+      "kanji": "五月",
+      "reading": "ごがつ",
+      "meaning_en": "May",
+      "meaning_mm": "မေ"
+    },
+    {
+      "headword_no": 15,
+      "id": "n5-ch2-015-03",
+      "kanji": "五日",
+      "reading": "いつか",
+      "meaning_en": "the 5th of the month",
+      "meaning_mm": "ငါးရက်နေ့"
+    },
+    {
+      "headword_no": 15,
+      "id": "n5-ch2-015-04",
+      "kanji": "五円",
+      "reading": "ごえん",
+      "meaning_en": "five yen",
+      "meaning_mm": "ငါးယန်း"
+    },
+    {
+      "headword_no": 16,
+      "id": "n5-ch2-016-01",
+      "kanji": "六つ",
+      "reading": "むっつ",
+      "meaning_en": "six (things)",
+      "meaning_mm": "ခြောက်ခု"
+    },
+    {
+      "headword_no": 16,
+      "id": "n5-ch2-016-02",
+      "kanji": "六月",
+      "reading": "ろくがつ",
+      "meaning_en": "June",
+      "meaning_mm": "ဇွန်"
+    },
+    {
+      "headword_no": 16,
+      "id": "n5-ch2-016-03",
+      "kanji": "六日",
+      "reading": "むいか",
+      "meaning_en": "the 6th of the month",
+      "meaning_mm": "ခြောက်ရက်နေ့"
+    },
+    {
+      "headword_no": 16,
+      "id": "n5-ch2-016-04",
+      "kanji": "六本木",
+      "reading": "ろっぽんぎ",
+      "meaning_en": "Roppongi",
+      "meaning_mm": "ရော့ပွန်ဂျီ"
+    },
+    {
+      "headword_no": 17,
+      "id": "n5-ch2-017-01",
+      "kanji": "七",
+      "reading": "なな",
+      "meaning_en": "seven",
+      "meaning_mm": "ခုနစ်"
+    },
+    {
+      "headword_no": 17,
+      "id": "n5-ch2-017-02",
+      "kanji": "七つ",
+      "reading": "ななつ",
+      "meaning_en": "seven (things)",
+      "meaning_mm": "ခုနစ်ခု"
+    },
+    {
+      "headword_no": 17,
+      "id": "n5-ch2-017-03",
+      "kanji": "七月",
+      "reading": "しちがつ",
+      "meaning_en": "July",
+      "meaning_mm": "ဇူလိုင်"
+    },
+    {
+      "headword_no": 17,
+      "id": "n5-ch2-017-04",
+      "kanji": "七日",
+      "reading": "なのか",
+      "meaning_en": "the 7th of the month",
+      "meaning_mm": "ခုနစ်ရက်နေ့"
+    },
+    {
+      "headword_no": 18,
+      "id": "n5-ch2-018-01",
+      "kanji": "八つ",
+      "reading": "やっつ",
+      "meaning_en": "eight (things)",
+      "meaning_mm": "ရှစ်ခု"
+    },
+    {
+      "headword_no": 18,
+      "id": "n5-ch2-018-02",
+      "kanji": "八月",
+      "reading": "はちがつ",
+      "meaning_en": "August",
+      "meaning_mm": "ဩဂုတ်"
+    },
+    {
+      "headword_no": 18,
+      "id": "n5-ch2-018-03",
+      "kanji": "八日",
+      "reading": "ようか",
+      "meaning_en": "the 8th of the month",
+      "meaning_mm": "ရှစ်ရက်နေ့"
+    },
+    {
+      "headword_no": 18,
+      "id": "n5-ch2-018-04",
+      "kanji": "八百屋",
+      "reading": "やおや",
+      "meaning_en": "greengrocer",
+      "meaning_mm": "ဟင်းသီးဟင်းရွက်ဆိုင်"
+    },
+    {
+      "headword_no": 19,
+      "id": "n5-ch2-019-01",
+      "kanji": "九つ",
+      "reading": "ここのつ",
+      "meaning_en": "nine (things)",
+      "meaning_mm": "ကိုးခု"
+    },
+    {
+      "headword_no": 19,
+      "id": "n5-ch2-019-02",
+      "kanji": "九月",
+      "reading": "くがつ",
+      "meaning_en": "September",
+      "meaning_mm": "စက်တင်ဘာ"
+    },
+    {
+      "headword_no": 19,
+      "id": "n5-ch2-019-03",
+      "kanji": "九日",
+      "reading": "ここのか",
+      "meaning_en": "the 9th of the month",
+      "meaning_mm": "ကိုးရက်နေ့"
+    },
+    {
+      "headword_no": 19,
+      "id": "n5-ch2-019-04",
+      "kanji": "九州",
+      "reading": "きゅうしゅう",
+      "meaning_en": "Kyushu",
+      "meaning_mm": "ကျူးရှူး"
+    },
+    {
+      "headword_no": 20,
+      "id": "n5-ch2-020-01",
+      "kanji": "十",
+      "reading": "とお / じゅう",
+      "meaning_en": "ten",
+      "meaning_mm": "ဆယ်"
+    },
+    {
+      "headword_no": 20,
+      "id": "n5-ch2-020-02",
+      "kanji": "十月",
+      "reading": "じゅうがつ",
+      "meaning_en": "October",
+      "meaning_mm": "အောက်တိုဘာ"
+    },
+    {
+      "headword_no": 20,
+      "id": "n5-ch2-020-03",
+      "kanji": "十日",
+      "reading": "とおか",
+      "meaning_en": "the 10th of the month",
+      "meaning_mm": "ဆယ်ရက်နေ့"
+    },
+    {
+      "headword_no": 20,
+      "id": "n5-ch2-020-04",
+      "kanji": "十分な",
+      "reading": "じゅうぶんな",
+      "meaning_en": "enough; sufficient",
+      "meaning_mm": "လုံလောက်"
+    }
+  ]
+}
