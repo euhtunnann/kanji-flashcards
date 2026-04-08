@@ -32,8 +32,9 @@
     --modal-divider: rgba(255, 255, 255, 0.05);
     --vocab-row-bg: rgba(255, 255, 255, 0.05);
     --toggle-off: #334155;
-    --title-grad-1: #a5b4fc;
-    --title-grad-2: #818cf8;
+    /* Heading gradient aligned with dark-theme (red) logo */
+    --title-grad-1: #fecaca;
+    --title-grad-2: #ef4444;
     --kanji-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
     /* Logo frame matches page top color so it doesn’t read as a separate charcoal tile */
     --logo-ribbon-shadow: none;
@@ -68,8 +69,9 @@
     --modal-divider: rgba(15, 23, 42, 0.08);
     --vocab-row-bg: rgba(15, 23, 42, 0.06);
     --toggle-off: #cbd5e1;
-    --title-grad-1: #4338ca;
-    --title-grad-2: #6366f1;
+    /* Heading gradient aligned with light-theme (full-color) logo */
+    --title-grad-1: #b91c1c;
+    --title-grad-2: #1d4ed8;
     --kanji-shadow: 0 2px 12px rgba(15, 23, 42, 0.12);
     --logo-ribbon-shadow: 0 1px 4px rgba(15, 23, 42, 0.1);
     --logo-chip-bg: var(--bg-color-top);
@@ -115,16 +117,57 @@ body {
     font-weight: 500;
     color: var(--text-main);
     opacity: 0.88;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    column-gap: 0.35rem;
+    row-gap: 0.35rem;
+    text-align: center;
 }
 
-.footer-copy,
-.footer-app {
-    display: inline;
+.footer-copy {
+    display: block;
+    line-height: 1.4;
 }
 
 .footer-dot {
-    margin: 0 0.35rem;
     opacity: 0.5;
+    line-height: 1;
+    user-select: none;
+}
+
+.footer-link {
+    color: var(--text-muted);
+    text-decoration: none;
+}
+
+.footer-link:hover {
+    color: var(--text-main);
+}
+
+.footer-link--facebook {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35em;
+    line-height: 1.4;
+}
+
+.footer-fb-icon {
+    flex-shrink: 0;
+    opacity: 0.92;
+    display: block;
+}
+
+.footer-link--facebook:hover .footer-fb-icon {
+    opacity: 1;
+}
+
+.footer-link-text {
+    text-decoration: underline;
+    text-underline-offset: 0.2em;
+    overflow-wrap: anywhere;
+    word-break: break-word;
 }
 
 .app-header {
@@ -196,12 +239,25 @@ body {
 .header-brand h1 {
     font-size: clamp(0.88rem, 2.65vw, 1.35rem);
     font-weight: 700;
-    background: linear-gradient(to right, var(--title-grad-1), var(--title-grad-2));
+    background: linear-gradient(
+        105deg,
+        var(--title-grad-1) 0%,
+        var(--title-grad-mid, var(--title-grad-1)) 48%,
+        var(--title-grad-2) 100%
+    );
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
     margin: 0;
     line-height: 1.18;
+}
+
+[data-theme="dark"] .header-brand h1 {
+    --title-grad-mid: #f87171;
+}
+
+[data-theme="light"] .header-brand h1 {
+    --title-grad-mid: #ea580c;
 }
 
 .header-actions {
