@@ -70,6 +70,11 @@ function normalizeCards(rawCards) {
 const N4_CHAPTER_COUNT = 20;
 const N5_CHAPTER_COUNT = 11;
 
+/** Synthetic deck: every N4 lesson concatenated in book order */
+const ALL_N4_KEY = "N4 · All lessons (full review)";
+/** Synthetic deck: every N5 lesson concatenated in book order */
+const ALL_N5_KEY = "N5 · All lessons (full review)";
+
 function chapterStorageKey(json, levelDefault) {
     const level = json.level || levelDefault || "N4";
     const sh = json.source_headwords;
@@ -132,6 +137,26 @@ async function loadChapterData() {
 
     lessonListsByLevel.N4 = sortLessonEntries(lessonListsByLevel.N4);
     lessonListsByLevel.N5 = sortLessonEntries(lessonListsByLevel.N5);
+
+    if (lessonListsByLevel.N4.length > 1) {
+        const mergedN4 = lessonListsByLevel.N4.flatMap((item) => [...(chapterData[item.key] || [])]);
+        chapterData[ALL_N4_KEY] = mergedN4;
+        lessonListsByLevel.N4.push({
+            key: ALL_N4_KEY,
+            text: "All lessons — full review",
+            chapterNo: 999
+        });
+    }
+
+    if (lessonListsByLevel.N5.length > 1) {
+        const mergedN5 = lessonListsByLevel.N5.flatMap((item) => [...(chapterData[item.key] || [])]);
+        chapterData[ALL_N5_KEY] = mergedN5;
+        lessonListsByLevel.N5.push({
+            key: ALL_N5_KEY,
+            text: "All lessons — full review",
+            chapterNo: 999
+        });
+    }
 
     if (Object.keys(chapterData).length === 0) {
         chapterData = { ...fallbackChapterData };
