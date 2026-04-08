@@ -438,8 +438,14 @@ function setupEventListeners() {
     });
 }
 
+function initFooterYear() {
+    const el = document.getElementById("footer-year");
+    if (el) el.textContent = String(new Date().getFullYear());
+}
+
 async function init() {
     initTheme();
+    initFooterYear();
     await loadChapterData();
     syncSelectorsToData();
     updateCard();

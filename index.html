@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kanji Master</title>
+    <title>Nihongo Challenge Kanji</title>
     <script>
         (function () {
             try {
@@ -25,7 +25,12 @@
         <header class="app-header">
             <div class="header-title-row">
                 <div class="header-brand">
-                    <h1>Kanji Master</h1>
+                    <a href="." class="header-logo-link" aria-label="Haru Mo">
+                        <!-- Dark UI: red/black artwork; Light UI: color version (swap filenames if you prefer) -->
+                        <img src="Logo_watermark%20red.png" class="header-logo header-logo--theme-dark" width="120" height="48" alt="" decoding="async">
+                        <img src="Logo_watermark%20color.png" class="header-logo header-logo--theme-light" width="120" height="48" alt="" decoding="async">
+                    </a>
+                    <h1>Nihongo Challenge Kanji</h1>
                 </div>
                 <div class="header-actions" role="toolbar" aria-label="App tools">
                     <button id="vocab-list-btn" class="icon-btn vocab-list-btn" type="button" aria-label="Open lesson word list">
@@ -96,6 +101,14 @@
                 </button>
             </div>
         </main>
+
+        <footer class="app-footer" role="contentinfo">
+            <p class="footer-primary">
+                <span class="footer-copy">© <span id="footer-year">2026</span> Haru Mo</span>
+                <span class="footer-dot" aria-hidden="true">·</span>
+                <span class="footer-app">Nihongo Challenge Kanji</span>
+            </p>
+        </footer>
     </div>
 
     <!-- Settings -->
