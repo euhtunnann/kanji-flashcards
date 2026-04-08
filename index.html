@@ -3,22 +3,39 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kanji Flashcards (N5 & N4)</title>
+    <title>Kanji Master</title>
+    <script>
+        (function () {
+            try {
+                var KEY = "kanji-master-theme";
+                var pref = localStorage.getItem(KEY) || "dark";
+                document.documentElement.setAttribute("data-theme", pref === "light" ? "light" : "dark");
+            } catch (e) {}
+        })();
+    </script>
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
-    <meta name="description" content="JLPT N5 and N4 kanji flashcards from 日本語チャレンジ-style JSON data.">
+    <meta name="description" content="JLPT N5 and N4 kanji vocabulary flashcards.">
 </head>
 <body>
     <div class="app-container">
         <header class="app-header">
-            <button id="settings-btn" class="icon-btn settings-btn" aria-label="Settings">
-                 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"></circle><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"></path></svg>
-            </button>
-            <h1>Kanji Master</h1>
-            <p>JLPT N5 &amp; N4 — vocabulary</p>
+            <div class="header-title-row">
+                <div class="header-brand">
+                    <h1>Kanji Master</h1>
+                </div>
+                <div class="header-actions" role="toolbar" aria-label="App tools">
+                    <button id="vocab-list-btn" class="icon-btn vocab-list-btn" type="button" aria-label="Open lesson word list">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 6h13M8 12h13M8 18h13M3 6h.01M3 12h.01M3 18h.01"></path></svg>
+                    </button>
+                    <button id="settings-btn" class="icon-btn settings-btn" type="button" aria-label="Settings">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="3"></circle><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"></path></svg>
+                    </button>
+                </div>
+            </div>
             <div class="chapter-selector dual-select" role="group" aria-label="Deck selection">
                 <label class="select-field select-field--level">
                     <span class="select-label">Level</span>
@@ -81,15 +98,23 @@
         </main>
     </div>
 
-    <!-- Settings & Review Modal -->
+    <!-- Settings -->
     <div id="settings-modal" class="modal hidden">
-        <div class="modal-content">
+        <div class="modal-content modal-content--settings">
             <div class="modal-header">
-                <h2>Settings & Review</h2>
-                <button id="close-modal-btn" class="close-btn" aria-label="Close Modal">&times;</button>
+                <h2>Settings</h2>
+                <button id="close-settings-btn" class="close-btn" aria-label="Close settings">&times;</button>
             </div>
-            
-            <div class="settings-section">
+            <div class="settings-section settings-section--theme">
+                <div class="setting-item setting-item--theme">
+                    <span class="setting-label" id="theme-select-label">Appearance</span>
+                    <select id="theme-select" class="theme-select" aria-labelledby="theme-select-label">
+                        <option value="dark">Dark</option>
+                        <option value="light">Light</option>
+                    </select>
+                </div>
+            </div>
+            <div class="settings-section settings-section--last">
                 <div class="setting-item">
                     <span class="setting-label">Always Shuffle New Chapters</span>
                     <label class="toggle-switch">
@@ -98,9 +123,20 @@
                     </label>
                 </div>
             </div>
+        </div>
+    </div>
 
-            <div class="review-section">
-                <h3 class="review-heading">Chapter vocabulary</h3>
+    <!-- Lesson word list -->
+    <div id="vocab-modal" class="modal hidden">
+        <div class="modal-content modal-content--vocab">
+            <div class="modal-header modal-header--vocab">
+                <div>
+                    <h2>Lesson word list</h2>
+                    <p class="modal-deck-label" id="vocab-deck-label"></p>
+                </div>
+                <button id="close-vocab-btn" class="close-btn" aria-label="Close word list">&times;</button>
+            </div>
+            <div class="review-section review-section--vocab-only">
                 <ul id="vocabulary-list" class="vocab-list">
                     <!-- Populated by JS -->
                 </ul>

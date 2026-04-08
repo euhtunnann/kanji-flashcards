@@ -54,9 +54,48 @@ const levelSelect = document.getElementById("level-select");
 const lessonSelect = document.getElementById("lesson-select");
 const settingsBtn = document.getElementById("settings-btn");
 const settingsModal = document.getElementById("settings-modal");
-const closeModalBtn = document.getElementById("close-modal-btn");
+const closeSettingsBtn = document.getElementById("close-settings-btn");
+const vocabListBtn = document.getElementById("vocab-list-btn");
+const vocabModal = document.getElementById("vocab-modal");
+const closeVocabBtn = document.getElementById("close-vocab-btn");
+const vocabDeckLabel = document.getElementById("vocab-deck-label");
 const randomOrderToggle = document.getElementById("random-order-toggle");
 const vocabularyList = document.getElementById("vocabulary-list");
+const themeSelect = document.getElementById("theme-select");
+
+const THEME_PREF_KEY = "kanji-master-theme";
+
+function getStoredThemePreference() {
+    try {
+        const v = localStorage.getItem(THEME_PREF_KEY);
+        if (v === "light" || v === "dark") return v;
+    } catch {
+        /* ignore */
+    }
+    return "dark";
+}
+
+function applyThemeFromPreference() {
+    document.documentElement.setAttribute(
+        "data-theme",
+        getStoredThemePreference() === "light" ? "light" : "dark"
+    );
+}
+
+function initTheme() {
+    if (themeSelect) {
+        themeSelect.value = getStoredThemePreference();
+        themeSelect.addEventListener("change", () => {
+            try {
+                localStorage.setItem(THEME_PREF_KEY, themeSelect.value);
+            } catch {
+                /* ignore */
+            }
+            applyThemeFromPreference();
+        });
+    }
+    applyThemeFromPreference();
+}
 
 function normalizeCards(rawCards) {
     return rawCards.map((item) => ({
@@ -371,13 +410,23 @@ function setupEventListeners() {
         if (isRandomOrder) shuffleDeckBehavior(false);
         updateCard();
     });
-    settingsBtn.addEventListener("click", () => {
-        populateVocabularyList();
-        settingsModal.classList.remove("hidden");
-    });
-    closeModalBtn.addEventListener("click", () => settingsModal.classList.add("hidden"));
+    settingsBtn.addEventListener("click", () => settingsModal.classList.remove("hidden"));
+    closeSettingsBtn.addEventListener("click", () => settingsModal.classList.add("hidden"));
     settingsModal.addEventListener("click", (e) => {
         if (e.target === settingsModal) settingsModal.classList.add("hidden");
+    });
+
+    function openVocabModal() {
+        const opt = lessonSelect.options[lessonSelect.selectedIndex];
+        if (vocabDeckLabel) vocabDeckLabel.textContent = opt ? opt.textContent : "";
+        populateVocabularyList();
+        vocabModal.classList.remove("hidden");
+    }
+
+    vocabListBtn.addEventListener("click", () => openVocabModal());
+    closeVocabBtn.addEventListener("click", () => vocabModal.classList.add("hidden"));
+    vocabModal.addEventListener("click", (e) => {
+        if (e.target === vocabModal) vocabModal.classList.add("hidden");
     });
     document.addEventListener("keydown", (e) => {
         if (e.key === "ArrowRight") nextCard();
@@ -390,6 +439,7 @@ function setupEventListeners() {
 }
 
 async function init() {
+    initTheme();
     await loadChapterData();
     syncSelectorsToData();
     updateCard();
