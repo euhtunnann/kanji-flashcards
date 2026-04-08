@@ -1,0 +1,282 @@
+{
+  "chapter": 7,
+  "title": "自然",
+  "source_headwords": {
+    "from": 171,
+    "to": 180
+  },
+  "cards": [
+    {
+      "headword_no": 171,
+      "id": "ch7-171-01",
+      "kanji": "林",
+      "reading": "はやし",
+      "meaning_en": "wood; grove",
+      "meaning_mm": "တောအုပ်ငယ်"
+    },
+    {
+      "headword_no": 171,
+      "id": "ch7-171-02",
+      "kanji": "小林さん",
+      "reading": "こばやしさん",
+      "meaning_en": "Mr./Ms. Kobayashi",
+      "meaning_mm": "ကိုဘာယာရှီ さん"
+    },
+    {
+      "headword_no": 171,
+      "id": "ch7-171-03",
+      "kanji": "林道",
+      "reading": "りんどう",
+      "meaning_en": "forest road",
+      "meaning_mm": "တောလမ်း"
+    },
+    {
+      "headword_no": 172,
+      "id": "ch7-172-01",
+      "kanji": "森",
+      "reading": "もり",
+      "meaning_en": "forest",
+      "meaning_mm": "တောကြီး"
+    },
+    {
+      "headword_no": 172,
+      "id": "ch7-172-02",
+      "kanji": "森さん",
+      "reading": "もりさん",
+      "meaning_en": "Mr./Ms. Mori",
+      "meaning_mm": "မိုရီ さん"
+    },
+    {
+      "headword_no": 172,
+      "id": "ch7-172-03",
+      "kanji": "森林",
+      "reading": "しんりん",
+      "meaning_en": "forest",
+      "meaning_mm": "သစ်တော"
+    },
+    {
+      "headword_no": 173,
+      "id": "ch7-173-01",
+      "kanji": "地図",
+      "reading": "ちず",
+      "meaning_en": "map",
+      "meaning_mm": "မြေပုံ"
+    },
+    {
+      "headword_no": 173,
+      "id": "ch7-173-02",
+      "kanji": "地下鉄",
+      "reading": "ちかてつ",
+      "meaning_en": "subway",
+      "meaning_mm": "မြေအောက်ရထား"
+    },
+    {
+      "headword_no": 173,
+      "id": "ch7-173-03",
+      "kanji": "土地",
+      "reading": "とち",
+      "meaning_en": "land",
+      "meaning_mm": "မြေယာ"
+    },
+    {
+      "headword_no": 173,
+      "id": "ch7-173-04",
+      "kanji": "地震",
+      "reading": "じしん",
+      "meaning_en": "earthquake",
+      "meaning_mm": "မြေငလျင်"
+    },
+    {
+      "headword_no": 174,
+      "id": "ch7-174-01",
+      "kanji": "池",
+      "reading": "いけ",
+      "meaning_en": "pond",
+      "meaning_mm": "ရေကန်ငယ်"
+    },
+    {
+      "headword_no": 174,
+      "id": "ch7-174-02",
+      "kanji": "電池",
+      "reading": "でんち",
+      "meaning_en": "battery",
+      "meaning_mm": "ဘက်ထရီ"
+    },
+    {
+      "headword_no": 175,
+      "id": "ch7-175-01",
+      "kanji": "海",
+      "reading": "うみ",
+      "meaning_en": "sea; ocean",
+      "meaning_mm": "ပင်လယ်"
+    },
+    {
+      "headword_no": 175,
+      "id": "ch7-175-02",
+      "kanji": "海外",
+      "reading": "かいがい",
+      "meaning_en": "overseas",
+      "meaning_mm": "ပြည်ပ"
+    },
+    {
+      "headword_no": 175,
+      "id": "ch7-175-03",
+      "kanji": "北海道",
+      "reading": "ほっかいどう",
+      "meaning_en": "Hokkaido",
+      "meaning_mm": "ဟော့ကိုင်းဒိုး"
+    },
+    {
+      "headword_no": 176,
+      "id": "ch7-176-01",
+      "kanji": "西洋",
+      "reading": "せいよう",
+      "meaning_en": "the West",
+      "meaning_mm": "အနောက်တိုင်း"
+    },
+    {
+      "headword_no": 176,
+      "id": "ch7-176-02",
+      "kanji": "東洋",
+      "reading": "とうよう",
+      "meaning_en": "the East",
+      "meaning_mm": "အရှေ့တိုင်း"
+    },
+    {
+      "headword_no": 176,
+      "id": "ch7-176-03",
+      "kanji": "洋服",
+      "reading": "ようふく",
+      "meaning_en": "clothes",
+      "meaning_mm": "အနောက်တိုင်းအဝတ်အစား"
+    },
+    {
+      "headword_no": 176,
+      "id": "ch7-176-04",
+      "kanji": "大西洋",
+      "reading": "たいせいよう",
+      "meaning_en": "the Atlantic Ocean",
+      "meaning_mm": "အတ္တလန်တိတ်ပင်လယ်"
+    },
+    {
+      "headword_no": 177,
+      "id": "ch7-177-01",
+      "kanji": "雪",
+      "reading": "ゆき",
+      "meaning_en": "snow",
+      "meaning_mm": "နှင်း"
+    },
+    {
+      "headword_no": 177,
+      "id": "ch7-177-02",
+      "kanji": "大雪",
+      "reading": "おおゆき",
+      "meaning_en": "heavy snow",
+      "meaning_mm": "နှင်းအများကြီး"
+    },
+    {
+      "headword_no": 177,
+      "id": "ch7-177-03",
+      "kanji": "新雪",
+      "reading": "しんせつ",
+      "meaning_en": "fresh snow",
+      "meaning_mm": "အသစ်ကျနှင်း"
+    },
+    {
+      "headword_no": 178,
+      "id": "ch7-178-01",
+      "kanji": "光",
+      "reading": "ひかり",
+      "meaning_en": "light",
+      "meaning_mm": "အလင်း"
+    },
+    {
+      "headword_no": 178,
+      "id": "ch7-178-02",
+      "kanji": "光る",
+      "reading": "ひかる",
+      "meaning_en": "to shine",
+      "meaning_mm": "တောက်ပသည်"
+    },
+    {
+      "headword_no": 178,
+      "id": "ch7-178-03",
+      "kanji": "日光",
+      "reading": "にっこう",
+      "meaning_en": "sunlight",
+      "meaning_mm": "နေအလင်း"
+    },
+    {
+      "headword_no": 178,
+      "id": "ch7-178-04",
+      "kanji": "観光",
+      "reading": "かんこう",
+      "meaning_en": "sightseeing",
+      "meaning_mm": "ခရီးသွားလည်ပတ်မှု"
+    },
+    {
+      "headword_no": 179,
+      "id": "ch7-179-01",
+      "kanji": "台",
+      "reading": "だい",
+      "meaning_en": "counter for machines; stand",
+      "meaning_mm": "စက်ပစ္စည်းရေတွက်ပုဒ် / စင်"
+    },
+    {
+      "headword_no": 179,
+      "id": "ch7-179-02",
+      "kanji": "台所",
+      "reading": "だいどころ",
+      "meaning_en": "kitchen",
+      "meaning_mm": "မီးဖိုချောင်"
+    },
+    {
+      "headword_no": 179,
+      "id": "ch7-179-03",
+      "kanji": "一台",
+      "reading": "いちだい",
+      "meaning_en": "one (machine/vehicle)",
+      "meaning_mm": "တစ်စီး / တစ်လုံး"
+    },
+    {
+      "headword_no": 179,
+      "id": "ch7-179-04",
+      "kanji": "土台",
+      "reading": "どだい",
+      "meaning_en": "foundation",
+      "meaning_mm": "အခြေခံ / အောက်ခံ"
+    },
+    {
+      "headword_no": 180,
+      "id": "ch7-180-01",
+      "kanji": "風",
+      "reading": "かぜ",
+      "meaning_en": "wind",
+      "meaning_mm": "လေ"
+    },
+    {
+      "headword_no": 180,
+      "id": "ch7-180-02",
+      "kanji": "台風",
+      "reading": "たいふう",
+      "meaning_en": "typhoon",
+      "meaning_mm": "မုန်တိုင်း"
+    },
+    {
+      "headword_no": 180,
+      "id": "ch7-180-03",
+      "kanji": "洋風",
+      "reading": "ようふう",
+      "meaning_en": "western style",
+      "meaning_mm": "အနောက်တိုင်းစတိုင်"
+    },
+    {
+      "headword_no": 180,
+      "id": "ch7-180-04",
+      "kanji": "風景",
+      "reading": "ふうけい",
+      "meaning_en": "scenery",
+      "meaning_mm": "ရှုခင်း"
+    }
+  ]
+}

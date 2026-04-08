@@ -1,0 +1,306 @@
+{
+  "chapter": 13,
+  "title": "生活",
+  "source_headwords": {
+    "from": 231,
+    "to": 240
+  },
+  "cards": [
+    {
+      "headword_no": 231,
+      "id": "ch13-231-01",
+      "kanji": "生活",
+      "reading": "せいかつ",
+      "meaning_en": "living; life",
+      "meaning_mm": "နေထိုင်မှု / ဘဝ"
+    },
+    {
+      "headword_no": 231,
+      "id": "ch13-231-02",
+      "kanji": "活動",
+      "reading": "かつどう",
+      "meaning_en": "activity",
+      "meaning_mm": "လှုပ်ရှားမှု"
+    },
+    {
+      "headword_no": 231,
+      "id": "ch13-231-03",
+      "kanji": "活発な",
+      "reading": "かっぱつな",
+      "meaning_en": "active",
+      "meaning_mm": "တက်ကြွသော"
+    },
+    {
+      "headword_no": 232,
+      "id": "ch13-232-01",
+      "kanji": "回す",
+      "reading": "まわす",
+      "meaning_en": "to turn",
+      "meaning_mm": "လှည့်သည်"
+    },
+    {
+      "headword_no": 232,
+      "id": "ch13-232-02",
+      "kanji": "1回",
+      "reading": "いっかい",
+      "meaning_en": "once",
+      "meaning_mm": "တစ်ကြိမ်"
+    },
+    {
+      "headword_no": 232,
+      "id": "ch13-232-03",
+      "kanji": "前回",
+      "reading": "ぜんかい",
+      "meaning_en": "last time",
+      "meaning_mm": "ယခင်အကြိမ်"
+    },
+    {
+      "headword_no": 232,
+      "id": "ch13-232-04",
+      "kanji": "回転ずし",
+      "reading": "かいてんずし",
+      "meaning_en": "conveyor-belt sushi",
+      "meaning_mm": "လှည့်စားစတိုင် ဆူရှီ"
+    },
+    {
+      "headword_no": 233,
+      "id": "ch13-233-01",
+      "kanji": "主人",
+      "reading": "しゅじん",
+      "meaning_en": "husband; master",
+      "meaning_mm": "ခင်ပွန်း / အိမ်ရှင်"
+    },
+    {
+      "headword_no": 233,
+      "id": "ch13-233-02",
+      "kanji": "主食",
+      "reading": "しゅしょく",
+      "meaning_en": "staple food",
+      "meaning_mm": "အဓိကအစားအစာ"
+    },
+    {
+      "headword_no": 233,
+      "id": "ch13-233-03",
+      "kanji": "主な",
+      "reading": "おもな",
+      "meaning_en": "main",
+      "meaning_mm": "အဓိက"
+    },
+    {
+      "headword_no": 233,
+      "id": "ch13-233-04",
+      "kanji": "持ち主",
+      "reading": "もちぬし",
+      "meaning_en": "owner",
+      "meaning_mm": "ပိုင်ရှင်"
+    },
+    {
+      "headword_no": 234,
+      "id": "ch13-234-01",
+      "kanji": "色",
+      "reading": "いろ",
+      "meaning_en": "color",
+      "meaning_mm": "အရောင်"
+    },
+    {
+      "headword_no": 234,
+      "id": "ch13-234-02",
+      "kanji": "茶色",
+      "reading": "ちゃいろ",
+      "meaning_en": "brown",
+      "meaning_mm": "အညိုရောင်"
+    },
+    {
+      "headword_no": 234,
+      "id": "ch13-234-03",
+      "kanji": "特色",
+      "reading": "とくしょく",
+      "meaning_en": "characteristic",
+      "meaning_mm": "ထူးခြားချက်"
+    },
+    {
+      "headword_no": 234,
+      "id": "ch13-234-04",
+      "kanji": "景色",
+      "reading": "けしき",
+      "meaning_en": "scenery",
+      "meaning_mm": "ရှုခင်း"
+    },
+    {
+      "headword_no": 235,
+      "id": "ch13-235-01",
+      "kanji": "形",
+      "reading": "かたち",
+      "meaning_en": "shape",
+      "meaning_mm": "ပုံစံ"
+    },
+    {
+      "headword_no": 235,
+      "id": "ch13-235-02",
+      "kanji": "人形",
+      "reading": "にんぎょう",
+      "meaning_en": "doll",
+      "meaning_mm": "ဖက်ကလေး"
+    },
+    {
+      "headword_no": 235,
+      "id": "ch13-235-03",
+      "kanji": "正方形",
+      "reading": "せいほうけい",
+      "meaning_en": "square",
+      "meaning_mm": "စတုရန်းပုံ"
+    },
+    {
+      "headword_no": 235,
+      "id": "ch13-235-04",
+      "kanji": "図形",
+      "reading": "ずけい",
+      "meaning_en": "figure (geometry)",
+      "meaning_mm": "ပုံစံ (ဂျီဩမေတြီ)"
+    },
+    {
+      "headword_no": 236,
+      "id": "ch13-236-01",
+      "kanji": "品物",
+      "reading": "しなもの",
+      "meaning_en": "goods",
+      "meaning_mm": "ကုန်ပစ္စည်း"
+    },
+    {
+      "headword_no": 236,
+      "id": "ch13-236-02",
+      "kanji": "食料品",
+      "reading": "しょくりょうひん",
+      "meaning_en": "food (groceries)",
+      "meaning_mm": "အစားအသောက်ပစ္စည်း"
+    },
+    {
+      "headword_no": 236,
+      "id": "ch13-236-03",
+      "kanji": "電気製品",
+      "reading": "でんきせいひん",
+      "meaning_en": "electrical appliance",
+      "meaning_mm": "လျှပ်စစ်ပစ္စည်း"
+    },
+    {
+      "headword_no": 236,
+      "id": "ch13-236-04",
+      "kanji": "作品",
+      "reading": "さくひん",
+      "meaning_en": "work (of art)",
+      "meaning_mm": "လက်ရာပစ္စည်း"
+    },
+    {
+      "headword_no": 237,
+      "id": "ch13-237-01",
+      "kanji": "国民",
+      "reading": "こくみん",
+      "meaning_en": "citizens",
+      "meaning_mm": "နိုင်ငံသား"
+    },
+    {
+      "headword_no": 237,
+      "id": "ch13-237-02",
+      "kanji": "市民",
+      "reading": "しみん",
+      "meaning_en": "citizen",
+      "meaning_mm": "မြို့ပြသား"
+    },
+    {
+      "headword_no": 237,
+      "id": "ch13-237-03",
+      "kanji": "民族",
+      "reading": "みんぞく",
+      "meaning_en": "ethnic group",
+      "meaning_mm": "လူမျိုး"
+    },
+    {
+      "headword_no": 237,
+      "id": "ch13-237-04",
+      "kanji": "民主主義",
+      "reading": "みんしゅしゅぎ",
+      "meaning_en": "democracy",
+      "meaning_mm": "ဒီမိုကရေစီစနစ်"
+    },
+    {
+      "headword_no": 238,
+      "id": "ch13-238-01",
+      "kanji": "服",
+      "reading": "ふく",
+      "meaning_en": "clothes",
+      "meaning_mm": "အဝတ်အစား"
+    },
+    {
+      "headword_no": 238,
+      "id": "ch13-238-02",
+      "kanji": "洋服",
+      "reading": "ようふく",
+      "meaning_en": "Western clothing",
+      "meaning_mm": "အနောက်တိုင်းအဝတ်အစား"
+    },
+    {
+      "headword_no": 238,
+      "id": "ch13-238-03",
+      "kanji": "和服",
+      "reading": "わふく",
+      "meaning_en": "Japanese clothing",
+      "meaning_mm": "ဂျပန်အဝတ်အစား"
+    },
+    {
+      "headword_no": 238,
+      "id": "ch13-238-04",
+      "kanji": "制服",
+      "reading": "せいふく",
+      "meaning_en": "uniform",
+      "meaning_mm": "ယူနီဖောင်း"
+    },
+    {
+      "headword_no": 239,
+      "id": "ch13-239-01",
+      "kanji": "犬",
+      "reading": "いぬ",
+      "meaning_en": "dog",
+      "meaning_mm": "ခွေး"
+    },
+    {
+      "headword_no": 239,
+      "id": "ch13-239-02",
+      "kanji": "子犬",
+      "reading": "こいぬ",
+      "meaning_en": "puppy",
+      "meaning_mm": "ခွေးကလေး"
+    },
+    {
+      "headword_no": 239,
+      "id": "ch13-239-03",
+      "kanji": "日本犬",
+      "reading": "にほんけん",
+      "meaning_en": "Japanese dog",
+      "meaning_mm": "ဂျပန်ခွေး"
+    },
+    {
+      "headword_no": 240,
+      "id": "ch13-240-01",
+      "kanji": "同じ",
+      "reading": "おなじ",
+      "meaning_en": "same",
+      "meaning_mm": "တူညီသော"
+    },
+    {
+      "headword_no": 240,
+      "id": "ch13-240-02",
+      "kanji": "同時に",
+      "reading": "どうじに",
+      "meaning_en": "at the same time",
+      "meaning_mm": "တစ်ချိန်တည်းတွင်"
+    },
+    {
+      "headword_no": 240,
+      "id": "ch13-240-03",
+      "kanji": "同級生",
+      "reading": "どうきゅうせい",
+      "meaning_en": "classmate",
+      "meaning_mm": "တန်းတူကျောင်းသား"
+    }
+  ]
+}

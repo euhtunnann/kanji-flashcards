@@ -1,0 +1,266 @@
+{
+  "chapter": 19,
+  "title": "学校 2",
+  "source_headwords": {
+    "from": 291,
+    "to": 300
+  },
+  "cards": [
+    {
+      "headword_no": 291,
+      "id": "ch19-291-01",
+      "kanji": "問",
+      "reading": "とい",
+      "meaning_en": "question",
+      "meaning_mm": "မေးခွန်း"
+    },
+    {
+      "headword_no": 291,
+      "id": "ch19-291-02",
+      "kanji": "問題",
+      "reading": "もんだい",
+      "meaning_en": "question; problem",
+      "meaning_mm": "ပြဿနာ / မေးခွန်း"
+    },
+    {
+      "headword_no": 291,
+      "id": "ch19-291-03",
+      "kanji": "質問する",
+      "reading": "しつもんする",
+      "meaning_en": "to ask a question",
+      "meaning_mm": "မေးခွန်း မေးသည်"
+    },
+    {
+      "headword_no": 292,
+      "id": "ch19-292-01",
+      "kanji": "題名",
+      "reading": "だいめい",
+      "meaning_en": "title",
+      "meaning_mm": "ခေါင်းစဉ်"
+    },
+    {
+      "headword_no": 292,
+      "id": "ch19-292-02",
+      "kanji": "宿題",
+      "reading": "しゅくだい",
+      "meaning_en": "homework",
+      "meaning_mm": "အိမ်စာ"
+    },
+    {
+      "headword_no": 292,
+      "id": "ch19-292-03",
+      "kanji": "話題",
+      "reading": "わだい",
+      "meaning_en": "topic; subject of talk",
+      "meaning_mm": "စကားပြောအကြောင်း"
+    },
+    {
+      "headword_no": 293,
+      "id": "ch19-293-01",
+      "kanji": "試合",
+      "reading": "しあい",
+      "meaning_en": "match; game",
+      "meaning_mm": "ပွဲစဉ် / ကစားပွဲ"
+    },
+    {
+      "headword_no": 293,
+      "id": "ch19-293-02",
+      "kanji": "試験",
+      "reading": "しけん",
+      "meaning_en": "exam; test",
+      "meaning_mm": "စာမေးပွဲ / စမ်းသပ်မှု"
+    },
+    {
+      "headword_no": 293,
+      "id": "ch19-293-03",
+      "kanji": "入試",
+      "reading": "にゅうし",
+      "meaning_en": "entrance examination",
+      "meaning_mm": "ဝင်ခွင့်စာမေးပွဲ"
+    },
+    {
+      "headword_no": 293,
+      "id": "ch19-293-04",
+      "kanji": "試す",
+      "reading": "ためす",
+      "meaning_en": "to try",
+      "meaning_mm": "စမ်းကြည့်သည်"
+    },
+    {
+      "headword_no": 294,
+      "id": "ch19-294-01",
+      "kanji": "実験",
+      "reading": "じっけん",
+      "meaning_en": "experiment",
+      "meaning_mm": "ဓာတ်ခန်းစမ်းသပ်မှု"
+    },
+    {
+      "headword_no": 294,
+      "id": "ch19-294-02",
+      "kanji": "経験",
+      "reading": "けいけん",
+      "meaning_en": "experience",
+      "meaning_mm": "အတွေ့အကြုံ"
+    },
+    {
+      "headword_no": 294,
+      "id": "ch19-294-03",
+      "kanji": "受験する",
+      "reading": "じゅけんする",
+      "meaning_en": "to take an examination",
+      "meaning_mm": "စာမေးပွဲ ဖြေသည်"
+    },
+    {
+      "headword_no": 295,
+      "id": "ch19-295-01",
+      "kanji": "品質",
+      "reading": "ひんしつ",
+      "meaning_en": "quality",
+      "meaning_mm": "အရည်အသွေး"
+    },
+    {
+      "headword_no": 296,
+      "id": "ch19-296-01",
+      "kanji": "間に合う",
+      "reading": "まにあう",
+      "meaning_en": "to be in time",
+      "meaning_mm": "အချိန်မီသည်"
+    },
+    {
+      "headword_no": 296,
+      "id": "ch19-296-02",
+      "kanji": "場合",
+      "reading": "ばあい",
+      "meaning_en": "case; situation",
+      "meaning_mm": "အခြေအနေ"
+    },
+    {
+      "headword_no": 296,
+      "id": "ch19-296-03",
+      "kanji": "都合がいい",
+      "reading": "つごうがいい",
+      "meaning_en": "convenient",
+      "meaning_mm": "အဆင်ပြေသည်"
+    },
+    {
+      "headword_no": 297,
+      "id": "ch19-297-01",
+      "kanji": "答える",
+      "reading": "こたえる",
+      "meaning_en": "to answer",
+      "meaning_mm": "ဖြေသည်"
+    },
+    {
+      "headword_no": 297,
+      "id": "ch19-297-02",
+      "kanji": "答え",
+      "reading": "こたえ",
+      "meaning_en": "answer",
+      "meaning_mm": "အဖြေ"
+    },
+    {
+      "headword_no": 297,
+      "id": "ch19-297-03",
+      "kanji": "解答",
+      "reading": "かいとう",
+      "meaning_en": "answer (to a problem)",
+      "meaning_mm": "အဖြေ (စာမေးပွဲ)"
+    },
+    {
+      "headword_no": 298,
+      "id": "ch19-298-01",
+      "kanji": "用事",
+      "reading": "ようじ",
+      "meaning_en": "errand; business to attend to",
+      "meaning_mm": "ကိစ္စ / အလုပ်"
+    },
+    {
+      "headword_no": 298,
+      "id": "ch19-298-02",
+      "kanji": "利用する",
+      "reading": "りようする",
+      "meaning_en": "to use; to utilize",
+      "meaning_mm": "အသုံးပြုသည်"
+    },
+    {
+      "headword_no": 298,
+      "id": "ch19-298-03",
+      "kanji": "子ども用",
+      "reading": "こどもよう",
+      "meaning_en": "for children",
+      "meaning_mm": "ကလေးများအတွက်"
+    },
+    {
+      "headword_no": 298,
+      "id": "ch19-298-04",
+      "kanji": "使用禁止",
+      "reading": "しようきんし",
+      "meaning_en": "no use; use prohibited",
+      "meaning_mm": "အသုံးပြုခွင့်မရှိ"
+    },
+    {
+      "headword_no": 299,
+      "id": "ch19-299-01",
+      "kanji": "紙",
+      "reading": "かみ",
+      "meaning_en": "paper",
+      "meaning_mm": "စက္ကူ"
+    },
+    {
+      "headword_no": 299,
+      "id": "ch19-299-02",
+      "kanji": "手紙",
+      "reading": "てがみ",
+      "meaning_en": "letter",
+      "meaning_mm": "စာတိုက် စာ"
+    },
+    {
+      "headword_no": 299,
+      "id": "ch19-299-03",
+      "kanji": "コピー用紙",
+      "reading": "コピーようし",
+      "meaning_en": "copy paper",
+      "meaning_mm": "ကော်ပီ စက္ကူ"
+    },
+    {
+      "headword_no": 299,
+      "id": "ch19-299-04",
+      "kanji": "新聞紙",
+      "reading": "しんぶんし",
+      "meaning_en": "newspaper (sheet)",
+      "meaning_mm": "သတင်းစာစက္ကူ"
+    },
+    {
+      "headword_no": 300,
+      "id": "ch19-300-01",
+      "kanji": "意味",
+      "reading": "いみ",
+      "meaning_en": "meaning",
+      "meaning_mm": "အဓိပ္ပါယ်"
+    },
+    {
+      "headword_no": 300,
+      "id": "ch19-300-02",
+      "kanji": "注意する",
+      "reading": "ちゅういする",
+      "meaning_en": "to pay attention; to warn",
+      "meaning_mm": "သတိပေးသည် / ဂရုစိုက်သည်"
+    },
+    {
+      "headword_no": 300,
+      "id": "ch19-300-03",
+      "kanji": "用意する",
+      "reading": "よういする",
+      "meaning_en": "to prepare",
+      "meaning_mm": "ပြင်ဆင်သည်"
+    },
+    {
+      "headword_no": 300,
+      "id": "ch19-300-04",
+      "kanji": "意見",
+      "reading": "いけん",
+      "meaning_en": "opinion",
+      "meaning_mm": "ထင်မြင်ချက်"
+    }
+  ]
+}

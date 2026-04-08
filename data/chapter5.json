@@ -1,0 +1,226 @@
+{
+  "chapter": 5,
+  "title": "趣味",
+  "source_headwords": {
+    "from": 151,
+    "to": 160
+  },
+  "cards": [
+    {
+      "headword_no": 151,
+      "id": "ch5-151-01",
+      "kanji": "映す",
+      "reading": "うつす",
+      "meaning_en": "to reflect",
+      "meaning_mm": "ထင်ဟပ်စေသည်"
+    },
+    {
+      "headword_no": 151,
+      "id": "ch5-151-02",
+      "kanji": "映画",
+      "reading": "えいが",
+      "meaning_en": "movie",
+      "meaning_mm": "ရုပ်ရှင်"
+    },
+    {
+      "headword_no": 151,
+      "id": "ch5-151-03",
+      "kanji": "映画館",
+      "reading": "えいがかん",
+      "meaning_en": "movie theater",
+      "meaning_mm": "ရုပ်ရှင်ရုံ"
+    },
+    {
+      "headword_no": 152,
+      "id": "ch5-152-01",
+      "kanji": "計画",
+      "reading": "けいかく",
+      "meaning_en": "plan",
+      "meaning_mm": "အစီအစဉ်"
+    },
+    {
+      "headword_no": 152,
+      "id": "ch5-152-02",
+      "kanji": "画家",
+      "reading": "がか",
+      "meaning_en": "painter",
+      "meaning_mm": "ပန်းချီဆရာ"
+    },
+    {
+      "headword_no": 152,
+      "id": "ch5-152-03",
+      "kanji": "日本画",
+      "reading": "にほんが",
+      "meaning_en": "Japanese painting",
+      "meaning_mm": "ဂျပန်ရိုးရာပန်းချီ"
+    },
+    {
+      "headword_no": 153,
+      "id": "ch5-153-01",
+      "kanji": "音",
+      "reading": "おと",
+      "meaning_en": "sound",
+      "meaning_mm": "အသံ"
+    },
+    {
+      "headword_no": 153,
+      "id": "ch5-153-02",
+      "kanji": "発音",
+      "reading": "はつおん",
+      "meaning_en": "pronunciation",
+      "meaning_mm": "အသံထွက်"
+    },
+    {
+      "headword_no": 153,
+      "id": "ch5-153-03",
+      "kanji": "高音",
+      "reading": "こうおん",
+      "meaning_en": "high note",
+      "meaning_mm": "အသံမြင့်"
+    },
+    {
+      "headword_no": 154,
+      "id": "ch5-154-01",
+      "kanji": "楽しい",
+      "reading": "たのしい",
+      "meaning_en": "enjoyable",
+      "meaning_mm": "ပျော်စရာကောင်းသော"
+    },
+    {
+      "headword_no": 154,
+      "id": "ch5-154-02",
+      "kanji": "音楽",
+      "reading": "おんがく",
+      "meaning_en": "music",
+      "meaning_mm": "ဂီတ"
+    },
+    {
+      "headword_no": 154,
+      "id": "ch5-154-03",
+      "kanji": "楽な",
+      "reading": "らくな",
+      "meaning_en": "easy",
+      "meaning_mm": "လွယ်ကူသော"
+    },
+    {
+      "headword_no": 155,
+      "id": "ch5-155-01",
+      "kanji": "歌う",
+      "reading": "うたう",
+      "meaning_en": "to sing",
+      "meaning_mm": "သီချင်းဆိုသည်"
+    },
+    {
+      "headword_no": 155,
+      "id": "ch5-155-02",
+      "kanji": "歌手",
+      "reading": "かしゅ",
+      "meaning_en": "singer",
+      "meaning_mm": "အဆိုတော်"
+    },
+    {
+      "headword_no": 156,
+      "id": "ch5-156-01",
+      "kanji": "写真",
+      "reading": "しゃしん",
+      "meaning_en": "photograph",
+      "meaning_mm": "ဓာတ်ပုံ"
+    },
+    {
+      "headword_no": 156,
+      "id": "ch5-156-02",
+      "kanji": "写す",
+      "reading": "うつす",
+      "meaning_en": "to copy",
+      "meaning_mm": "ကူးရေးသည်"
+    },
+    {
+      "headword_no": 157,
+      "id": "ch5-157-01",
+      "kanji": "真ん中",
+      "reading": "まんなか",
+      "meaning_en": "middle",
+      "meaning_mm": "အလယ်ဗဟို"
+    },
+    {
+      "headword_no": 157,
+      "id": "ch5-157-02",
+      "kanji": "真っ白",
+      "reading": "まっしろ",
+      "meaning_en": "pure white",
+      "meaning_mm": "ဖြူစင်အဖြူရောင်"
+    },
+    {
+      "headword_no": 157,
+      "id": "ch5-157-03",
+      "kanji": "真実",
+      "reading": "しんじつ",
+      "meaning_en": "truth",
+      "meaning_mm": "အမှန်တရား"
+    },
+    {
+      "headword_no": 158,
+      "id": "ch5-158-01",
+      "kanji": "旅行する",
+      "reading": "りょこうする",
+      "meaning_en": "to take a trip",
+      "meaning_mm": "ခရီးထွက်သည်"
+    },
+    {
+      "headword_no": 158,
+      "id": "ch5-158-02",
+      "kanji": "旅館",
+      "reading": "りょかん",
+      "meaning_en": "Japanese-style hotel",
+      "meaning_mm": "ဂျပန်စတိုင် တည်းခိုခန်း"
+    },
+    {
+      "headword_no": 158,
+      "id": "ch5-158-03",
+      "kanji": "旅",
+      "reading": "たび",
+      "meaning_en": "trip",
+      "meaning_mm": "ခရီး"
+    },
+    {
+      "headword_no": 159,
+      "id": "ch5-159-01",
+      "kanji": "世話をする",
+      "reading": "せわをする",
+      "meaning_en": "to take care of",
+      "meaning_mm": "စောင့်ရှောက်သည်"
+    },
+    {
+      "headword_no": 159,
+      "id": "ch5-159-02",
+      "kanji": "世の中",
+      "reading": "よのなか",
+      "meaning_en": "world; society",
+      "meaning_mm": "လောက / လူ့ဘောင်"
+    },
+    {
+      "headword_no": 159,
+      "id": "ch5-159-03",
+      "kanji": "21世紀",
+      "reading": "21せいき",
+      "meaning_en": "21st century",
+      "meaning_mm": "၂၁ ရာစု"
+    },
+    {
+      "headword_no": 160,
+      "id": "ch5-160-01",
+      "kanji": "世界",
+      "reading": "せかい",
+      "meaning_en": "world",
+      "meaning_mm": "ကမ္ဘာ"
+    },
+    {
+      "headword_no": 160,
+      "id": "ch5-160-02",
+      "kanji": "政界",
+      "reading": "せいかい",
+      "meaning_en": "political world",
+      "meaning_mm": "နိုင်ငံရေးလောက"
+    }
+  ]
+}

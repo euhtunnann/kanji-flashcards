@@ -1,0 +1,266 @@
+{
+  "chapter": 6,
+  "title": "仕事",
+  "source_headwords": {
+    "from": 161,
+    "to": 170
+  },
+  "cards": [
+    {
+      "headword_no": 161,
+      "id": "ch6-161-01",
+      "kanji": "仕事",
+      "reading": "しごと",
+      "meaning_en": "job",
+      "meaning_mm": "အလုပ်"
+    },
+    {
+      "headword_no": 161,
+      "id": "ch6-161-02",
+      "kanji": "仕方がない",
+      "reading": "しかたがない",
+      "meaning_en": "there is no choice",
+      "meaning_mm": "မဖြစ်မနေဖြစ်သည် / မတတ်နိုင်"
+    },
+    {
+      "headword_no": 162,
+      "id": "ch6-162-01",
+      "kanji": "火事",
+      "reading": "かじ",
+      "meaning_en": "fire",
+      "meaning_mm": "မီးလောင်မှု"
+    },
+    {
+      "headword_no": 162,
+      "id": "ch6-162-02",
+      "kanji": "用事",
+      "reading": "ようじ",
+      "meaning_en": "business; matter",
+      "meaning_mm": "ကိစ္စ / လုပ်စရာ"
+    },
+    {
+      "headword_no": 162,
+      "id": "ch6-162-03",
+      "kanji": "大事な",
+      "reading": "だいじな",
+      "meaning_en": "important",
+      "meaning_mm": "အရေးကြီးသော"
+    },
+    {
+      "headword_no": 163,
+      "id": "ch6-163-01",
+      "kanji": "銀行",
+      "reading": "ぎんこう",
+      "meaning_en": "bank",
+      "meaning_mm": "ဘဏ်"
+    },
+    {
+      "headword_no": 163,
+      "id": "ch6-163-02",
+      "kanji": "銀",
+      "reading": "ぎん",
+      "meaning_en": "silver",
+      "meaning_mm": "ငွေ (သတ္တု)"
+    },
+    {
+      "headword_no": 163,
+      "id": "ch6-163-03",
+      "kanji": "銀座",
+      "reading": "ぎんざ",
+      "meaning_en": "Ginza (place)",
+      "meaning_mm": "ဂင်ဇာ (နေရာအမည်)"
+    },
+    {
+      "headword_no": 164,
+      "id": "ch6-164-01",
+      "kanji": "会社員",
+      "reading": "かいしゃいん",
+      "meaning_en": "company employee",
+      "meaning_mm": "ကုမ္ပဏီဝန်ထမ်း"
+    },
+    {
+      "headword_no": 164,
+      "id": "ch6-164-02",
+      "kanji": "銀行員",
+      "reading": "ぎんこういん",
+      "meaning_en": "bank clerk",
+      "meaning_mm": "ဘဏ်ဝန်ထမ်း"
+    },
+    {
+      "headword_no": 164,
+      "id": "ch6-164-03",
+      "kanji": "店員",
+      "reading": "てんいん",
+      "meaning_en": "clerk",
+      "meaning_mm": "ဆိုင်ဝန်ထမ်း"
+    },
+    {
+      "headword_no": 164,
+      "id": "ch6-164-04",
+      "kanji": "会員",
+      "reading": "かいいん",
+      "meaning_en": "membership; member",
+      "meaning_mm": "အသင်းဝင် / အဖွဲ့ဝင်"
+    },
+    {
+      "headword_no": 165,
+      "id": "ch6-165-01",
+      "kanji": "医者",
+      "reading": "いしゃ",
+      "meaning_en": "doctor",
+      "meaning_mm": "ဆရာဝန်"
+    },
+    {
+      "headword_no": 165,
+      "id": "ch6-165-02",
+      "kanji": "医学",
+      "reading": "いがく",
+      "meaning_en": "medical science",
+      "meaning_mm": "ဆေးပညာ"
+    },
+    {
+      "headword_no": 165,
+      "id": "ch6-165-03",
+      "kanji": "医院",
+      "reading": "いいん",
+      "meaning_en": "doctor's office",
+      "meaning_mm": "ဆေးခန်း"
+    },
+    {
+      "headword_no": 166,
+      "id": "ch6-166-01",
+      "kanji": "者",
+      "reading": "もの",
+      "meaning_en": "person",
+      "meaning_mm": "လူ"
+    },
+    {
+      "headword_no": 166,
+      "id": "ch6-166-02",
+      "kanji": "歯医者",
+      "reading": "はいしゃ",
+      "meaning_en": "dentist",
+      "meaning_mm": "သွားဆရာဝန်"
+    },
+    {
+      "headword_no": 166,
+      "id": "ch6-166-03",
+      "kanji": "学者",
+      "reading": "がくしゃ",
+      "meaning_en": "scholar",
+      "meaning_mm": "ပညာရှင်"
+    },
+    {
+      "headword_no": 166,
+      "id": "ch6-166-04",
+      "kanji": "作者",
+      "reading": "さくしゃ",
+      "meaning_en": "author",
+      "meaning_mm": "ရေးသားသူ / စာရေးဆရာ"
+    },
+    {
+      "headword_no": 167,
+      "id": "ch6-167-01",
+      "kanji": "働く",
+      "reading": "はたらく",
+      "meaning_en": "to work",
+      "meaning_mm": "အလုပ်လုပ်သည်"
+    },
+    {
+      "headword_no": 167,
+      "id": "ch6-167-02",
+      "kanji": "労働者",
+      "reading": "ろうどうしゃ",
+      "meaning_en": "laborer; worker",
+      "meaning_mm": "အလုပ်သမား"
+    },
+    {
+      "headword_no": 168,
+      "id": "ch6-168-01",
+      "kanji": "本屋",
+      "reading": "ほんや",
+      "meaning_en": "bookstore",
+      "meaning_mm": "စာအုပ်ဆိုင်"
+    },
+    {
+      "headword_no": 168,
+      "id": "ch6-168-02",
+      "kanji": "屋上",
+      "reading": "おくじょう",
+      "meaning_en": "roof; rooftop",
+      "meaning_mm": "အမိုးပေါ် / အမိုးထပ်"
+    },
+    {
+      "headword_no": 168,
+      "id": "ch6-168-03",
+      "kanji": "八百屋",
+      "reading": "やおや",
+      "meaning_en": "grocery",
+      "meaning_mm": "ဟင်းသီးဟင်းရွက်ဆိုင်"
+    },
+    {
+      "headword_no": 168,
+      "id": "ch6-168-04",
+      "kanji": "部屋",
+      "reading": "へや",
+      "meaning_en": "room",
+      "meaning_mm": "အခန်း"
+    },
+    {
+      "headword_no": 169,
+      "id": "ch6-169-01",
+      "kanji": "産む",
+      "reading": "うむ",
+      "meaning_en": "to give birth",
+      "meaning_mm": "မွေးဖွားသည်"
+    },
+    {
+      "headword_no": 169,
+      "id": "ch6-169-02",
+      "kanji": "生産する",
+      "reading": "せいさんする",
+      "meaning_en": "to produce",
+      "meaning_mm": "ထုတ်လုပ်သည်"
+    },
+    {
+      "headword_no": 169,
+      "id": "ch6-169-03",
+      "kanji": "財産",
+      "reading": "ざいさん",
+      "meaning_en": "fortune; property",
+      "meaning_mm": "ပိုင်ဆိုင်မှု / ဥစ္စာ"
+    },
+    {
+      "headword_no": 170,
+      "id": "ch6-170-01",
+      "kanji": "産業",
+      "reading": "さんぎょう",
+      "meaning_en": "industry",
+      "meaning_mm": "စက်မှုလုပ်ငန်း"
+    },
+    {
+      "headword_no": 170,
+      "id": "ch6-170-02",
+      "kanji": "工業",
+      "reading": "こうぎょう",
+      "meaning_en": "manufacture",
+      "meaning_mm": "ထုတ်လုပ်ရေးလုပ်ငန်း"
+    },
+    {
+      "headword_no": 170,
+      "id": "ch6-170-03",
+      "kanji": "授業",
+      "reading": "じゅぎょう",
+      "meaning_en": "class; lesson",
+      "meaning_mm": "အတန်း / သင်ခန်းစာ"
+    },
+    {
+      "headword_no": 170,
+      "id": "ch6-170-04",
+      "kanji": "本日休業",
+      "reading": "ほんじつきゅうぎょう",
+      "meaning_en": "closed today",
+      "meaning_mm": "ယနေ့ပိတ်သည်"
+    }
+  ]
+}

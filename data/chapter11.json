@@ -1,0 +1,258 @@
+{
+  "chapter": 11,
+  "title": "動詞1",
+  "source_headwords": {
+    "from": 211,
+    "to": 220
+  },
+  "cards": [
+    {
+      "headword_no": 211,
+      "id": "ch11-211-01",
+      "kanji": "止まる",
+      "reading": "とまる",
+      "meaning_en": "to stop",
+      "meaning_mm": "ရပ်တန့်သည်"
+    },
+    {
+      "headword_no": 211,
+      "id": "ch11-211-02",
+      "kanji": "中止する",
+      "reading": "ちゅうしする",
+      "meaning_en": "to call off",
+      "meaning_mm": "ပယ်ဖျက်သည်"
+    },
+    {
+      "headword_no": 211,
+      "id": "ch11-211-03",
+      "kanji": "一時停止",
+      "reading": "いちじていし",
+      "meaning_en": "stop sign",
+      "meaning_mm": "ယာယီရပ်ဆိုင်း"
+    },
+    {
+      "headword_no": 212,
+      "id": "ch11-212-01",
+      "kanji": "歩く",
+      "reading": "あるく",
+      "meaning_en": "to walk",
+      "meaning_mm": "လမ်းလျှောက်သည်"
+    },
+    {
+      "headword_no": 212,
+      "id": "ch11-212-02",
+      "kanji": "散歩する",
+      "reading": "さんぽする",
+      "meaning_en": "to take a walk",
+      "meaning_mm": "လမ်းလျှောက်လည်သည်"
+    },
+    {
+      "headword_no": 212,
+      "id": "ch11-212-03",
+      "kanji": "進歩する",
+      "reading": "しんぽする",
+      "meaning_en": "to make progress",
+      "meaning_mm": "တိုးတက်သည်"
+    },
+    {
+      "headword_no": 212,
+      "id": "ch11-212-04",
+      "kanji": "横断歩道",
+      "reading": "おうだんほどう",
+      "meaning_en": "crosswalk",
+      "meaning_mm": "လမ်းကူးမျဉ်း"
+    },
+    {
+      "headword_no": 213,
+      "id": "ch11-213-01",
+      "kanji": "走る",
+      "reading": "はしる",
+      "meaning_en": "to run",
+      "meaning_mm": "ပြေးသည်"
+    },
+    {
+      "headword_no": 213,
+      "id": "ch11-213-02",
+      "kanji": "力走する",
+      "reading": "りきそうする",
+      "meaning_en": "to run as fast as possible",
+      "meaning_mm": "အမြန်ဆုံးပြေးသည်"
+    },
+    {
+      "headword_no": 214,
+      "id": "ch11-214-01",
+      "kanji": "起きる",
+      "reading": "おきる",
+      "meaning_en": "to get up",
+      "meaning_mm": "ထသည်"
+    },
+    {
+      "headword_no": 214,
+      "id": "ch11-214-02",
+      "kanji": "早起き",
+      "reading": "はやおき",
+      "meaning_en": "early riser",
+      "meaning_mm": "မနက်စောစောထသူ"
+    },
+    {
+      "headword_no": 214,
+      "id": "ch11-214-03",
+      "kanji": "起業家",
+      "reading": "きぎょうか",
+      "meaning_en": "entrepreneur",
+      "meaning_mm": "စီးပွားရေးလုပ်ငန်းရှင်"
+    },
+    {
+      "headword_no": 215,
+      "id": "ch11-215-01",
+      "kanji": "持つ",
+      "reading": "もつ",
+      "meaning_en": "to hold",
+      "meaning_mm": "ကိုင်သည်"
+    },
+    {
+      "headword_no": 215,
+      "id": "ch11-215-02",
+      "kanji": "気持ち",
+      "reading": "きもち",
+      "meaning_en": "feeling",
+      "meaning_mm": "ခံစားချက်"
+    },
+    {
+      "headword_no": 215,
+      "id": "ch11-215-03",
+      "kanji": "持ち物",
+      "reading": "もちもの",
+      "meaning_en": "belongings",
+      "meaning_mm": "ကိုယ်ပိုင်ပစ္စည်းများ"
+    },
+    {
+      "headword_no": 215,
+      "id": "ch11-215-04",
+      "kanji": "支持する",
+      "reading": "しじする",
+      "meaning_en": "to support",
+      "meaning_mm": "ထောက်ခံသည်"
+    },
+    {
+      "headword_no": 216,
+      "id": "ch11-216-01",
+      "kanji": "待つ",
+      "reading": "まつ",
+      "meaning_en": "to wait",
+      "meaning_mm": "စောင့်သည်"
+    },
+    {
+      "headword_no": 216,
+      "id": "ch11-216-02",
+      "kanji": "待ち合わせ",
+      "reading": "まちあわせ",
+      "meaning_en": "rendezvous",
+      "meaning_mm": "ချိန်းဆိုတွေ့ဆုံမှု"
+    },
+    {
+      "headword_no": 216,
+      "id": "ch11-216-03",
+      "kanji": "招待する",
+      "reading": "しょうたいする",
+      "meaning_en": "to invite",
+      "meaning_mm": "ဖိတ်ခေါ်သည်"
+    },
+    {
+      "headword_no": 216,
+      "id": "ch11-216-04",
+      "kanji": "期待する",
+      "reading": "きたいする",
+      "meaning_en": "to hope",
+      "meaning_mm": "မျှော်လင့်သည်"
+    },
+    {
+      "headword_no": 217,
+      "id": "ch11-217-01",
+      "kanji": "借りる",
+      "reading": "かりる",
+      "meaning_en": "to borrow",
+      "meaning_mm": "ချေးယူသည်"
+    },
+    {
+      "headword_no": 217,
+      "id": "ch11-217-02",
+      "kanji": "借金",
+      "reading": "しゃっきん",
+      "meaning_en": "debt",
+      "meaning_mm": "အကြွေး"
+    },
+    {
+      "headword_no": 218,
+      "id": "ch11-218-01",
+      "kanji": "貸す",
+      "reading": "かす",
+      "meaning_en": "to lend",
+      "meaning_mm": "ချေးပေးသည်"
+    },
+    {
+      "headword_no": 218,
+      "id": "ch11-218-02",
+      "kanji": "貸家",
+      "reading": "かしや",
+      "meaning_en": "house for rent",
+      "meaning_mm": "အငှားအိမ်"
+    },
+    {
+      "headword_no": 218,
+      "id": "ch11-218-03",
+      "kanji": "貸しマンション",
+      "reading": "かしマンション",
+      "meaning_en": "rented apartment",
+      "meaning_mm": "အငှားတိုက်ခန်း"
+    },
+    {
+      "headword_no": 219,
+      "id": "ch11-219-01",
+      "kanji": "始める",
+      "reading": "はじめる",
+      "meaning_en": "to begin",
+      "meaning_mm": "စတင်သည်"
+    },
+    {
+      "headword_no": 219,
+      "id": "ch11-219-02",
+      "kanji": "開始する",
+      "reading": "かいしする",
+      "meaning_en": "to start",
+      "meaning_mm": "စတင်ဖွင့်လှစ်သည်"
+    },
+    {
+      "headword_no": 219,
+      "id": "ch11-219-03",
+      "kanji": "始発",
+      "reading": "しはつ",
+      "meaning_en": "first train",
+      "meaning_mm": "ပထမဆုံးရထား"
+    },
+    {
+      "headword_no": 220,
+      "id": "ch11-220-01",
+      "kanji": "終わる",
+      "reading": "おわる",
+      "meaning_en": "to end",
+      "meaning_mm": "ပြီးဆုံးသည်"
+    },
+    {
+      "headword_no": 220,
+      "id": "ch11-220-02",
+      "kanji": "終電",
+      "reading": "しゅうでん",
+      "meaning_en": "last train",
+      "meaning_mm": "နောက်ဆုံးရထား"
+    },
+    {
+      "headword_no": 220,
+      "id": "ch11-220-03",
+      "kanji": "最終回",
+      "reading": "さいしゅうかい",
+      "meaning_en": "final episode",
+      "meaning_mm": "နောက်ဆုံးအပိုင်း"
+    }
+  ]
+}

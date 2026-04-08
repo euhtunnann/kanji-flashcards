@@ -1,0 +1,258 @@
+{
+  "chapter": 12,
+  "title": "家族",
+  "source_headwords": {
+    "from": 221,
+    "to": 230
+  },
+  "cards": [
+    {
+      "headword_no": 221,
+      "id": "ch12-221-01",
+      "kanji": "家",
+      "reading": "いえ",
+      "meaning_en": "house",
+      "meaning_mm": "အိမ်"
+    },
+    {
+      "headword_no": 221,
+      "id": "ch12-221-02",
+      "kanji": "画家",
+      "reading": "がか",
+      "meaning_en": "painter",
+      "meaning_mm": "ပန်းချီဆရာ"
+    },
+    {
+      "headword_no": 221,
+      "id": "ch12-221-03",
+      "kanji": "家内",
+      "reading": "かない",
+      "meaning_en": "wife",
+      "meaning_mm": "ဇနီး"
+    },
+    {
+      "headword_no": 221,
+      "id": "ch12-221-04",
+      "kanji": "家庭",
+      "reading": "かてい",
+      "meaning_en": "family",
+      "meaning_mm": "မိသားစု"
+    },
+    {
+      "headword_no": 222,
+      "id": "ch12-222-01",
+      "kanji": "家族",
+      "reading": "かぞく",
+      "meaning_en": "family",
+      "meaning_mm": "မိသားစု"
+    },
+    {
+      "headword_no": 222,
+      "id": "ch12-222-02",
+      "kanji": "民族",
+      "reading": "みんぞく",
+      "meaning_en": "race; ethnic group",
+      "meaning_mm": "လူမျိုး"
+    },
+    {
+      "headword_no": 222,
+      "id": "ch12-222-03",
+      "kanji": "水族館",
+      "reading": "すいぞくかん",
+      "meaning_en": "aquarium",
+      "meaning_mm": "ငါးပြတိုက်"
+    },
+    {
+      "headword_no": 223,
+      "id": "ch12-223-01",
+      "kanji": "私",
+      "reading": "わたし",
+      "meaning_en": "I",
+      "meaning_mm": "ကျွန်တော် / ကျွန်မ"
+    },
+    {
+      "headword_no": 223,
+      "id": "ch12-223-02",
+      "kanji": "私立大学",
+      "reading": "しりつだいがく",
+      "meaning_en": "private university",
+      "meaning_mm": "ပုဂ္ဂလိကတက္ကသိုလ်"
+    },
+    {
+      "headword_no": 223,
+      "id": "ch12-223-03",
+      "kanji": "私生活",
+      "reading": "しせいかつ",
+      "meaning_en": "private life",
+      "meaning_mm": "ကိုယ်ပိုင်ဘဝ"
+    },
+    {
+      "headword_no": 224,
+      "id": "ch12-224-01",
+      "kanji": "自分",
+      "reading": "じぶん",
+      "meaning_en": "oneself",
+      "meaning_mm": "ကိုယ်တိုင်"
+    },
+    {
+      "headword_no": 224,
+      "id": "ch12-224-02",
+      "kanji": "自動車",
+      "reading": "じどうしゃ",
+      "meaning_en": "automobile",
+      "meaning_mm": "မော်တော်ကား"
+    },
+    {
+      "headword_no": 224,
+      "id": "ch12-224-03",
+      "kanji": "自由",
+      "reading": "じゆう",
+      "meaning_en": "freedom",
+      "meaning_mm": "လွတ်လပ်မှု"
+    },
+    {
+      "headword_no": 224,
+      "id": "ch12-224-04",
+      "kanji": "自然",
+      "reading": "しぜん",
+      "meaning_en": "nature",
+      "meaning_mm": "သဘာဝ"
+    },
+    {
+      "headword_no": 225,
+      "id": "ch12-225-01",
+      "kanji": "親",
+      "reading": "おや",
+      "meaning_en": "parent",
+      "meaning_mm": "မိဘ"
+    },
+    {
+      "headword_no": 225,
+      "id": "ch12-225-02",
+      "kanji": "母親",
+      "reading": "ははおや",
+      "meaning_en": "mother",
+      "meaning_mm": "မိခင်"
+    },
+    {
+      "headword_no": 225,
+      "id": "ch12-225-03",
+      "kanji": "親切な",
+      "reading": "しんせつな",
+      "meaning_en": "kind",
+      "meaning_mm": "ကြင်နာသော"
+    },
+    {
+      "headword_no": 225,
+      "id": "ch12-225-04",
+      "kanji": "親しい",
+      "reading": "したしい",
+      "meaning_en": "close",
+      "meaning_mm": "ရင်းနှီးသော"
+    },
+    {
+      "headword_no": 226,
+      "id": "ch12-226-01",
+      "kanji": "両親",
+      "reading": "りょうしん",
+      "meaning_en": "parents",
+      "meaning_mm": "မိဘနှစ်ပါး"
+    },
+    {
+      "headword_no": 226,
+      "id": "ch12-226-02",
+      "kanji": "両方",
+      "reading": "りょうほう",
+      "meaning_en": "both",
+      "meaning_mm": "နှစ်ဖက်လုံး"
+    },
+    {
+      "headword_no": 226,
+      "id": "ch12-226-03",
+      "kanji": "両手",
+      "reading": "りょうて",
+      "meaning_en": "both hands",
+      "meaning_mm": "လက်နှစ်ဖက်"
+    },
+    {
+      "headword_no": 226,
+      "id": "ch12-226-04",
+      "kanji": "両替",
+      "reading": "りょうがえ",
+      "meaning_en": "money exchange",
+      "meaning_mm": "ငွေလဲခြင်း"
+    },
+    {
+      "headword_no": 227,
+      "id": "ch12-227-01",
+      "kanji": "兄",
+      "reading": "あに",
+      "meaning_en": "one's elder brother",
+      "meaning_mm": "ကိုယ့်အစ်ကို"
+    },
+    {
+      "headword_no": 227,
+      "id": "ch12-227-02",
+      "kanji": "お兄さん",
+      "reading": "おにいさん",
+      "meaning_en": "elder brother",
+      "meaning_mm": "အစ်ကို"
+    },
+    {
+      "headword_no": 228,
+      "id": "ch12-228-01",
+      "kanji": "弟",
+      "reading": "おとうと",
+      "meaning_en": "one's younger brother",
+      "meaning_mm": "ကိုယ့်ညီ"
+    },
+    {
+      "headword_no": 228,
+      "id": "ch12-228-02",
+      "kanji": "兄弟",
+      "reading": "きょうだい",
+      "meaning_en": "brothers",
+      "meaning_mm": "ညီအစ်ကိုများ"
+    },
+    {
+      "headword_no": 229,
+      "id": "ch12-229-01",
+      "kanji": "姉",
+      "reading": "あね",
+      "meaning_en": "one's elder sister",
+      "meaning_mm": "ကိုယ့်အစ်မ"
+    },
+    {
+      "headword_no": 229,
+      "id": "ch12-229-02",
+      "kanji": "お姉さん",
+      "reading": "おねえさん",
+      "meaning_en": "elder sister",
+      "meaning_mm": "အစ်မ"
+    },
+    {
+      "headword_no": 230,
+      "id": "ch12-230-01",
+      "kanji": "妹",
+      "reading": "いもうと",
+      "meaning_en": "one's younger sister",
+      "meaning_mm": "ကိုယ့်ညီမ"
+    },
+    {
+      "headword_no": 230,
+      "id": "ch12-230-02",
+      "kanji": "姉妹",
+      "reading": "しまい",
+      "meaning_en": "sisters",
+      "meaning_mm": "ညီအစ်မများ"
+    },
+    {
+      "headword_no": 230,
+      "id": "ch12-230-03",
+      "kanji": "姉妹都市",
+      "reading": "しまいとし",
+      "meaning_en": "sister city",
+      "meaning_mm": "ညီအစ်မမြို့"
+    }
+  ]
+}

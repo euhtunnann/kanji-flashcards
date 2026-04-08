@@ -1,0 +1,290 @@
+{
+  "chapter": 16,
+  "title": "場所",
+  "source_headwords": {
+    "from": 261,
+    "to": 270
+  },
+  "cards": [
+    {
+      "headword_no": 261,
+      "id": "ch16-261-01",
+      "kanji": "場所",
+      "reading": "ばしょ",
+      "meaning_en": "place",
+      "meaning_mm": "နေရာ"
+    },
+    {
+      "headword_no": 261,
+      "id": "ch16-261-02",
+      "kanji": "工場",
+      "reading": "こうじょう",
+      "meaning_en": "factory",
+      "meaning_mm": "စက်ရုံ"
+    },
+    {
+      "headword_no": 261,
+      "id": "ch16-261-03",
+      "kanji": "広場",
+      "reading": "ひろば",
+      "meaning_en": "square; plaza",
+      "meaning_mm": "ပြင်ကျယ်"
+    },
+    {
+      "headword_no": 261,
+      "id": "ch16-261-04",
+      "kanji": "運動場",
+      "reading": "うんどうじょう",
+      "meaning_en": "playground; sports ground",
+      "meaning_mm": "ကစားကွင်း"
+    },
+    {
+      "headword_no": 262,
+      "id": "ch16-262-01",
+      "kanji": "建てる",
+      "reading": "たてる",
+      "meaning_en": "to build",
+      "meaning_mm": "ဆောက်လုပ်သည်"
+    },
+    {
+      "headword_no": 262,
+      "id": "ch16-262-02",
+      "kanji": "建物",
+      "reading": "たてもの",
+      "meaning_en": "building",
+      "meaning_mm": "အဆောက်အအုံ"
+    },
+    {
+      "headword_no": 262,
+      "id": "ch16-262-03",
+      "kanji": "建築",
+      "reading": "けんちく",
+      "meaning_en": "architecture; construction",
+      "meaning_mm": "ဗိသုကာ"
+    },
+    {
+      "headword_no": 263,
+      "id": "ch16-263-01",
+      "kanji": "物",
+      "reading": "もの",
+      "meaning_en": "thing",
+      "meaning_mm": "ပစ္စည်း"
+    },
+    {
+      "headword_no": 263,
+      "id": "ch16-263-02",
+      "kanji": "買い物",
+      "reading": "かいもの",
+      "meaning_en": "shopping",
+      "meaning_mm": "စျေးဝယ်ခြင်း"
+    },
+    {
+      "headword_no": 263,
+      "id": "ch16-263-03",
+      "kanji": "動物",
+      "reading": "どうぶつ",
+      "meaning_en": "animal",
+      "meaning_mm": "တိရစ္ဆာန်"
+    },
+    {
+      "headword_no": 263,
+      "id": "ch16-263-04",
+      "kanji": "荷物",
+      "reading": "にもつ",
+      "meaning_en": "baggage; luggage",
+      "meaning_mm": "ပစ္စည်းအိတ် / လက်ဆွဲအိတ်"
+    },
+    {
+      "headword_no": 264,
+      "id": "ch16-264-01",
+      "kanji": "病院",
+      "reading": "びょういん",
+      "meaning_en": "hospital",
+      "meaning_mm": "ဆေးရုံ"
+    },
+    {
+      "headword_no": 264,
+      "id": "ch16-264-02",
+      "kanji": "入院する",
+      "reading": "にゅういんする",
+      "meaning_en": "to be hospitalized",
+      "meaning_mm": "ဆေးရုံဝင်သည်"
+    },
+    {
+      "headword_no": 264,
+      "id": "ch16-264-03",
+      "kanji": "大学院",
+      "reading": "だいがくいん",
+      "meaning_en": "graduate school",
+      "meaning_mm": "မဟာဘွဲ့ကျောင်း"
+    },
+    {
+      "headword_no": 265,
+      "id": "ch16-265-01",
+      "kanji": "映画館",
+      "reading": "えいがかん",
+      "meaning_en": "movie theater",
+      "meaning_mm": "ရုပ်ရှင်ရုံ"
+    },
+    {
+      "headword_no": 265,
+      "id": "ch16-265-02",
+      "kanji": "大使館",
+      "reading": "たいしかん",
+      "meaning_en": "embassy",
+      "meaning_mm": "သံရုံး"
+    },
+    {
+      "headword_no": 265,
+      "id": "ch16-265-03",
+      "kanji": "旅館",
+      "reading": "りょかん",
+      "meaning_en": "Japanese inn",
+      "meaning_mm": "ဂျပန်စတိုင် တည်းခိုခန်း"
+    },
+    {
+      "headword_no": 265,
+      "id": "ch16-265-04",
+      "kanji": "美術館",
+      "reading": "びじゅつかん",
+      "meaning_en": "art museum",
+      "meaning_mm": "ပန်းချီပြတိုက်"
+    },
+    {
+      "headword_no": 266,
+      "id": "ch16-266-01",
+      "kanji": "食堂",
+      "reading": "しょくどう",
+      "meaning_en": "dining hall; cafeteria",
+      "meaning_mm": "ထမင်းစားခန်း"
+    },
+    {
+      "headword_no": 266,
+      "id": "ch16-266-02",
+      "kanji": "講堂",
+      "reading": "こうどう",
+      "meaning_en": "auditorium",
+      "meaning_mm": "ဟောပြောခန်း"
+    },
+    {
+      "headword_no": 267,
+      "id": "ch16-267-01",
+      "kanji": "教室",
+      "reading": "きょうしつ",
+      "meaning_en": "classroom",
+      "meaning_mm": "စာသင်ခန်း"
+    },
+    {
+      "headword_no": 267,
+      "id": "ch16-267-02",
+      "kanji": "地下室",
+      "reading": "ちかしつ",
+      "meaning_en": "basement",
+      "meaning_mm": "မြေအောက်ခန်း"
+    },
+    {
+      "headword_no": 267,
+      "id": "ch16-267-03",
+      "kanji": "待合室",
+      "reading": "まちあいしつ",
+      "meaning_en": "waiting room",
+      "meaning_mm": "စောင့်ခန်း"
+    },
+    {
+      "headword_no": 267,
+      "id": "ch16-267-04",
+      "kanji": "事務室",
+      "reading": "じむしつ",
+      "meaning_en": "office",
+      "meaning_mm": "ရုံးခန်း"
+    },
+    {
+      "headword_no": 268,
+      "id": "ch16-268-01",
+      "kanji": "工事",
+      "reading": "こうじ",
+      "meaning_en": "construction work",
+      "meaning_mm": "ဆောက်လုပ်ရေးလုပ်ငန်း"
+    },
+    {
+      "headword_no": 268,
+      "id": "ch16-268-02",
+      "kanji": "工業",
+      "reading": "こうぎょう",
+      "meaning_en": "manufacturing industry",
+      "meaning_mm": "စက်မှုလုပ်ငန်း"
+    },
+    {
+      "headword_no": 268,
+      "id": "ch16-268-03",
+      "kanji": "工作",
+      "reading": "こうさく",
+      "meaning_en": "handicraft",
+      "meaning_mm": "လက်ရာပညာ"
+    },
+    {
+      "headword_no": 269,
+      "id": "ch16-269-01",
+      "kanji": "図",
+      "reading": "ず",
+      "meaning_en": "figure; diagram",
+      "meaning_mm": "ပုံ / ပုံစံ"
+    },
+    {
+      "headword_no": 269,
+      "id": "ch16-269-02",
+      "kanji": "地図",
+      "reading": "ちず",
+      "meaning_en": "map",
+      "meaning_mm": "မြေပုံ"
+    },
+    {
+      "headword_no": 269,
+      "id": "ch16-269-03",
+      "kanji": "図書館",
+      "reading": "としょかん",
+      "meaning_en": "library",
+      "meaning_mm": "စာကြည့်တိုက်"
+    },
+    {
+      "headword_no": 269,
+      "id": "ch16-269-04",
+      "kanji": "合図",
+      "reading": "あいず",
+      "meaning_en": "signal",
+      "meaning_mm": "အချက်ပြ"
+    },
+    {
+      "headword_no": 270,
+      "id": "ch16-270-01",
+      "kanji": "信号",
+      "reading": "しんごう",
+      "meaning_en": "signal; traffic light",
+      "meaning_mm": "အချက်ပြမီး"
+    },
+    {
+      "headword_no": 270,
+      "id": "ch16-270-02",
+      "kanji": "電話番号",
+      "reading": "でんわばんごう",
+      "meaning_en": "telephone number",
+      "meaning_mm": "ဖုန်းနံပါတ်"
+    },
+    {
+      "headword_no": 270,
+      "id": "ch16-270-03",
+      "kanji": "3号室",
+      "reading": "さんごうしつ",
+      "meaning_en": "room No. 3",
+      "meaning_mm": "အခန်း နံပါတ် ၃"
+    },
+    {
+      "headword_no": 270,
+      "id": "ch16-270-04",
+      "kanji": "号令",
+      "reading": "ごうれい",
+      "meaning_en": "command; order",
+      "meaning_mm": "အမိန့်"
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "chapter": 20,
+  "title": "動詞2",
+  "source_headwords": {
+    "from": 301,
+    "to": 310
+  },
+  "cards": [
+    {
+      "headword_no": 301,
+      "id": "ch20-301-01",
+      "kanji": "引く",
+      "reading": "ひく",
+      "meaning_en": "to pull",
+      "meaning_mm": "ဆွဲသည်"
+    },
+    {
+      "headword_no": 301,
+      "id": "ch20-301-02",
+      "kanji": "引き出し",
+      "reading": "ひきだし",
+      "meaning_en": "drawer",
+      "meaning_mm": "ဆွဲသေတ္တာ"
+    },
+    {
+      "headword_no": 301,
+      "id": "ch20-301-03",
+      "kanji": "引力",
+      "reading": "いんりょく",
+      "meaning_en": "gravity; gravitational pull",
+      "meaning_mm": "ဆွဲငင်အား"
+    },
+    {
+      "headword_no": 302,
+      "id": "ch20-302-01",
+      "kanji": "開ける",
+      "reading": "あける",
+      "meaning_en": "to open",
+      "meaning_mm": "ဖွင့်သည်"
+    },
+    {
+      "headword_no": 302,
+      "id": "ch20-302-02",
+      "kanji": "開く",
+      "reading": "ひらく",
+      "meaning_en": "to open; to hold (an event)",
+      "meaning_mm": "ဖွင့်သည် / ကျင်းပသည်"
+    },
+    {
+      "headword_no": 302,
+      "id": "ch20-302-03",
+      "kanji": "開店",
+      "reading": "かいてん",
+      "meaning_en": "opening of a shop",
+      "meaning_mm": "ဆိုင်ဖွင့်ချိန်"
+    },
+    {
+      "headword_no": 302,
+      "id": "ch20-302-04",
+      "kanji": "開始する",
+      "reading": "かいしする",
+      "meaning_en": "to begin; to start",
+      "meaning_mm": "စတင်သည်"
+    },
+    {
+      "headword_no": 303,
+      "id": "ch20-303-01",
+      "kanji": "閉める",
+      "reading": "しめる",
+      "meaning_en": "to close",
+      "meaning_mm": "ပိတ်သည်"
+    },
+    {
+      "headword_no": 303,
+      "id": "ch20-303-02",
+      "kanji": "閉じる",
+      "reading": "とじる",
+      "meaning_en": "to close",
+      "meaning_mm": "ပိတ်သည်"
+    },
+    {
+      "headword_no": 303,
+      "id": "ch20-303-03",
+      "kanji": "閉館する",
+      "reading": "へいかんする",
+      "meaning_en": "to close (a facility)",
+      "meaning_mm": "(အဆောက်အအုံ) ပိတ်သည်"
+    },
+    {
+      "headword_no": 303,
+      "id": "ch20-303-04",
+      "kanji": "閉会式",
+      "reading": "へいかいしき",
+      "meaning_en": "closing ceremony",
+      "meaning_mm": "ပိတ်ပွဲအခမ်းအနား"
+    },
+    {
+      "headword_no": 304,
+      "id": "ch20-304-01",
+      "kanji": "去年",
+      "reading": "きょねん",
+      "meaning_en": "last year",
+      "meaning_mm": "မနှစ်က"
+    },
+    {
+      "headword_no": 304,
+      "id": "ch20-304-02",
+      "kanji": "過去",
+      "reading": "かこ",
+      "meaning_en": "the past",
+      "meaning_mm": "အတိတ်"
+    },
+    {
+      "headword_no": 304,
+      "id": "ch20-304-03",
+      "kanji": "消去",
+      "reading": "しょうきょ",
+      "meaning_en": "deletion; erasing",
+      "meaning_mm": "ဖျက်ပစ်မှု"
+    },
+    {
+      "headword_no": 305,
+      "id": "ch20-305-01",
+      "kanji": "死ぬ",
+      "reading": "しぬ",
+      "meaning_en": "to die",
+      "meaning_mm": "သေသည်"
+    },
+    {
+      "headword_no": 305,
+      "id": "ch20-305-02",
+      "kanji": "死者",
+      "reading": "ししゃ",
+      "meaning_en": "the dead; deceased person",
+      "meaning_mm": "ကွယ်လွန်သူ"
+    },
+    {
+      "headword_no": 305,
+      "id": "ch20-305-03",
+      "kanji": "急死",
+      "reading": "きゅうし",
+      "meaning_en": "sudden death",
+      "meaning_mm": "အချိန်မီ မမျှော်လင့်ဘဲ သေဆုံး"
+    },
+    {
+      "headword_no": 305,
+      "id": "ch20-305-04",
+      "kanji": "病死",
+      "reading": "びょうし",
+      "meaning_en": "death from illness",
+      "meaning_mm": "ရောဂါကြောင့် သေဆုံး"
+    },
+    {
+      "headword_no": 306,
+      "id": "ch20-306-01",
+      "kanji": "集める",
+      "reading": "あつめる",
+      "meaning_en": "to collect; to gather",
+      "meaning_mm": "စုဆောင်းသည်"
+    },
+    {
+      "headword_no": 306,
+      "id": "ch20-306-02",
+      "kanji": "集まる",
+      "reading": "あつまる",
+      "meaning_en": "to gather; to assemble",
+      "meaning_mm": "စုဝေးသည်"
+    },
+    {
+      "headword_no": 306,
+      "id": "ch20-306-03",
+      "kanji": "文集",
+      "reading": "ぶんしゅう",
+      "meaning_en": "collection of writings; literary miscellany",
+      "meaning_mm": "စာပေစုစည်း"
+    },
+    {
+      "headword_no": 306,
+      "id": "ch20-306-04",
+      "kanji": "集合する",
+      "reading": "しゅうごうする",
+      "meaning_en": "to assemble; to meet",
+      "meaning_mm": "စုဝေးသည်"
+    },
+    {
+      "headword_no": 307,
+      "id": "ch20-307-01",
+      "kanji": "知る",
+      "reading": "しる",
+      "meaning_en": "to know",
+      "meaning_mm": "သိသည်"
+    },
+    {
+      "headword_no": 307,
+      "id": "ch20-307-02",
+      "kanji": "知り合い",
+      "reading": "しりあい",
+      "meaning_en": "acquaintance",
+      "meaning_mm": "မိတ်ဆွေ"
+    },
+    {
+      "headword_no": 307,
+      "id": "ch20-307-03",
+      "kanji": "通知",
+      "reading": "つうち",
+      "meaning_en": "notice; notification",
+      "meaning_mm": "အသိပေးချက်"
+    },
+    {
+      "headword_no": 307,
+      "id": "ch20-307-04",
+      "kanji": "知識",
+      "reading": "ちしき",
+      "meaning_en": "knowledge",
+      "meaning_mm": "အသိပညာ"
+    },
+    {
+      "headword_no": 308,
+      "id": "ch20-308-01",
+      "kanji": "売る",
+      "reading": "うる",
+      "meaning_en": "to sell",
+      "meaning_mm": "ရောင်းသည်"
+    },
+    {
+      "headword_no": 308,
+      "id": "ch20-308-02",
+      "kanji": "売店",
+      "reading": "ばいてん",
+      "meaning_en": "shop; kiosk",
+      "meaning_mm": "ဆိုင်ခန်း"
+    },
+    {
+      "headword_no": 308,
+      "id": "ch20-308-03",
+      "kanji": "売り場",
+      "reading": "うりば",
+      "meaning_en": "sales floor; counter",
+      "meaning_mm": "ရောင်းချသည့်နေရာ"
+    },
+    {
+      "headword_no": 308,
+      "id": "ch20-308-04",
+      "kanji": "自動販売機",
+      "reading": "じどうはんばいき",
+      "meaning_en": "vending machine",
+      "meaning_mm": "အလိုအလျောက် ရောင်းစက်"
+    },
+    {
+      "headword_no": 309,
+      "id": "ch20-309-01",
+      "kanji": "説明する",
+      "reading": "せつめいする",
+      "meaning_en": "to explain",
+      "meaning_mm": "ရှင်းလင်းသည်"
+    },
+    {
+      "headword_no": 309,
+      "id": "ch20-309-02",
+      "kanji": "小説",
+      "reading": "しょうせつ",
+      "meaning_en": "novel",
+      "meaning_mm": "ဝတ္ထု"
+    },
+    {
+      "headword_no": 310,
+      "id": "ch20-310-01",
+      "kanji": "思う",
+      "reading": "おもう",
+      "meaning_en": "to think",
+      "meaning_mm": "ထင်သည် / စဉ်းစားသည်"
+    },
+    {
+      "headword_no": 310,
+      "id": "ch20-310-02",
+      "kanji": "思い出す",
+      "reading": "おもいだす",
+      "meaning_en": "to recall; to remember",
+      "meaning_mm": "သတိရသည်"
+    },
+    {
+      "headword_no": 310,
+      "id": "ch20-310-03",
+      "kanji": "思い出",
+      "reading": "おもいで",
+      "meaning_en": "memory; recollection",
+      "meaning_mm": "အမှတ်တရ"
+    },
+    {
+      "headword_no": 310,
+      "id": "ch20-310-04",
+      "kanji": "思想",
+      "reading": "しそう",
+      "meaning_en": "thought; idea; ideology",
+      "meaning_mm": "အတွေးအခေါ်"
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "chapter": 9,
+  "title": "体",
+  "source_headwords": {
+    "from": 191,
+    "to": 200
+  },
+  "cards": [
+    {
+      "headword_no": 191,
+      "id": "ch9-191-01",
+      "kanji": "体",
+      "reading": "からだ",
+      "meaning_en": "body",
+      "meaning_mm": "ခန္ဓာကိုယ်"
+    },
+    {
+      "headword_no": 191,
+      "id": "ch9-191-02",
+      "kanji": "体力",
+      "reading": "たいりょく",
+      "meaning_en": "physical strength",
+      "meaning_mm": "ခန္ဓာအား"
+    },
+    {
+      "headword_no": 191,
+      "id": "ch9-191-03",
+      "kanji": "体重",
+      "reading": "たいじゅう",
+      "meaning_en": "body weight",
+      "meaning_mm": "ကိုယ်အလေးချိန်"
+    },
+    {
+      "headword_no": 192,
+      "id": "ch9-192-01",
+      "kanji": "頭",
+      "reading": "あたま",
+      "meaning_en": "head",
+      "meaning_mm": "ခေါင်း"
+    },
+    {
+      "headword_no": 192,
+      "id": "ch9-192-02",
+      "kanji": "頭がいい",
+      "reading": "あたまがいい",
+      "meaning_en": "smart",
+      "meaning_mm": "ဉာဏ်ကောင်းသော"
+    },
+    {
+      "headword_no": 192,
+      "id": "ch9-192-03",
+      "kanji": "頭痛",
+      "reading": "ずつう",
+      "meaning_en": "headache",
+      "meaning_mm": "ခေါင်းကိုက်"
+    },
+    {
+      "headword_no": 193,
+      "id": "ch9-193-01",
+      "kanji": "顔",
+      "reading": "かお",
+      "meaning_en": "face",
+      "meaning_mm": "မျက်နှာ"
+    },
+    {
+      "headword_no": 193,
+      "id": "ch9-193-02",
+      "kanji": "顔色",
+      "reading": "かおいろ",
+      "meaning_en": "complexion",
+      "meaning_mm": "မျက်နှာအရောင်"
+    },
+    {
+      "headword_no": 194,
+      "id": "ch9-194-01",
+      "kanji": "首",
+      "reading": "くび",
+      "meaning_en": "neck",
+      "meaning_mm": "လည်ပင်း"
+    },
+    {
+      "headword_no": 194,
+      "id": "ch9-194-02",
+      "kanji": "首都",
+      "reading": "しゅと",
+      "meaning_en": "capital",
+      "meaning_mm": "မြို့တော်"
+    },
+    {
+      "headword_no": 194,
+      "id": "ch9-194-03",
+      "kanji": "手首",
+      "reading": "てくび",
+      "meaning_en": "wrist",
+      "meaning_mm": "လက်ကောက်ဝတ်"
+    },
+    {
+      "headword_no": 194,
+      "id": "ch9-194-04",
+      "kanji": "首相",
+      "reading": "しゅしょう",
+      "meaning_en": "prime minister",
+      "meaning_mm": "ဝန်ကြီးချုပ်"
+    },
+    {
+      "headword_no": 195,
+      "id": "ch9-195-01",
+      "kanji": "心",
+      "reading": "こころ",
+      "meaning_en": "heart",
+      "meaning_mm": "နှလုံး / စိတ်"
+    },
+    {
+      "headword_no": 195,
+      "id": "ch9-195-02",
+      "kanji": "安心する",
+      "reading": "あんしんする",
+      "meaning_en": "to be relieved",
+      "meaning_mm": "စိတ်အေးချမ်းသည်"
+    },
+    {
+      "headword_no": 195,
+      "id": "ch9-195-03",
+      "kanji": "心配する",
+      "reading": "しんぱいする",
+      "meaning_en": "to worry",
+      "meaning_mm": "စိုးရိမ်သည်"
+    },
+    {
+      "headword_no": 195,
+      "id": "ch9-195-04",
+      "kanji": "中心",
+      "reading": "ちゅうしん",
+      "meaning_en": "center",
+      "meaning_mm": "ဗဟို"
+    },
+    {
+      "headword_no": 196,
+      "id": "ch9-196-01",
+      "kanji": "声",
+      "reading": "こえ",
+      "meaning_en": "voice",
+      "meaning_mm": "အသံ"
+    },
+    {
+      "headword_no": 196,
+      "id": "ch9-196-02",
+      "kanji": "大声",
+      "reading": "おおごえ",
+      "meaning_en": "loud voice",
+      "meaning_mm": "အသံကျယ်"
+    },
+    {
+      "headword_no": 197,
+      "id": "ch9-197-01",
+      "kanji": "病気",
+      "reading": "びょうき",
+      "meaning_en": "illness",
+      "meaning_mm": "ရောဂါ"
+    },
+    {
+      "headword_no": 197,
+      "id": "ch9-197-02",
+      "kanji": "病院",
+      "reading": "びょういん",
+      "meaning_en": "hospital",
+      "meaning_mm": "ဆေးရုံ"
+    },
+    {
+      "headword_no": 197,
+      "id": "ch9-197-03",
+      "kanji": "病人",
+      "reading": "びょうにん",
+      "meaning_en": "sick person",
+      "meaning_mm": "လူနာ"
+    },
+    {
+      "headword_no": 197,
+      "id": "ch9-197-04",
+      "kanji": "急病",
+      "reading": "きゅうびょう",
+      "meaning_en": "sudden illness",
+      "meaning_mm": "ရုတ်တရက်နာမကျန်းမှု"
+    },
+    {
+      "headword_no": 198,
+      "id": "ch9-198-01",
+      "kanji": "薬",
+      "reading": "くすり",
+      "meaning_en": "medicine",
+      "meaning_mm": "ဆေး"
+    },
+    {
+      "headword_no": 198,
+      "id": "ch9-198-02",
+      "kanji": "目薬",
+      "reading": "めぐすり",
+      "meaning_en": "eye drops",
+      "meaning_mm": "မျက်စိဆေး"
+    },
+    {
+      "headword_no": 198,
+      "id": "ch9-198-03",
+      "kanji": "薬品",
+      "reading": "やくひん",
+      "meaning_en": "medicine; pharmaceutical",
+      "meaning_mm": "ဆေးဝါးပစ္စည်း"
+    },
+    {
+      "headword_no": 199,
+      "id": "ch9-199-01",
+      "kanji": "科学",
+      "reading": "かがく",
+      "meaning_en": "science",
+      "meaning_mm": "သိပ္ပံ"
+    },
+    {
+      "headword_no": 199,
+      "id": "ch9-199-02",
+      "kanji": "教科書",
+      "reading": "きょうかしょ",
+      "meaning_en": "textbook",
+      "meaning_mm": "သင်ရိုးစာအုပ်"
+    },
+    {
+      "headword_no": 199,
+      "id": "ch9-199-03",
+      "kanji": "外科",
+      "reading": "げか",
+      "meaning_en": "surgery",
+      "meaning_mm": "ခွဲစိတ်ဌာန"
+    },
+    {
+      "headword_no": 200,
+      "id": "ch9-200-01",
+      "kanji": "内側",
+      "reading": "うちがわ",
+      "meaning_en": "inside",
+      "meaning_mm": "အတွင်းဘက်"
+    },
+    {
+      "headword_no": 200,
+      "id": "ch9-200-02",
+      "kanji": "内科",
+      "reading": "ないか",
+      "meaning_en": "internal medicine",
+      "meaning_mm": "အတွင်းဆေးဌာန"
+    },
+    {
+      "headword_no": 200,
+      "id": "ch9-200-03",
+      "kanji": "車内",
+      "reading": "しゃない",
+      "meaning_en": "in the car",
+      "meaning_mm": "ကားအတွင်း"
+    },
+    {
+      "headword_no": 200,
+      "id": "ch9-200-04",
+      "kanji": "案内する",
+      "reading": "あんないする",
+      "meaning_en": "to guide",
+      "meaning_mm": "လမ်းညွှန်သည်"
+    }
+  ]
+}

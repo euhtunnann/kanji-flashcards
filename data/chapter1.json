@@ -1,0 +1,226 @@
+{
+  "chapter": 1,
+  "title": "住所",
+  "source_headwords": {
+    "from": 111,
+    "to": 120
+  },
+  "cards": [
+    {
+      "headword_no": 111,
+      "id": "ch1-111-01",
+      "kanji": "住む",
+      "reading": "すむ",
+      "meaning_en": "to live",
+      "meaning_mm": "နေထိုင်သည်"
+    },
+    {
+      "headword_no": 111,
+      "id": "ch1-111-02",
+      "kanji": "住民",
+      "reading": "じゅうみん",
+      "meaning_en": "inhabitants",
+      "meaning_mm": "နေထိုင်သူများ / ပြည်သူများ"
+    },
+    {
+      "headword_no": 112,
+      "id": "ch1-112-01",
+      "kanji": "所",
+      "reading": "ところ",
+      "meaning_en": "place",
+      "meaning_mm": "နေရာ"
+    },
+    {
+      "headword_no": 112,
+      "id": "ch1-112-02",
+      "kanji": "住所",
+      "reading": "じゅうしょ",
+      "meaning_en": "address",
+      "meaning_mm": "လိပ်စာ"
+    },
+    {
+      "headword_no": 112,
+      "id": "ch1-112-03",
+      "kanji": "台所",
+      "reading": "だいどころ",
+      "meaning_en": "kitchen",
+      "meaning_mm": "မီးဖိုချောင်"
+    },
+    {
+      "headword_no": 112,
+      "id": "ch1-112-04",
+      "kanji": "場所",
+      "reading": "ばしょ",
+      "meaning_en": "place",
+      "meaning_mm": "နေရာ"
+    },
+    {
+      "headword_no": 113,
+      "id": "ch1-113-01",
+      "kanji": "東京",
+      "reading": "とうきょう",
+      "meaning_en": "Tokyo",
+      "meaning_mm": "တိုကျို"
+    },
+    {
+      "headword_no": 114,
+      "id": "ch1-114-01",
+      "kanji": "東京都",
+      "reading": "とうきょうと",
+      "meaning_en": "metropolis of Tokyo",
+      "meaning_mm": "တိုကျိုမြို့တော်ဒေသ"
+    },
+    {
+      "headword_no": 114,
+      "id": "ch1-114-02",
+      "kanji": "都合",
+      "reading": "つごう",
+      "meaning_en": "convenience",
+      "meaning_mm": "အဆင်ပြေမှု"
+    },
+    {
+      "headword_no": 114,
+      "id": "ch1-114-03",
+      "kanji": "首都",
+      "reading": "しゅと",
+      "meaning_en": "capital",
+      "meaning_mm": "မြို့တော်"
+    },
+    {
+      "headword_no": 115,
+      "id": "ch1-115-01",
+      "kanji": "京都府",
+      "reading": "きょうとふ",
+      "meaning_en": "Kyoto Prefecture",
+      "meaning_mm": "ကျိုတိုခရိုင်"
+    },
+    {
+      "headword_no": 115,
+      "id": "ch1-115-02",
+      "kanji": "大阪府",
+      "reading": "おおさかふ",
+      "meaning_en": "Osaka Prefecture",
+      "meaning_mm": "အိုဆာကာခရိုင်"
+    },
+    {
+      "headword_no": 115,
+      "id": "ch1-115-03",
+      "kanji": "政府",
+      "reading": "せいふ",
+      "meaning_en": "government",
+      "meaning_mm": "အစိုးရ"
+    },
+    {
+      "headword_no": 116,
+      "id": "ch1-116-01",
+      "kanji": "山口県",
+      "reading": "やまぐちけん",
+      "meaning_en": "Yamaguchi Prefecture",
+      "meaning_mm": "ယာမဂုချိခရိုင်"
+    },
+    {
+      "headword_no": 116,
+      "id": "ch1-116-02",
+      "kanji": "県知事",
+      "reading": "けんちじ",
+      "meaning_en": "prefectural governor",
+      "meaning_mm": "ခရိုင်အုပ်ချုပ်ရေးမှူး"
+    },
+    {
+      "headword_no": 117,
+      "id": "ch1-117-01",
+      "kanji": "京都市",
+      "reading": "きょうとし",
+      "meaning_en": "Kyoto City",
+      "meaning_mm": "ကျိုတိုမြို့"
+    },
+    {
+      "headword_no": 117,
+      "id": "ch1-117-02",
+      "kanji": "市長",
+      "reading": "しちょう",
+      "meaning_en": "mayor",
+      "meaning_mm": "မြို့တော်ဝန်"
+    },
+    {
+      "headword_no": 117,
+      "id": "ch1-117-03",
+      "kanji": "市場",
+      "reading": "いちば",
+      "meaning_en": "market",
+      "meaning_mm": "စျေး"
+    },
+    {
+      "headword_no": 118,
+      "id": "ch1-118-01",
+      "kanji": "北区",
+      "reading": "きたく",
+      "meaning_en": "Kita Ward",
+      "meaning_mm": "ကီတာမြို့နယ်"
+    },
+    {
+      "headword_no": 118,
+      "id": "ch1-118-02",
+      "kanji": "文京区",
+      "reading": "ぶんきょうく",
+      "meaning_en": "Bunkyo Ward",
+      "meaning_mm": "ဘွန်ကျိုမြို့နယ်"
+    },
+    {
+      "headword_no": 118,
+      "id": "ch1-118-03",
+      "kanji": "区長",
+      "reading": "くちょう",
+      "meaning_en": "ward mayor",
+      "meaning_mm": "မြို့နယ်အုပ်ချုပ်ရေးမှူး"
+    },
+    {
+      "headword_no": 119,
+      "id": "ch1-119-01",
+      "kanji": "町",
+      "reading": "まち",
+      "meaning_en": "town",
+      "meaning_mm": "မြို့ငယ်"
+    },
+    {
+      "headword_no": 119,
+      "id": "ch1-119-02",
+      "kanji": "下町",
+      "reading": "したまち",
+      "meaning_en": "downtown",
+      "meaning_mm": "မြို့အောက်ပိုင်း"
+    },
+    {
+      "headword_no": 119,
+      "id": "ch1-119-03",
+      "kanji": "町長",
+      "reading": "ちょうちょう",
+      "meaning_en": "town mayor",
+      "meaning_mm": "မြို့ငယ်အုပ်ချုပ်ရေးမှူး"
+    },
+    {
+      "headword_no": 120,
+      "id": "ch1-120-01",
+      "kanji": "村",
+      "reading": "むら",
+      "meaning_en": "village",
+      "meaning_mm": "ရွာ"
+    },
+    {
+      "headword_no": 120,
+      "id": "ch1-120-02",
+      "kanji": "村人",
+      "reading": "むらびと",
+      "meaning_en": "villager",
+      "meaning_mm": "ရွာသား"
+    },
+    {
+      "headword_no": 120,
+      "id": "ch1-120-03",
+      "kanji": "村長",
+      "reading": "そんちょう",
+      "meaning_en": "village leader",
+      "meaning_mm": "ရွာသူကြီး"
+    }
+  ]
+}

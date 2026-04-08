@@ -1,0 +1,210 @@
+{
+  "chapter": 8,
+  "title": "季節",
+  "source_headwords": {
+    "from": 181,
+    "to": 190
+  },
+  "cards": [
+    {
+      "headword_no": 181,
+      "id": "ch8-181-01",
+      "kanji": "四季",
+      "reading": "しき",
+      "meaning_en": "four seasons",
+      "meaning_mm": "လေးရာသီ"
+    },
+    {
+      "headword_no": 182,
+      "id": "ch8-182-01",
+      "kanji": "季節",
+      "reading": "きせつ",
+      "meaning_en": "season",
+      "meaning_mm": "ရာသီ"
+    },
+    {
+      "headword_no": 182,
+      "id": "ch8-182-02",
+      "kanji": "節分",
+      "reading": "せつぶん",
+      "meaning_en": "Setsubun (traditional end of winter)",
+      "meaning_mm": "ဆက်စူဘွန် (ဆောင်းရာသီအဆုံး ပွဲတော်)"
+    },
+    {
+      "headword_no": 183,
+      "id": "ch8-183-01",
+      "kanji": "春",
+      "reading": "はる",
+      "meaning_en": "spring",
+      "meaning_mm": "နွေဦးရာသီ"
+    },
+    {
+      "headword_no": 183,
+      "id": "ch8-183-02",
+      "kanji": "青春",
+      "reading": "せいしゅん",
+      "meaning_en": "youth",
+      "meaning_mm": "လူငယ်အရွယ်"
+    },
+    {
+      "headword_no": 184,
+      "id": "ch8-184-01",
+      "kanji": "夏",
+      "reading": "なつ",
+      "meaning_en": "summer",
+      "meaning_mm": "နွေရာသီ"
+    },
+    {
+      "headword_no": 184,
+      "id": "ch8-184-02",
+      "kanji": "夏休み",
+      "reading": "なつやすみ",
+      "meaning_en": "summer vacation",
+      "meaning_mm": "နွေရာသီအားလပ်ရက်"
+    },
+    {
+      "headword_no": 184,
+      "id": "ch8-184-03",
+      "kanji": "夏まつり",
+      "reading": "なつまつり",
+      "meaning_en": "summer festival",
+      "meaning_mm": "နွေရာသီပွဲတော်"
+    },
+    {
+      "headword_no": 184,
+      "id": "ch8-184-04",
+      "kanji": "夏服",
+      "reading": "なつふく",
+      "meaning_en": "summer clothes",
+      "meaning_mm": "နွေရာသီအဝတ်အစား"
+    },
+    {
+      "headword_no": 185,
+      "id": "ch8-185-01",
+      "kanji": "秋",
+      "reading": "あき",
+      "meaning_en": "autumn",
+      "meaning_mm": "ဆောင်းဦးရာသီ"
+    },
+    {
+      "headword_no": 185,
+      "id": "ch8-185-02",
+      "kanji": "秋田県",
+      "reading": "あきたけん",
+      "meaning_en": "Akita Prefecture",
+      "meaning_mm": "အကီတာခရိုင်"
+    },
+    {
+      "headword_no": 185,
+      "id": "ch8-185-03",
+      "kanji": "秋分の日",
+      "reading": "しゅうぶんのひ",
+      "meaning_en": "Autumnal Equinox Day",
+      "meaning_mm": "ဆောင်းဦးညီညွတ်ရက်"
+    },
+    {
+      "headword_no": 186,
+      "id": "ch8-186-01",
+      "kanji": "冬",
+      "reading": "ふゆ",
+      "meaning_en": "winter",
+      "meaning_mm": "ဆောင်းရာသီ"
+    },
+    {
+      "headword_no": 186,
+      "id": "ch8-186-02",
+      "kanji": "冬休み",
+      "reading": "ふゆやすみ",
+      "meaning_en": "winter vacation",
+      "meaning_mm": "ဆောင်းရာသီအားလပ်ရက်"
+    },
+    {
+      "headword_no": 186,
+      "id": "ch8-186-03",
+      "kanji": "春夏秋冬",
+      "reading": "しゅんかしゅうとう",
+      "meaning_en": "the four seasons",
+      "meaning_mm": "လေးရာသီ (နွေဦး၊ နွေ၊ ဆောင်းဦး၊ ဆောင်း)"
+    },
+    {
+      "headword_no": 187,
+      "id": "ch8-187-01",
+      "kanji": "暑い",
+      "reading": "あつい",
+      "meaning_en": "hot (weather)",
+      "meaning_mm": "ပူသော (ရာသီဥတု)"
+    },
+    {
+      "headword_no": 187,
+      "id": "ch8-187-02",
+      "kanji": "残暑",
+      "reading": "ざんしょ",
+      "meaning_en": "late-summer heat",
+      "meaning_mm": "နွေရာသီအကုန်ပူလွန်း"
+    },
+    {
+      "headword_no": 188,
+      "id": "ch8-188-01",
+      "kanji": "寒い",
+      "reading": "さむい",
+      "meaning_en": "cold (weather)",
+      "meaning_mm": "အေးသော (ရာသီဥတု)"
+    },
+    {
+      "headword_no": 188,
+      "id": "ch8-188-02",
+      "kanji": "寒波",
+      "reading": "かんぱ",
+      "meaning_en": "cold wave",
+      "meaning_mm": "အေးမြဲလှိုင်း"
+    },
+    {
+      "headword_no": 189,
+      "id": "ch8-189-01",
+      "kanji": "暖かい",
+      "reading": "あたたかい",
+      "meaning_en": "warm",
+      "meaning_mm": "နွေးထွေးသော"
+    },
+    {
+      "headword_no": 189,
+      "id": "ch8-189-02",
+      "kanji": "暖冬",
+      "reading": "だんとう",
+      "meaning_en": "warm winter",
+      "meaning_mm": "နွေးသော ဆောင်းရာသီ"
+    },
+    {
+      "headword_no": 189,
+      "id": "ch8-189-03",
+      "kanji": "暖房",
+      "reading": "だんぼう",
+      "meaning_en": "heating",
+      "meaning_mm": "အပူပေးစက်"
+    },
+    {
+      "headword_no": 189,
+      "id": "ch8-189-04",
+      "kanji": "温暖化",
+      "reading": "おんだんか",
+      "meaning_en": "warming (e.g. global warming)",
+      "meaning_mm": "နွေးထွေးလာမှု (ကမ္ဘာ့နွေးလာမှု)"
+    },
+    {
+      "headword_no": 190,
+      "id": "ch8-190-01",
+      "kanji": "涼しい",
+      "reading": "すずしい",
+      "meaning_en": "cool (pleasant)",
+      "meaning_mm": "အေးမြသော (သက်သာသော)"
+    },
+    {
+      "headword_no": 190,
+      "id": "ch8-190-02",
+      "kanji": "涼風",
+      "reading": "りょうふう",
+      "meaning_en": "cool breeze",
+      "meaning_mm": "အေးမြသော လေ"
+    }
+  ]
+}

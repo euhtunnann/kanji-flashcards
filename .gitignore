@@ -1,0 +1,5 @@
+# Large textbook scans — remove this line if you want them in Git
+JPEG/
+
+.DS_Store
+Thumbs.db

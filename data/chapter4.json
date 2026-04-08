@@ -1,0 +1,234 @@
+{
+  "chapter": 4,
+  "title": "形容詞3",
+  "source_headwords": {
+    "from": 141,
+    "to": 150
+  },
+  "cards": [
+    {
+      "headword_no": 141,
+      "id": "ch4-141-01",
+      "kanji": "低い",
+      "reading": "ひくい",
+      "meaning_en": "low",
+      "meaning_mm": "နိမ့်သော"
+    },
+    {
+      "headword_no": 141,
+      "id": "ch4-141-02",
+      "kanji": "低下する",
+      "reading": "ていかする",
+      "meaning_en": "to fall; to decline",
+      "meaning_mm": "ကျဆင်းသည်"
+    },
+    {
+      "headword_no": 141,
+      "id": "ch4-141-03",
+      "kanji": "低気圧",
+      "reading": "ていきあつ",
+      "meaning_en": "low pressure",
+      "meaning_mm": "ဖိအားနိမ့်"
+    },
+    {
+      "headword_no": 142,
+      "id": "ch4-142-01",
+      "kanji": "広い",
+      "reading": "ひろい",
+      "meaning_en": "spacious",
+      "meaning_mm": "ကျယ်ဝန်းသော"
+    },
+    {
+      "headword_no": 142,
+      "id": "ch4-142-02",
+      "kanji": "広場",
+      "reading": "ひろば",
+      "meaning_en": "plaza",
+      "meaning_mm": "ပြင်ကျယ် / ရင်ပြင်"
+    },
+    {
+      "headword_no": 142,
+      "id": "ch4-142-03",
+      "kanji": "広大な",
+      "reading": "こうだいな",
+      "meaning_en": "vast",
+      "meaning_mm": "ကျယ်ပြန့်သော"
+    },
+    {
+      "headword_no": 143,
+      "id": "ch4-143-01",
+      "kanji": "短い",
+      "reading": "みじかい",
+      "meaning_en": "short",
+      "meaning_mm": "တိုသော"
+    },
+    {
+      "headword_no": 143,
+      "id": "ch4-143-02",
+      "kanji": "短時間",
+      "reading": "たんじかん",
+      "meaning_en": "short time",
+      "meaning_mm": "အချိန်တို"
+    },
+    {
+      "headword_no": 144,
+      "id": "ch4-144-01",
+      "kanji": "良い",
+      "reading": "よい",
+      "meaning_en": "good",
+      "meaning_mm": "ကောင်းသော"
+    },
+    {
+      "headword_no": 144,
+      "id": "ch4-144-02",
+      "kanji": "良心",
+      "reading": "りょうしん",
+      "meaning_en": "conscience",
+      "meaning_mm": "ကိုယ်ကျင့်သိက္ခာ"
+    },
+    {
+      "headword_no": 145,
+      "id": "ch4-145-01",
+      "kanji": "悪い",
+      "reading": "わるい",
+      "meaning_en": "bad",
+      "meaning_mm": "မကောင်းသော"
+    },
+    {
+      "headword_no": 145,
+      "id": "ch4-145-02",
+      "kanji": "悪人",
+      "reading": "あくにん",
+      "meaning_en": "bad person; villain",
+      "meaning_mm": "လူဆိုး"
+    },
+    {
+      "headword_no": 146,
+      "id": "ch4-146-01",
+      "kanji": "正しい",
+      "reading": "ただしい",
+      "meaning_en": "correct; right",
+      "meaning_mm": "မှန်ကန်သော"
+    },
+    {
+      "headword_no": 146,
+      "id": "ch4-146-02",
+      "kanji": "正月",
+      "reading": "しょうがつ",
+      "meaning_en": "New Year",
+      "meaning_mm": "နှစ်သစ်ကူး"
+    },
+    {
+      "headword_no": 146,
+      "id": "ch4-146-03",
+      "kanji": "正門",
+      "reading": "せいもん",
+      "meaning_en": "main gate",
+      "meaning_mm": "အဓိကတံခါး"
+    },
+    {
+      "headword_no": 147,
+      "id": "ch4-147-01",
+      "kanji": "変わる",
+      "reading": "かわる",
+      "meaning_en": "to change",
+      "meaning_mm": "ပြောင်းလဲသည်"
+    },
+    {
+      "headword_no": 147,
+      "id": "ch4-147-02",
+      "kanji": "変な",
+      "reading": "へんな",
+      "meaning_en": "strange",
+      "meaning_mm": "ထူးဆန်းသော"
+    },
+    {
+      "headword_no": 147,
+      "id": "ch4-147-03",
+      "kanji": "大変な",
+      "reading": "たいへんな",
+      "meaning_en": "hard; serious",
+      "meaning_mm": "ခက်ခဲသော / ပြင်းထန်သော"
+    },
+    {
+      "headword_no": 147,
+      "id": "ch4-147-04",
+      "kanji": "変化する",
+      "reading": "へんかする",
+      "meaning_en": "to change",
+      "meaning_mm": "ပြောင်းလဲမှုဖြစ်သည်"
+    },
+    {
+      "headword_no": 148,
+      "id": "ch4-148-01",
+      "kanji": "赤い",
+      "reading": "あかい",
+      "meaning_en": "red",
+      "meaning_mm": "အနီရောင်"
+    },
+    {
+      "headword_no": 148,
+      "id": "ch4-148-02",
+      "kanji": "赤ちゃん",
+      "reading": "あかちゃん",
+      "meaning_en": "baby",
+      "meaning_mm": "ကလေးငယ်"
+    },
+    {
+      "headword_no": 148,
+      "id": "ch4-148-03",
+      "kanji": "赤信号",
+      "reading": "あかしんごう",
+      "meaning_en": "red light",
+      "meaning_mm": "မီးနီအချက်ပြ"
+    },
+    {
+      "headword_no": 148,
+      "id": "ch4-148-04",
+      "kanji": "赤道",
+      "reading": "せきどう",
+      "meaning_en": "equator",
+      "meaning_mm": "အီကွေတာလိုင်း"
+    },
+    {
+      "headword_no": 149,
+      "id": "ch4-149-01",
+      "kanji": "青い",
+      "reading": "あおい",
+      "meaning_en": "blue",
+      "meaning_mm": "အပြာရောင်"
+    },
+    {
+      "headword_no": 149,
+      "id": "ch4-149-02",
+      "kanji": "青空",
+      "reading": "あおぞら",
+      "meaning_en": "blue sky",
+      "meaning_mm": "ကောင်းကင်ပြာ"
+    },
+    {
+      "headword_no": 149,
+      "id": "ch4-149-03",
+      "kanji": "青春",
+      "reading": "せいしゅん",
+      "meaning_en": "youth",
+      "meaning_mm": "လူငယ်အရွယ်"
+    },
+    {
+      "headword_no": 150,
+      "id": "ch4-150-01",
+      "kanji": "黒い",
+      "reading": "くろい",
+      "meaning_en": "black",
+      "meaning_mm": "အနက်ရောင်"
+    },
+    {
+      "headword_no": 150,
+      "id": "ch4-150-02",
+      "kanji": "真っ黒",
+      "reading": "まっくろ",
+      "meaning_en": "pitch black",
+      "meaning_mm": "အလွန်အနက်ရောင်"
+    }
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "chapter": 15,
+  "title": "部首",
+  "source_headwords": {
+    "from": 251,
+    "to": 260
+  },
+  "cards": [
+    {
+      "headword_no": 251,
+      "id": "ch15-251-01",
+      "kanji": "代わる",
+      "reading": "かわる",
+      "meaning_en": "to take someone's place",
+      "meaning_mm": "အစားထိုးသည်"
+    },
+    {
+      "headword_no": 251,
+      "id": "ch15-251-02",
+      "kanji": "代わりに",
+      "reading": "かわりに",
+      "meaning_en": "instead",
+      "meaning_mm": "အစားထိုးအနေဖြင့်"
+    },
+    {
+      "headword_no": 251,
+      "id": "ch15-251-03",
+      "kanji": "時代",
+      "reading": "じだい",
+      "meaning_en": "age; era",
+      "meaning_mm": "ခေတ်"
+    },
+    {
+      "headword_no": 251,
+      "id": "ch15-251-04",
+      "kanji": "ガス代",
+      "reading": "ガスだい",
+      "meaning_en": "gas bill",
+      "meaning_mm": "ဓာတ်ငွေ့ကြေး"
+    },
+    {
+      "headword_no": 252,
+      "id": "ch15-252-01",
+      "kanji": "使う",
+      "reading": "つかう",
+      "meaning_en": "to use",
+      "meaning_mm": "အသုံးပြုသည်"
+    },
+    {
+      "headword_no": 252,
+      "id": "ch15-252-02",
+      "kanji": "大使館",
+      "reading": "たいしかん",
+      "meaning_en": "embassy",
+      "meaning_mm": "သံရုံး"
+    },
+    {
+      "headword_no": 252,
+      "id": "ch15-252-03",
+      "kanji": "使用中",
+      "reading": "しようちゅう",
+      "meaning_en": "in use",
+      "meaning_mm": "အသုံးပြုနေဆဲ"
+    },
+    {
+      "headword_no": 253,
+      "id": "ch15-253-01",
+      "kanji": "作る",
+      "reading": "つくる",
+      "meaning_en": "to make",
+      "meaning_mm": "ပြုလုပ်သည်"
+    },
+    {
+      "headword_no": 253,
+      "id": "ch15-253-02",
+      "kanji": "作文",
+      "reading": "さくぶん",
+      "meaning_en": "essay",
+      "meaning_mm": "စာပိုဒ် / မှတ်စု"
+    },
+    {
+      "headword_no": 253,
+      "id": "ch15-253-03",
+      "kanji": "作家",
+      "reading": "さっか",
+      "meaning_en": "writer",
+      "meaning_mm": "စာရေးဆရာ"
+    },
+    {
+      "headword_no": 253,
+      "id": "ch15-253-04",
+      "kanji": "作業",
+      "reading": "さぎょう",
+      "meaning_en": "work; task",
+      "meaning_mm": "အလုပ်လုပ်ငန်း"
+    },
+    {
+      "headword_no": 254,
+      "id": "ch15-254-01",
+      "kanji": "変化する",
+      "reading": "へんかする",
+      "meaning_en": "to change",
+      "meaning_mm": "ပြောင်းလဲသည်"
+    },
+    {
+      "headword_no": 254,
+      "id": "ch15-254-02",
+      "kanji": "文化",
+      "reading": "ぶんか",
+      "meaning_en": "culture",
+      "meaning_mm": "ယဉ်ကျေးမှု"
+    },
+    {
+      "headword_no": 254,
+      "id": "ch15-254-03",
+      "kanji": "化学",
+      "reading": "かがく",
+      "meaning_en": "chemistry",
+      "meaning_mm": "ဓာတုဗေဒ"
+    },
+    {
+      "headword_no": 254,
+      "id": "ch15-254-04",
+      "kanji": "映画化",
+      "reading": "えいがか",
+      "meaning_en": "film adaptation",
+      "meaning_mm": "ရုပ်ရှင်အဖြစ် ရိုက်ကူးခြင်း"
+    },
+    {
+      "headword_no": 255,
+      "id": "ch15-255-01",
+      "kanji": "信じる",
+      "reading": "しんじる",
+      "meaning_en": "to believe",
+      "meaning_mm": "ယုံကြည်သည်"
+    },
+    {
+      "headword_no": 255,
+      "id": "ch15-255-02",
+      "kanji": "信号",
+      "reading": "しんごう",
+      "meaning_en": "signal; traffic light",
+      "meaning_mm": "အချက်ပြမီး"
+    },
+    {
+      "headword_no": 255,
+      "id": "ch15-255-03",
+      "kanji": "自信",
+      "reading": "じしん",
+      "meaning_en": "confidence",
+      "meaning_mm": "ယုံကြည်ချက်"
+    },
+    {
+      "headword_no": 255,
+      "id": "ch15-255-04",
+      "kanji": "通信",
+      "reading": "つうしん",
+      "meaning_en": "communication; correspondence",
+      "meaning_mm": "ဆက်သွယ်ရေး"
+    },
+    {
+      "headword_no": 256,
+      "id": "ch15-256-01",
+      "kanji": "進む",
+      "reading": "すすむ",
+      "meaning_en": "to advance",
+      "meaning_mm": "ရှေ့ဆက်သည်"
+    },
+    {
+      "headword_no": 256,
+      "id": "ch15-256-02",
+      "kanji": "進歩",
+      "reading": "しんぽ",
+      "meaning_en": "progress",
+      "meaning_mm": "တိုးတက်မှု"
+    },
+    {
+      "headword_no": 256,
+      "id": "ch15-256-03",
+      "kanji": "先進国",
+      "reading": "せんしんこく",
+      "meaning_en": "developed country",
+      "meaning_mm": "ဖွံ့ဖြိုးပြီး နိုင်ငံ"
+    },
+    {
+      "headword_no": 257,
+      "id": "ch15-257-01",
+      "kanji": "送る",
+      "reading": "おくる",
+      "meaning_en": "to send",
+      "meaning_mm": "ပို့ဆောင်သည်"
+    },
+    {
+      "headword_no": 257,
+      "id": "ch15-257-02",
+      "kanji": "送金",
+      "reading": "そうきん",
+      "meaning_en": "remittance",
+      "meaning_mm": "ငွေပို့ခြင်း"
+    },
+    {
+      "headword_no": 257,
+      "id": "ch15-257-03",
+      "kanji": "放送",
+      "reading": "ほうそう",
+      "meaning_en": "broadcasting",
+      "meaning_mm": "ထုတ်လွှင့်မှု"
+    },
+    {
+      "headword_no": 257,
+      "id": "ch15-257-04",
+      "kanji": "送信",
+      "reading": "そうしん",
+      "meaning_en": "to send (e-mail)",
+      "meaning_mm": "ပို့ဆောင်မှု (အီးမေးလ်)"
+    },
+    {
+      "headword_no": 258,
+      "id": "ch15-258-01",
+      "kanji": "返す",
+      "reading": "かえす",
+      "meaning_en": "to return (something)",
+      "meaning_mm": "ပြန်ပေးသည်"
+    },
+    {
+      "headword_no": 258,
+      "id": "ch15-258-02",
+      "kanji": "返事",
+      "reading": "へんじ",
+      "meaning_en": "reply; answer",
+      "meaning_mm": "စာပြန်ချက်"
+    },
+    {
+      "headword_no": 258,
+      "id": "ch15-258-03",
+      "kanji": "返信",
+      "reading": "へんしん",
+      "meaning_en": "reply (e-mail)",
+      "meaning_mm": "စာပြန်ချက် (အီးမေးလ်)"
+    },
+    {
+      "headword_no": 258,
+      "id": "ch15-258-04",
+      "kanji": "繰り返す",
+      "reading": "くりかえす",
+      "meaning_en": "to repeat",
+      "meaning_mm": "ထပ်ခါတလဲလဲလုပ်သည်"
+    },
+    {
+      "headword_no": 259,
+      "id": "ch15-259-01",
+      "kanji": "洗う",
+      "reading": "あらう",
+      "meaning_en": "to wash",
+      "meaning_mm": "ဆေးကြောသည်"
+    },
+    {
+      "headword_no": 259,
+      "id": "ch15-259-02",
+      "kanji": "手洗い",
+      "reading": "てあらい",
+      "meaning_en": "hand washing",
+      "meaning_mm": "လက်ဆေးခြင်း"
+    },
+    {
+      "headword_no": 259,
+      "id": "ch15-259-03",
+      "kanji": "お手洗い",
+      "reading": "おてあらい",
+      "meaning_en": "restroom",
+      "meaning_mm": "အိမ်သာ"
+    },
+    {
+      "headword_no": 259,
+      "id": "ch15-259-04",
+      "kanji": "洗濯",
+      "reading": "せんたく",
+      "meaning_en": "laundry",
+      "meaning_mm": "အဝတ်လျှော်ခြင်း"
+    },
+    {
+      "headword_no": 260,
+      "id": "ch15-260-01",
+      "kanji": "注意する",
+      "reading": "ちゅういする",
+      "meaning_en": "to pay attention",
+      "meaning_mm": "သတိပြုသည်"
+    },
+    {
+      "headword_no": 260,
+      "id": "ch15-260-02",
+      "kanji": "注文する",
+      "reading": "ちゅうもんする",
+      "meaning_en": "to order",
+      "meaning_mm": "မှာယူသည်"
+    },
+    {
+      "headword_no": 260,
+      "id": "ch15-260-03",
+      "kanji": "注射",
+      "reading": "ちゅうしゃ",
+      "meaning_en": "injection",
+      "meaning_mm": "ထိုးဆေး"
+    }
+  ]
+}

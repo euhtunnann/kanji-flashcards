@@ -1,0 +1,306 @@
+{
+  "chapter": 10,
+  "title": "時",
+  "source_headwords": {
+    "from": 201,
+    "to": 210
+  },
+  "cards": [
+    {
+      "headword_no": 201,
+      "id": "ch10-201-01",
+      "kanji": "朝",
+      "reading": "あさ",
+      "meaning_en": "morning",
+      "meaning_mm": "မနက်"
+    },
+    {
+      "headword_no": 201,
+      "id": "ch10-201-02",
+      "kanji": "今朝",
+      "reading": "けさ",
+      "meaning_en": "this morning",
+      "meaning_mm": "ဒီမနက်"
+    },
+    {
+      "headword_no": 201,
+      "id": "ch10-201-03",
+      "kanji": "朝日",
+      "reading": "あさひ",
+      "meaning_en": "morning sun",
+      "meaning_mm": "မနက်ခင်းနေမင်း"
+    },
+    {
+      "headword_no": 201,
+      "id": "ch10-201-04",
+      "kanji": "朝食",
+      "reading": "ちょうしょく",
+      "meaning_en": "breakfast",
+      "meaning_mm": "မနက်စာ"
+    },
+    {
+      "headword_no": 202,
+      "id": "ch10-202-01",
+      "kanji": "昼",
+      "reading": "ひる",
+      "meaning_en": "noon",
+      "meaning_mm": "နေ့လယ်"
+    },
+    {
+      "headword_no": 202,
+      "id": "ch10-202-02",
+      "kanji": "昼休み",
+      "reading": "ひるやすみ",
+      "meaning_en": "lunch break",
+      "meaning_mm": "နေ့လယ်နားချိန်"
+    },
+    {
+      "headword_no": 202,
+      "id": "ch10-202-03",
+      "kanji": "昼ご飯",
+      "reading": "ひるごはん",
+      "meaning_en": "lunch",
+      "meaning_mm": "နေ့လယ်စာ"
+    },
+    {
+      "headword_no": 202,
+      "id": "ch10-202-04",
+      "kanji": "昼食",
+      "reading": "ちゅうしょく",
+      "meaning_en": "lunch",
+      "meaning_mm": "နေ့လယ်စာ"
+    },
+    {
+      "headword_no": 203,
+      "id": "ch10-203-01",
+      "kanji": "夜",
+      "reading": "よる",
+      "meaning_en": "night",
+      "meaning_mm": "ည"
+    },
+    {
+      "headword_no": 203,
+      "id": "ch10-203-02",
+      "kanji": "今夜",
+      "reading": "こんや",
+      "meaning_en": "tonight",
+      "meaning_mm": "ဒီည"
+    },
+    {
+      "headword_no": 203,
+      "id": "ch10-203-03",
+      "kanji": "夜店",
+      "reading": "よみせ",
+      "meaning_en": "night stall",
+      "meaning_mm": "ညဈေးဆိုင်"
+    },
+    {
+      "headword_no": 203,
+      "id": "ch10-203-04",
+      "kanji": "夜食",
+      "reading": "やしょく",
+      "meaning_en": "bedtime snack",
+      "meaning_mm": "ညအစားစာ"
+    },
+    {
+      "headword_no": 204,
+      "id": "ch10-204-01",
+      "kanji": "夕日",
+      "reading": "ゆうひ",
+      "meaning_en": "sunset",
+      "meaning_mm": "နေဝင်ချိန်"
+    },
+    {
+      "headword_no": 204,
+      "id": "ch10-204-02",
+      "kanji": "夕食",
+      "reading": "ゆうしょく",
+      "meaning_en": "supper",
+      "meaning_mm": "ညစာ"
+    },
+    {
+      "headword_no": 204,
+      "id": "ch10-204-03",
+      "kanji": "七夕",
+      "reading": "たなばた",
+      "meaning_en": "Star Festival",
+      "meaning_mm": "တနာဘတ ပွဲတော်"
+    },
+    {
+      "headword_no": 205,
+      "id": "ch10-205-01",
+      "kanji": "読み方",
+      "reading": "よみかた",
+      "meaning_en": "how to read",
+      "meaning_mm": "ဖတ်ပုံဖတ်နည်း"
+    },
+    {
+      "headword_no": 205,
+      "id": "ch10-205-02",
+      "kanji": "夕方",
+      "reading": "ゆうがた",
+      "meaning_en": "evening",
+      "meaning_mm": "ညနေခင်း"
+    },
+    {
+      "headword_no": 205,
+      "id": "ch10-205-03",
+      "kanji": "あの方",
+      "reading": "あのかた",
+      "meaning_en": "that person (polite)",
+      "meaning_mm": "အဲဒီပုဂ္ဂိုလ် (လေးစားသုံး)"
+    },
+    {
+      "headword_no": 205,
+      "id": "ch10-205-04",
+      "kanji": "方法",
+      "reading": "ほうほう",
+      "meaning_en": "method",
+      "meaning_mm": "နည်းလမ်း"
+    },
+    {
+      "headword_no": 206,
+      "id": "ch10-206-01",
+      "kanji": "今晩",
+      "reading": "こんばん",
+      "meaning_en": "tonight",
+      "meaning_mm": "ဒီည"
+    },
+    {
+      "headword_no": 206,
+      "id": "ch10-206-02",
+      "kanji": "毎晩",
+      "reading": "まいばん",
+      "meaning_en": "every night",
+      "meaning_mm": "ညတိုင်း"
+    },
+    {
+      "headword_no": 206,
+      "id": "ch10-206-03",
+      "kanji": "晩ご飯",
+      "reading": "ばんごはん",
+      "meaning_en": "dinner",
+      "meaning_mm": "ညစာ"
+    },
+    {
+      "headword_no": 207,
+      "id": "ch10-207-01",
+      "kanji": "時計",
+      "reading": "とけい",
+      "meaning_en": "watch; clock",
+      "meaning_mm": "နာရီ"
+    },
+    {
+      "headword_no": 207,
+      "id": "ch10-207-02",
+      "kanji": "計画",
+      "reading": "けいかく",
+      "meaning_en": "plan",
+      "meaning_mm": "အစီအစဉ်"
+    },
+    {
+      "headword_no": 207,
+      "id": "ch10-207-03",
+      "kanji": "計る",
+      "reading": "はかる",
+      "meaning_en": "to measure",
+      "meaning_mm": "တိုင်းတာသည်"
+    },
+    {
+      "headword_no": 207,
+      "id": "ch10-207-04",
+      "kanji": "合計",
+      "reading": "ごうけい",
+      "meaning_en": "total",
+      "meaning_mm": "စုစုပေါင်း"
+    },
+    {
+      "headword_no": 208,
+      "id": "ch10-208-01",
+      "kanji": "日曜日",
+      "reading": "にちようび",
+      "meaning_en": "Sunday",
+      "meaning_mm": "တနင်္ဂနွေ"
+    },
+    {
+      "headword_no": 208,
+      "id": "ch10-208-02",
+      "kanji": "水曜日",
+      "reading": "すいようび",
+      "meaning_en": "Wednesday",
+      "meaning_mm": "ဗုဒ္ဓဟူး"
+    },
+    {
+      "headword_no": 208,
+      "id": "ch10-208-03",
+      "kanji": "何曜日",
+      "reading": "なんようび",
+      "meaning_en": "what day of the week",
+      "meaning_mm": "ဘာနေ့ (အပတ်နေ့)"
+    },
+    {
+      "headword_no": 209,
+      "id": "ch10-209-01",
+      "kanji": "以上",
+      "reading": "いじょう",
+      "meaning_en": "more than",
+      "meaning_mm": "ထက်ပို၍"
+    },
+    {
+      "headword_no": 209,
+      "id": "ch10-209-02",
+      "kanji": "以下",
+      "reading": "いか",
+      "meaning_en": "less than",
+      "meaning_mm": "ထက်နည်း၍"
+    },
+    {
+      "headword_no": 209,
+      "id": "ch10-209-03",
+      "kanji": "以外",
+      "reading": "いがい",
+      "meaning_en": "except",
+      "meaning_mm": "မှတပါး"
+    },
+    {
+      "headword_no": 209,
+      "id": "ch10-209-04",
+      "kanji": "以前",
+      "reading": "いぜん",
+      "meaning_en": "previously",
+      "meaning_mm": "ယခင်က"
+    },
+    {
+      "headword_no": 210,
+      "id": "ch10-210-01",
+      "kanji": "一度",
+      "reading": "いちど",
+      "meaning_en": "once",
+      "meaning_mm": "တစ်ကြိမ်"
+    },
+    {
+      "headword_no": 210,
+      "id": "ch10-210-02",
+      "kanji": "今度",
+      "reading": "こんど",
+      "meaning_en": "next time",
+      "meaning_mm": "နောက်တစ်ခါ"
+    },
+    {
+      "headword_no": 210,
+      "id": "ch10-210-03",
+      "kanji": "25度",
+      "reading": "25ど",
+      "meaning_en": "25 degrees",
+      "meaning_mm": "၂၅ ဒီဂရီ"
+    },
+    {
+      "headword_no": 210,
+      "id": "ch10-210-04",
+      "kanji": "温度",
+      "reading": "おんど",
+      "meaning_en": "temperature",
+      "meaning_mm": "အပူချိန်"
+    }
+  ]
+}

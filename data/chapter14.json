@@ -1,0 +1,298 @@
+{
+  "chapter": 14,
+  "title": "食べ物",
+  "source_headwords": {
+    "from": 241,
+    "to": 250
+  },
+  "cards": [
+    {
+      "headword_no": 241,
+      "id": "ch14-241-01",
+      "kanji": "米",
+      "reading": "こめ",
+      "meaning_en": "rice (uncooked)",
+      "meaning_mm": "စပါး"
+    },
+    {
+      "headword_no": 241,
+      "id": "ch14-241-02",
+      "kanji": "米国",
+      "reading": "べいこく",
+      "meaning_en": "United States",
+      "meaning_mm": "အမေရိကန်ပြည်ထောင်စု"
+    },
+    {
+      "headword_no": 241,
+      "id": "ch14-241-03",
+      "kanji": "白米",
+      "reading": "はくまい",
+      "meaning_en": "polished rice",
+      "meaning_mm": "ဖြူစင်ထားသော စပါး"
+    },
+    {
+      "headword_no": 242,
+      "id": "ch14-242-01",
+      "kanji": "料金",
+      "reading": "りょうきん",
+      "meaning_en": "fee; charge",
+      "meaning_mm": "ကြေးငွေ"
+    },
+    {
+      "headword_no": 242,
+      "id": "ch14-242-02",
+      "kanji": "食料品",
+      "reading": "しょくりょうひん",
+      "meaning_en": "foodstuffs; groceries",
+      "meaning_mm": "အစားအသောက်ပစ္စည်း"
+    },
+    {
+      "headword_no": 242,
+      "id": "ch14-242-03",
+      "kanji": "資料",
+      "reading": "しりょう",
+      "meaning_en": "documents; data",
+      "meaning_mm": "စာရွက်စာတမ်း / ဒေတာ"
+    },
+    {
+      "headword_no": 242,
+      "id": "ch14-242-04",
+      "kanji": "材料",
+      "reading": "ざいりょう",
+      "meaning_en": "ingredients; materials",
+      "meaning_mm": "ပါဝင်ပစ္စည်း"
+    },
+    {
+      "headword_no": 243,
+      "id": "ch14-243-01",
+      "kanji": "料理",
+      "reading": "りょうり",
+      "meaning_en": "cooking; dish",
+      "meaning_mm": "ချက်ပြုတ်မှု / အစားအစာ"
+    },
+    {
+      "headword_no": 243,
+      "id": "ch14-243-02",
+      "kanji": "地理",
+      "reading": "ちり",
+      "meaning_en": "geography",
+      "meaning_mm": "ပထဝီဝင်"
+    },
+    {
+      "headword_no": 243,
+      "id": "ch14-243-03",
+      "kanji": "無理な",
+      "reading": "むりな",
+      "meaning_en": "impossible; unreasonable",
+      "meaning_mm": "မဖြစ်နိုင်သော / အလွန်အကျွံသော"
+    },
+    {
+      "headword_no": 243,
+      "id": "ch14-243-04",
+      "kanji": "理由",
+      "reading": "りゆう",
+      "meaning_en": "reason",
+      "meaning_mm": "အကြောင်းပြချက်"
+    },
+    {
+      "headword_no": 244,
+      "id": "ch14-244-01",
+      "kanji": "肉",
+      "reading": "にく",
+      "meaning_en": "meat",
+      "meaning_mm": "အသား"
+    },
+    {
+      "headword_no": 244,
+      "id": "ch14-244-02",
+      "kanji": "牛肉",
+      "reading": "ぎゅうにく",
+      "meaning_en": "beef",
+      "meaning_mm": "နွားသား"
+    },
+    {
+      "headword_no": 244,
+      "id": "ch14-244-03",
+      "kanji": "肉屋",
+      "reading": "にくや",
+      "meaning_en": "butcher",
+      "meaning_mm": "အသားဆိုင်"
+    },
+    {
+      "headword_no": 244,
+      "id": "ch14-244-04",
+      "kanji": "筋肉",
+      "reading": "きんにく",
+      "meaning_en": "muscle",
+      "meaning_mm": "ကြွက်သား"
+    },
+    {
+      "headword_no": 245,
+      "id": "ch14-245-01",
+      "kanji": "鳥",
+      "reading": "とり",
+      "meaning_en": "bird",
+      "meaning_mm": "ငှက်"
+    },
+    {
+      "headword_no": 245,
+      "id": "ch14-245-02",
+      "kanji": "小鳥",
+      "reading": "ことり",
+      "meaning_en": "little bird",
+      "meaning_mm": "ငှက်ကလေး"
+    },
+    {
+      "headword_no": 245,
+      "id": "ch14-245-03",
+      "kanji": "白鳥",
+      "reading": "はくちょう",
+      "meaning_en": "swan",
+      "meaning_mm": "ငန်းငှက်"
+    },
+    {
+      "headword_no": 246,
+      "id": "ch14-246-01",
+      "kanji": "野原",
+      "reading": "のはら",
+      "meaning_en": "field; meadow",
+      "meaning_mm": "လွင်ပြင်"
+    },
+    {
+      "headword_no": 246,
+      "id": "ch14-246-02",
+      "kanji": "野鳥",
+      "reading": "やちょう",
+      "meaning_en": "wild bird",
+      "meaning_mm": "တောငှက်"
+    },
+    {
+      "headword_no": 246,
+      "id": "ch14-246-03",
+      "kanji": "分野",
+      "reading": "ぶんや",
+      "meaning_en": "field; area",
+      "meaning_mm": "နယ်ပယ်"
+    },
+    {
+      "headword_no": 247,
+      "id": "ch14-247-01",
+      "kanji": "野菜",
+      "reading": "やさい",
+      "meaning_en": "vegetable",
+      "meaning_mm": "ဟင်းသီးဟင်းရွက်"
+    },
+    {
+      "headword_no": 247,
+      "id": "ch14-247-02",
+      "kanji": "菜食",
+      "reading": "さいしょく",
+      "meaning_en": "vegetarian diet",
+      "meaning_mm": "သက်သက်လွတ်စား"
+    },
+    {
+      "headword_no": 247,
+      "id": "ch14-247-03",
+      "kanji": "青菜",
+      "reading": "あおな",
+      "meaning_en": "leafy green vegetable",
+      "meaning_mm": "အစိမ်းရောင်ဟင်းရွက်"
+    },
+    {
+      "headword_no": 248,
+      "id": "ch14-248-01",
+      "kanji": "お茶",
+      "reading": "おちゃ",
+      "meaning_en": "tea",
+      "meaning_mm": "လက်ဖက်ရည်"
+    },
+    {
+      "headword_no": 248,
+      "id": "ch14-248-02",
+      "kanji": "茶色",
+      "reading": "ちゃいろ",
+      "meaning_en": "brown",
+      "meaning_mm": "အညိုရောင်"
+    },
+    {
+      "headword_no": 248,
+      "id": "ch14-248-03",
+      "kanji": "喫茶店",
+      "reading": "きっさてん",
+      "meaning_en": "coffee shop; café",
+      "meaning_mm": "ကော်ဖီဆိုင်"
+    },
+    {
+      "headword_no": 248,
+      "id": "ch14-248-04",
+      "kanji": "紅茶",
+      "reading": "こうちゃ",
+      "meaning_en": "black tea",
+      "meaning_mm": "အနက်ရောင်လက်ဖက်ရည်"
+    },
+    {
+      "headword_no": 249,
+      "id": "ch14-249-01",
+      "kanji": "ご飯",
+      "reading": "ごはん",
+      "meaning_en": "cooked rice; meal",
+      "meaning_mm": "ထမင်း / ဝါယမ်း"
+    },
+    {
+      "headword_no": 249,
+      "id": "ch14-249-02",
+      "kanji": "夕飯",
+      "reading": "ゆうはん",
+      "meaning_en": "supper",
+      "meaning_mm": "ညစာ"
+    },
+    {
+      "headword_no": 249,
+      "id": "ch14-249-03",
+      "kanji": "晩ご飯",
+      "reading": "ばんごはん",
+      "meaning_en": "dinner",
+      "meaning_mm": "ညစာ"
+    },
+    {
+      "headword_no": 249,
+      "id": "ch14-249-04",
+      "kanji": "昼飯",
+      "reading": "ひるめし",
+      "meaning_en": "lunch",
+      "meaning_mm": "နေ့လယ်စာ"
+    },
+    {
+      "headword_no": 250,
+      "id": "ch14-250-01",
+      "kanji": "味",
+      "reading": "あじ",
+      "meaning_en": "taste",
+      "meaning_mm": "အရသာ"
+    },
+    {
+      "headword_no": 250,
+      "id": "ch14-250-02",
+      "kanji": "意味",
+      "reading": "いみ",
+      "meaning_en": "meaning",
+      "meaning_mm": "အဓိပ္ပါယ်"
+    },
+    {
+      "headword_no": 250,
+      "id": "ch14-250-03",
+      "kanji": "趣味",
+      "reading": "しゅみ",
+      "meaning_en": "hobby",
+      "meaning_mm": "ဝါသနာ"
+    },
+    {
+      "headword_no": 250,
+      "id": "ch14-250-04",
+      "kanji": "興味",
+      "reading": "きょうみ",
+      "meaning_en": "interest",
+      "meaning_mm": "စိတ်ဝင်စားမှု"
+    }
+  ]
+}

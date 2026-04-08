@@ -1,0 +1,306 @@
+{
+  "chapter": 17,
+  "title": "交通",
+  "source_headwords": {
+    "from": 271,
+    "to": 280
+  },
+  "cards": [
+    {
+      "headword_no": 271,
+      "id": "ch17-271-01",
+      "kanji": "交通",
+      "reading": "こうつう",
+      "meaning_en": "traffic",
+      "meaning_mm": "ယာဉ်ကြော"
+    },
+    {
+      "headword_no": 271,
+      "id": "ch17-271-02",
+      "kanji": "交差点",
+      "reading": "こうさてん",
+      "meaning_en": "intersection; crossing",
+      "meaning_mm": "လမ်းဆုံ"
+    },
+    {
+      "headword_no": 271,
+      "id": "ch17-271-03",
+      "kanji": "交番",
+      "reading": "こうばん",
+      "meaning_en": "police box",
+      "meaning_mm": "ရဲစောင့်"
+    },
+    {
+      "headword_no": 271,
+      "id": "ch17-271-04",
+      "kanji": "交代",
+      "reading": "こうたい",
+      "meaning_en": "change; shift",
+      "meaning_mm": "လဲလှယ်မှု"
+    },
+    {
+      "headword_no": 272,
+      "id": "ch17-272-01",
+      "kanji": "通る",
+      "reading": "とおる",
+      "meaning_en": "to go through; to pass",
+      "meaning_mm": "ဖြတ်သွားသည်"
+    },
+    {
+      "headword_no": 272,
+      "id": "ch17-272-02",
+      "kanji": "通う",
+      "reading": "かよう",
+      "meaning_en": "to commute; to attend",
+      "meaning_mm": "နေ့စဉ်သွားလာသည်"
+    },
+    {
+      "headword_no": 272,
+      "id": "ch17-272-03",
+      "kanji": "通学",
+      "reading": "つうがく",
+      "meaning_en": "commuting to school",
+      "meaning_mm": "ကျောင်းသွားခြင်း"
+    },
+    {
+      "headword_no": 272,
+      "id": "ch17-272-04",
+      "kanji": "大通り",
+      "reading": "おおどおり",
+      "meaning_en": "main street",
+      "meaning_mm": "လမ်းမကြီး"
+    },
+    {
+      "headword_no": 273,
+      "id": "ch17-273-01",
+      "kanji": "動く",
+      "reading": "うごく",
+      "meaning_en": "to move",
+      "meaning_mm": "လှုပ်ရှားသည်"
+    },
+    {
+      "headword_no": 273,
+      "id": "ch17-273-02",
+      "kanji": "運動",
+      "reading": "うんどう",
+      "meaning_en": "exercise; movement",
+      "meaning_mm": "လေ့ကျင့်ခန်း"
+    },
+    {
+      "headword_no": 273,
+      "id": "ch17-273-03",
+      "kanji": "自動車",
+      "reading": "じどうしゃ",
+      "meaning_en": "automobile",
+      "meaning_mm": "မော်တော်ကား"
+    },
+    {
+      "headword_no": 273,
+      "id": "ch17-273-04",
+      "kanji": "動物",
+      "reading": "どうぶつ",
+      "meaning_en": "animal",
+      "meaning_mm": "တိရစ္ဆာန်"
+    },
+    {
+      "headword_no": 274,
+      "id": "ch17-274-01",
+      "kanji": "乗る",
+      "reading": "のる",
+      "meaning_en": "to get on; to ride",
+      "meaning_mm": "စီးသည်"
+    },
+    {
+      "headword_no": 274,
+      "id": "ch17-274-02",
+      "kanji": "タクシー乗り場",
+      "reading": "タクシーのりば",
+      "meaning_en": "taxi stand",
+      "meaning_mm": "တက္ကစီစီးရာ"
+    },
+    {
+      "headword_no": 274,
+      "id": "ch17-274-03",
+      "kanji": "乗車券",
+      "reading": "じょうしゃけん",
+      "meaning_en": "ticket (for riding)",
+      "meaning_mm": "စီးနင်းလက်မှတ်"
+    },
+    {
+      "headword_no": 275,
+      "id": "ch17-275-01",
+      "kanji": "降りる",
+      "reading": "おりる",
+      "meaning_en": "to get off; to descend",
+      "meaning_mm": "ဆင်းသည်"
+    },
+    {
+      "headword_no": 275,
+      "id": "ch17-275-02",
+      "kanji": "雨が降る",
+      "reading": "あめがふる",
+      "meaning_en": "to rain",
+      "meaning_mm": "မိုးရွာသည်"
+    },
+    {
+      "headword_no": 275,
+      "id": "ch17-275-03",
+      "kanji": "乗り降り",
+      "reading": "のりおり",
+      "meaning_en": "getting on and off",
+      "meaning_mm": "စီးခြင်း နှင့် ဆင်းခြင်း"
+    },
+    {
+      "headword_no": 275,
+      "id": "ch17-275-04",
+      "kanji": "降雨量",
+      "reading": "こううりょう",
+      "meaning_en": "rainfall amount",
+      "meaning_mm": "မိုးရေချိန်"
+    },
+    {
+      "headword_no": 276,
+      "id": "ch17-276-01",
+      "kanji": "運ぶ",
+      "reading": "はこぶ",
+      "meaning_en": "to carry; to transport",
+      "meaning_mm": "သယ်ဆောင်သည်"
+    },
+    {
+      "headword_no": 276,
+      "id": "ch17-276-02",
+      "kanji": "運がいい",
+      "reading": "うんがいい",
+      "meaning_en": "lucky",
+      "meaning_mm": "ကံကောင်းသော"
+    },
+    {
+      "headword_no": 276,
+      "id": "ch17-276-03",
+      "kanji": "運賃",
+      "reading": "うんちん",
+      "meaning_en": "fare; freight charge",
+      "meaning_mm": "ကြေးငွေ / သယ်ဆောင်ခ"
+    },
+    {
+      "headword_no": 277,
+      "id": "ch17-277-01",
+      "kanji": "運転する",
+      "reading": "うんてんする",
+      "meaning_en": "to drive",
+      "meaning_mm": "ယာဉ်မောင်းသည်"
+    },
+    {
+      "headword_no": 277,
+      "id": "ch17-277-02",
+      "kanji": "自転車",
+      "reading": "じてんしゃ",
+      "meaning_en": "bicycle",
+      "meaning_mm": "စက်ဘီး"
+    },
+    {
+      "headword_no": 277,
+      "id": "ch17-277-03",
+      "kanji": "回転",
+      "reading": "かいてん",
+      "meaning_en": "rotation; spinning",
+      "meaning_mm": "လှည့်ခြင်း"
+    },
+    {
+      "headword_no": 277,
+      "id": "ch17-277-04",
+      "kanji": "転勤",
+      "reading": "てんきん",
+      "meaning_en": "job transfer (relocation)",
+      "meaning_mm": "အလုပ်ပြောင်းရွှေ့ခြင်း"
+    },
+    {
+      "headword_no": 278,
+      "id": "ch17-278-01",
+      "kanji": "帰る",
+      "reading": "かえる",
+      "meaning_en": "to return home",
+      "meaning_mm": "ပြန်သည်"
+    },
+    {
+      "headword_no": 278,
+      "id": "ch17-278-02",
+      "kanji": "帰国する",
+      "reading": "きこくする",
+      "meaning_en": "to return to one's country",
+      "meaning_mm": "နိုင်ငံသို့ ပြန်သည်"
+    },
+    {
+      "headword_no": 278,
+      "id": "ch17-278-03",
+      "kanji": "お帰りなさい",
+      "reading": "おかえりなさい",
+      "meaning_en": "welcome home",
+      "meaning_mm": "ပြန်ရောက်တာကို ကြိုဆိုစကား"
+    },
+    {
+      "headword_no": 279,
+      "id": "ch17-279-01",
+      "kanji": "出発する",
+      "reading": "しゅっぱつする",
+      "meaning_en": "to depart",
+      "meaning_mm": "ထွက်ခွာသည်"
+    },
+    {
+      "headword_no": 279,
+      "id": "ch17-279-02",
+      "kanji": "発見",
+      "reading": "はっけん",
+      "meaning_en": "discovery",
+      "meaning_mm": "ရှာဖွေတွေ့ရှိမှု"
+    },
+    {
+      "headword_no": 279,
+      "id": "ch17-279-03",
+      "kanji": "発明",
+      "reading": "はつめい",
+      "meaning_en": "invention",
+      "meaning_mm": "တီထွင်မှု"
+    },
+    {
+      "headword_no": 279,
+      "id": "ch17-279-04",
+      "kanji": "発車",
+      "reading": "はっしゃ",
+      "meaning_en": "departure (of vehicle)",
+      "meaning_mm": "ယာဉ်ထွက်ခွာချိန်"
+    },
+    {
+      "headword_no": 280,
+      "id": "ch17-280-01",
+      "kanji": "着る",
+      "reading": "きる",
+      "meaning_en": "to wear (clothes)",
+      "meaning_mm": "ဝတ်ဆင်သည်"
+    },
+    {
+      "headword_no": 280,
+      "id": "ch17-280-02",
+      "kanji": "着く",
+      "reading": "つく",
+      "meaning_en": "to arrive",
+      "meaning_mm": "ရောက်ရှိသည်"
+    },
+    {
+      "headword_no": 280,
+      "id": "ch17-280-03",
+      "kanji": "着物",
+      "reading": "きもの",
+      "meaning_en": "kimono; clothes",
+      "meaning_mm": "ကီမိုနို / အဝတ်အစား"
+    },
+    {
+      "headword_no": 280,
+      "id": "ch17-280-04",
+      "kanji": "着信",
+      "reading": "ちゃくしん",
+      "meaning_en": "incoming call/message",
+      "meaning_mm": "ဖုန်းဝင်လာမှု / မက်ဆေ့ဝင်လာမှု"
+    }
+  ]
+}

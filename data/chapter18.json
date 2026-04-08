@@ -1,0 +1,226 @@
+{
+  "chapter": 18,
+  "title": "学校 1",
+  "source_headwords": {
+    "from": 281,
+    "to": 290
+  },
+  "cards": [
+    {
+      "headword_no": 281,
+      "id": "ch18-281-01",
+      "kanji": "漢字",
+      "reading": "かんじ",
+      "meaning_en": "Chinese character; kanji",
+      "meaning_mm": "ကန်ဂျီ"
+    },
+    {
+      "headword_no": 281,
+      "id": "ch18-281-02",
+      "kanji": "漢方薬",
+      "reading": "かんぽうやく",
+      "meaning_en": "Chinese herbal medicine",
+      "meaning_mm": "တရုတ်ဆေးဖက်ဝင် ဆေး"
+    },
+    {
+      "headword_no": 282,
+      "id": "ch18-282-01",
+      "kanji": "字",
+      "reading": "じ",
+      "meaning_en": "letter; character",
+      "meaning_mm": "အက္ခရာ"
+    },
+    {
+      "headword_no": 282,
+      "id": "ch18-282-02",
+      "kanji": "活字",
+      "reading": "かつじ",
+      "meaning_en": "printing type",
+      "meaning_mm": "စာပိုက် / ပုံနှိပ်အက္ခရာ"
+    },
+    {
+      "headword_no": 282,
+      "id": "ch18-282-03",
+      "kanji": "習字",
+      "reading": "しゅうじ",
+      "meaning_en": "penmanship; calligraphy practice",
+      "meaning_mm": "လက်ရေးလေ့ကျင့်"
+    },
+    {
+      "headword_no": 283,
+      "id": "ch18-283-01",
+      "kanji": "文",
+      "reading": "ぶん",
+      "meaning_en": "sentence; text",
+      "meaning_mm": "စာပိုဒ် / စာသား"
+    },
+    {
+      "headword_no": 283,
+      "id": "ch18-283-02",
+      "kanji": "文学",
+      "reading": "ぶんがく",
+      "meaning_en": "literature",
+      "meaning_mm": "စာပေ"
+    },
+    {
+      "headword_no": 283,
+      "id": "ch18-283-03",
+      "kanji": "文字",
+      "reading": "もじ",
+      "meaning_en": "letter; character",
+      "meaning_mm": "စာလုံး"
+    },
+    {
+      "headword_no": 283,
+      "id": "ch18-283-04",
+      "kanji": "注文する",
+      "reading": "ちゅうもんする",
+      "meaning_en": "to order",
+      "meaning_mm": "မှာယူသည်"
+    },
+    {
+      "headword_no": 284,
+      "id": "ch18-284-01",
+      "kanji": "教える",
+      "reading": "おしえる",
+      "meaning_en": "to teach",
+      "meaning_mm": "သင်ပေးသည်"
+    },
+    {
+      "headword_no": 284,
+      "id": "ch18-284-02",
+      "kanji": "教室",
+      "reading": "きょうしつ",
+      "meaning_en": "classroom",
+      "meaning_mm": "စာသင်ခန်း"
+    },
+    {
+      "headword_no": 284,
+      "id": "ch18-284-03",
+      "kanji": "教科書",
+      "reading": "きょうかしょ",
+      "meaning_en": "textbook",
+      "meaning_mm": "သင်ရိုးစာအုပ်"
+    },
+    {
+      "headword_no": 284,
+      "id": "ch18-284-04",
+      "kanji": "教会",
+      "reading": "きょうかい",
+      "meaning_en": "church",
+      "meaning_mm": "ခရစ်ယာန်ဘုရားကျောင်း"
+    },
+    {
+      "headword_no": 285,
+      "id": "ch18-285-01",
+      "kanji": "勉強する",
+      "reading": "べんきょうする",
+      "meaning_en": "to study",
+      "meaning_mm": "လေ့လာသည်"
+    },
+    {
+      "headword_no": 286,
+      "id": "ch18-286-01",
+      "kanji": "習う",
+      "reading": "ならう",
+      "meaning_en": "to learn",
+      "meaning_mm": "သင်ယူသည်"
+    },
+    {
+      "headword_no": 286,
+      "id": "ch18-286-02",
+      "kanji": "練習",
+      "reading": "れんしゅう",
+      "meaning_en": "practice",
+      "meaning_mm": "လေ့ကျင့်"
+    },
+    {
+      "headword_no": 286,
+      "id": "ch18-286-03",
+      "kanji": "復習する",
+      "reading": "ふくしゅうする",
+      "meaning_en": "to review",
+      "meaning_mm": "ပြန်လည်လေ့လာသည်"
+    },
+    {
+      "headword_no": 286,
+      "id": "ch18-286-04",
+      "kanji": "習慣",
+      "reading": "しゅうかん",
+      "meaning_en": "habit; custom",
+      "meaning_mm": "အကျင့်"
+    },
+    {
+      "headword_no": 287,
+      "id": "ch18-287-01",
+      "kanji": "英語",
+      "reading": "えいご",
+      "meaning_en": "English (language)",
+      "meaning_mm": "အင်္ဂလိပ်စာ"
+    },
+    {
+      "headword_no": 287,
+      "id": "ch18-287-02",
+      "kanji": "英国",
+      "reading": "えいこく",
+      "meaning_en": "England; the UK",
+      "meaning_mm": "အင်္ဂလန် / ဗြိတိန်"
+    },
+    {
+      "headword_no": 287,
+      "id": "ch18-287-03",
+      "kanji": "英雄",
+      "reading": "えいゆう",
+      "meaning_en": "hero",
+      "meaning_mm": "သူရဲကောင်း"
+    },
+    {
+      "headword_no": 288,
+      "id": "ch18-288-01",
+      "kanji": "考える",
+      "reading": "かんがえる",
+      "meaning_en": "to think",
+      "meaning_mm": "စဉ်းစားသည်"
+    },
+    {
+      "headword_no": 288,
+      "id": "ch18-288-02",
+      "kanji": "考古学",
+      "reading": "こうこがく",
+      "meaning_en": "archaeology",
+      "meaning_mm": "ရှေးဟောင်းသုတေသန"
+    },
+    {
+      "headword_no": 288,
+      "id": "ch18-288-03",
+      "kanji": "参考書",
+      "reading": "さんこうしょ",
+      "meaning_en": "reference book",
+      "meaning_mm": "ကိုးကားစာအုပ်"
+    },
+    {
+      "headword_no": 289,
+      "id": "ch18-289-01",
+      "kanji": "研究する",
+      "reading": "けんきゅうする",
+      "meaning_en": "to do research",
+      "meaning_mm": "သုတေသနလုပ်သည်"
+    },
+    {
+      "headword_no": 290,
+      "id": "ch18-290-01",
+      "kanji": "研究者",
+      "reading": "けんきゅうしゃ",
+      "meaning_en": "researcher",
+      "meaning_mm": "သုတေသနသမား"
+    },
+    {
+      "headword_no": 290,
+      "id": "ch18-290-02",
+      "kanji": "研究室",
+      "reading": "けんきゅうしつ",
+      "meaning_en": "laboratory; research room",
+      "meaning_mm": "သုတေသနခန်း / ဓာတ်ခန်း"
+    }
+  ]
+}

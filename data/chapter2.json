@@ -1,0 +1,218 @@
+{
+  "chapter": 2,
+  "title": "形容詞1",
+  "source_headwords": {
+    "from": 121,
+    "to": 130
+  },
+  "cards": [
+    {
+      "headword_no": 121,
+      "id": "ch2-121-01",
+      "kanji": "明るい",
+      "reading": "あかるい",
+      "meaning_en": "bright; cheerful",
+      "meaning_mm": "တောက်ပသော / ပျော်ရွှင်သည့်"
+    },
+    {
+      "headword_no": 121,
+      "id": "ch2-121-02",
+      "kanji": "明日",
+      "reading": "あした",
+      "meaning_en": "tomorrow",
+      "meaning_mm": "မနက်ဖြန်"
+    },
+    {
+      "headword_no": 121,
+      "id": "ch2-121-03",
+      "kanji": "説明",
+      "reading": "せつめい",
+      "meaning_en": "explanation",
+      "meaning_mm": "ရှင်းပြချက်"
+    },
+    {
+      "headword_no": 121,
+      "id": "ch2-121-04",
+      "kanji": "発明",
+      "reading": "はつめい",
+      "meaning_en": "invention",
+      "meaning_mm": "တီထွင်မှု"
+    },
+    {
+      "headword_no": 122,
+      "id": "ch2-122-01",
+      "kanji": "暗い",
+      "reading": "くらい",
+      "meaning_en": "dark",
+      "meaning_mm": "မှောင်သော"
+    },
+    {
+      "headword_no": 122,
+      "id": "ch2-122-02",
+      "kanji": "暗号",
+      "reading": "あんごう",
+      "meaning_en": "secret code",
+      "meaning_mm": "လျှို့ဝှက်ကုဒ်"
+    },
+    {
+      "headword_no": 123,
+      "id": "ch2-123-01",
+      "kanji": "遠い",
+      "reading": "とおい",
+      "meaning_en": "far",
+      "meaning_mm": "ဝေးသော"
+    },
+    {
+      "headword_no": 123,
+      "id": "ch2-123-02",
+      "kanji": "遠足",
+      "reading": "えんそく",
+      "meaning_en": "excursion",
+      "meaning_mm": "ခရီးထွက်လည်ပတ်မှု"
+    },
+    {
+      "headword_no": 124,
+      "id": "ch2-124-01",
+      "kanji": "近い",
+      "reading": "ちかい",
+      "meaning_en": "near",
+      "meaning_mm": "နီးသော"
+    },
+    {
+      "headword_no": 124,
+      "id": "ch2-124-02",
+      "kanji": "近所",
+      "reading": "きんじょ",
+      "meaning_en": "neighborhood",
+      "meaning_mm": "အနီးအနားပတ်ဝန်းကျင်"
+    },
+    {
+      "headword_no": 124,
+      "id": "ch2-124-03",
+      "kanji": "最近",
+      "reading": "さいきん",
+      "meaning_en": "recently",
+      "meaning_mm": "မကြာသေးခင်က"
+    },
+    {
+      "headword_no": 125,
+      "id": "ch2-125-01",
+      "kanji": "強い",
+      "reading": "つよい",
+      "meaning_en": "strong",
+      "meaning_mm": "ခိုင်မာသော"
+    },
+    {
+      "headword_no": 125,
+      "id": "ch2-125-02",
+      "kanji": "勉強する",
+      "reading": "べんきょうする",
+      "meaning_en": "to study",
+      "meaning_mm": "စာလေ့လာသည်"
+    },
+    {
+      "headword_no": 125,
+      "id": "ch2-125-03",
+      "kanji": "強風",
+      "reading": "きょうふう",
+      "meaning_en": "strong wind",
+      "meaning_mm": "လေပြင်း"
+    },
+    {
+      "headword_no": 126,
+      "id": "ch2-126-01",
+      "kanji": "弱い",
+      "reading": "よわい",
+      "meaning_en": "weak",
+      "meaning_mm": "အားနည်းသော"
+    },
+    {
+      "headword_no": 126,
+      "id": "ch2-126-02",
+      "kanji": "強弱",
+      "reading": "きょうじゃく",
+      "meaning_en": "strong and weak",
+      "meaning_mm": "အားပြင်းအားနည်း"
+    },
+    {
+      "headword_no": 127,
+      "id": "ch2-127-01",
+      "kanji": "重い",
+      "reading": "おもい",
+      "meaning_en": "heavy",
+      "meaning_mm": "လေးသော"
+    },
+    {
+      "headword_no": 127,
+      "id": "ch2-127-02",
+      "kanji": "重大な",
+      "reading": "じゅうだいな",
+      "meaning_en": "important; serious",
+      "meaning_mm": "အရေးကြီးသော / ပြင်းထန်သော"
+    },
+    {
+      "headword_no": 127,
+      "id": "ch2-127-03",
+      "kanji": "体重",
+      "reading": "たいじゅう",
+      "meaning_en": "body weight",
+      "meaning_mm": "ကိုယ်အလေးချိန်"
+    },
+    {
+      "headword_no": 128,
+      "id": "ch2-128-01",
+      "kanji": "軽い",
+      "reading": "かるい",
+      "meaning_en": "light",
+      "meaning_mm": "ပေါ့သော"
+    },
+    {
+      "headword_no": 128,
+      "id": "ch2-128-02",
+      "kanji": "軽食",
+      "reading": "けいしょく",
+      "meaning_en": "snack",
+      "meaning_mm": "အပေါ့စားအစားအစာ"
+    },
+    {
+      "headword_no": 129,
+      "id": "ch2-129-01",
+      "kanji": "太い",
+      "reading": "ふとい",
+      "meaning_en": "fat; thick",
+      "meaning_mm": "ထူသော / ဝသော"
+    },
+    {
+      "headword_no": 129,
+      "id": "ch2-129-02",
+      "kanji": "太陽",
+      "reading": "たいよう",
+      "meaning_en": "sun",
+      "meaning_mm": "နေ"
+    },
+    {
+      "headword_no": 130,
+      "id": "ch2-130-01",
+      "kanji": "細い",
+      "reading": "ほそい",
+      "meaning_en": "slender; thin",
+      "meaning_mm": "ပါးသော / သေးသွယ်သော"
+    },
+    {
+      "headword_no": 130,
+      "id": "ch2-130-02",
+      "kanji": "細かい",
+      "reading": "こまかい",
+      "meaning_en": "fine; detailed",
+      "meaning_mm": "အသေးစိတ်သော"
+    },
+    {
+      "headword_no": 130,
+      "id": "ch2-130-03",
+      "kanji": "細工",
+      "reading": "さいく",
+      "meaning_en": "craftsmanship",
+      "meaning_mm": "လက်မှုအနုပညာ"
+    }
+  ]
+}
