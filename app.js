@@ -141,20 +141,20 @@ async function loadChapterData() {
     if (lessonListsByLevel.N4.length > 1) {
         const mergedN4 = lessonListsByLevel.N4.flatMap((item) => [...(chapterData[item.key] || [])]);
         chapterData[ALL_N4_KEY] = mergedN4;
-        lessonListsByLevel.N4.push({
+        lessonListsByLevel.N4.unshift({
             key: ALL_N4_KEY,
             text: "All lessons — full review",
-            chapterNo: 999
+            chapterNo: 0
         });
     }
 
     if (lessonListsByLevel.N5.length > 1) {
         const mergedN5 = lessonListsByLevel.N5.flatMap((item) => [...(chapterData[item.key] || [])]);
         chapterData[ALL_N5_KEY] = mergedN5;
-        lessonListsByLevel.N5.push({
+        lessonListsByLevel.N5.unshift({
             key: ALL_N5_KEY,
             text: "All lessons — full review",
-            chapterNo: 999
+            chapterNo: 0
         });
     }
 
@@ -210,6 +210,16 @@ function populateLessonSelect(level) {
     lessonSelect.disabled = list.length === 0;
 }
 
+/** Full-review is listed first for visibility; default selection is first real lesson (index 1) when present. */
+function selectDefaultLessonIndex(level) {
+    if (lessonSelect.options.length === 0) return;
+    const firstVal = lessonSelect.options[0].value;
+    const mergedFirst =
+        lessonSelect.options.length > 1 &&
+        ((level === "N4" && firstVal === ALL_N4_KEY) || (level === "N5" && firstVal === ALL_N5_KEY));
+    lessonSelect.selectedIndex = mergedFirst ? 1 : 0;
+}
+
 function applyCurrentLesson() {
     currentChapter = lessonSelect.value || "";
     cards = [...(chapterData[currentChapter] || [])];
@@ -234,9 +244,7 @@ function syncSelectorsToData() {
         currentLevel = levelSelect.value;
     }
     populateLessonSelect(currentLevel);
-    if (lessonSelect.options.length > 0) {
-        lessonSelect.selectedIndex = 0;
-    }
+    selectDefaultLessonIndex(currentLevel);
     applyCurrentLesson();
 }
 
@@ -350,9 +358,7 @@ function setupEventListeners() {
     levelSelect.addEventListener("change", (e) => {
         currentLevel = e.target.value;
         populateLessonSelect(currentLevel);
-        if (lessonSelect.options.length > 0) {
-            lessonSelect.selectedIndex = 0;
-        }
+        selectDefaultLessonIndex(currentLevel);
         applyCurrentLesson();
     });
     lessonSelect.addEventListener("change", () => {
